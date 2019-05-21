@@ -7,20 +7,19 @@ A curated list of awesome job boards.
 - [Data Science & Machine Learning](#data-science-&-machine-learning)
 - [Blockchain](#blockchain)
 - [Design](#design)
-- [DevOps](#devops)
-- [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
 - [Programming](#programming)
 - [Remote](#remote)
 - [Other](#other)
 
-##  Data Science & Machine Learning
+## Data Science & Machine Learning
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Elixir](https://jobs.dataelixir.com/)
 * [ML Jobs List](https://mljobslist.com/jobs/)
 * [AI Jobs](https://ai-jobs.net/)
-* [Remote ML](https://remoteml.com/)
+* [Machine learning jobs](https://jobhunt.ai/)
+
 
 ## Blockchain
 
@@ -28,6 +27,7 @@ A curated list of awesome job boards.
 * [Crypto Jobs List](https://cryptojobslist.com/)
 * [CryptoJobs](https://crypto.jobs/)
 * [Blockew](https://blockew.com/)
+* [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 
 
 ## Design
@@ -42,13 +42,6 @@ A curated list of awesome job boards.
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 
-## DevOps
-
-* [Jobs For DevOps](https://jobsfordevops.com)
-
-## Growth Hacking
-
-* [GrowthHackers](https://growthhackers.com/jobs)
 
 ## InfoSec
 
@@ -69,6 +62,7 @@ A curated list of awesome job boards.
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
+* [React Jobs](https://www.react-jobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Drupal Jobs](https://jobs.drupal.org/)
@@ -87,17 +81,20 @@ A curated list of awesome job boards.
 
 * [Jobspresso](https://jobspresso.co/remote-work/)
 * [We Work Remotely](https://weworkremotely.com/)
+* [Workaline](https://workaline.com/)
 * [Remotive](https://remotive.io/)
 * [Remote](https://remote.com/)
 * [remote | OK](https://remoteok.io/)
+* [JustRemote](https://justremote.co/)
 * [SkipTheDrive](https://www.skipthedrive.com/)
 * [remote.co](https://remote.co/remote-jobs/)
 * [remote4me.com](https://remote4me.com/)
 * [Working Nomads](https://www.workingnomads.co/jobs)
 * [EuropeRemotely](https://europeremotely.com/)
+* [AwesomeJobs](https://www.awesomejobs.io/)
 * [Remote Python](https://www.remotepython.com/)
 * [Remote ML](https://remoteml.com/)
-* [AwesomeJobs](https://www.awesomejobs.io/)
+* [JS Remotely](https://jsremotely.com/)
 
 
 ## Other
@@ -120,6 +117,7 @@ A curated list of awesome job boards.
 * [ZipRecruiter](https://www.ziprecruiter.com/)
 * [Idealist](https://www.idealist.org/)
 * [Aquent](https://aquent.com/find-work/)
+* [HackerX](https://hackerx.org/jobs/)
 
 ### Startups
 
@@ -152,3 +150,11 @@ A curated list of awesome job boards.
 ### Free & Open Source
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
+
+### DevOps
+
+* [Jobs For DevOps](https://jobsfordevops.com)
+
+### Growth Hacking
+
+* [GrowthHackers](https://growthhackers.com/jobs)
