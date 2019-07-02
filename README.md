@@ -4,7 +4,8 @@ A curated list of awesome job boards.
 
 ## Table of Contents
 
-- [Data Science & Machine Learning](#data-science-&-machine-learning)
+- [General](#general)
+- [Data Science](#data-science)
 - [Blockchain](#blockchain)
 - [Design](#design)
 - [InfoSec](#infosec)
@@ -12,13 +13,20 @@ A curated list of awesome job boards.
 - [Remote](#remote)
 - [Other](#other)
 
-## Data Science & Machine Learning
+## General
+
+* [LinkedIn](https://www.linkedin.com/)
+* [Indeed](https://www.indeed.com/)
+* [Glassdoor](https://www.glassdoor.com/)
+
+## Data Science
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Elixir](https://jobs.dataelixir.com/)
 * [ML Jobs List](https://mljobslist.com/jobs/)
 * [AI Jobs](https://ai-jobs.net/)
 * [Machine learning jobs](https://jobhunt.ai/)
+* [Kaggle jobs](https://www.kaggle.com/jobs)
 
 
 ## Blockchain
@@ -41,6 +49,7 @@ A curated list of awesome job boards.
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
+* [Designer Jobs](https://designerjobs.co/jobs)
 
 
 ## InfoSec
@@ -51,6 +60,7 @@ A curated list of awesome job boards.
 
 ## Programming
 
+* [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Jobs](https://elixir.career/)
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
 * [Full-Stack Developer Jobs](https://fullstackjob.com/)
@@ -70,6 +80,8 @@ A curated list of awesome job boards.
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/)
 * [Python Job Board](https://www.python.org/jobs/)
+* [Pycoder's Jobs](https://www.pythonjobshq.com/)
+* [django gigs](https://djangogigs.com/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [RubyNow](https://jobs.rubynow.com/)
 * [Ruby on Rails Jobs](https://www.rorjobs.com/)
@@ -95,6 +107,11 @@ A curated list of awesome job boards.
 * [Remote Python](https://www.remotepython.com/)
 * [Remote ML](https://remoteml.com/)
 * [JS Remotely](https://jsremotely.com/)
+* [Remote Arena](https://remotearena.com/)
+* [letsworkremotely](https://www.letsworkremotely.com/remote-jobs/)
+* [Workew](https://workew.com/remote-jobs/)
+* [wellpaid.io](https://wellpaid.io/)
+* [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 
 
 ## Other
@@ -118,6 +135,15 @@ A curated list of awesome job boards.
 * [Idealist](https://www.idealist.org/)
 * [Aquent](https://aquent.com/find-work/)
 * [HackerX](https://hackerx.org/jobs/)
+* [findwork.dev](https://findwork.dev/)
+* [Livecareer](https://jobs.livecareer.com/)
+* [The Muse](https://www.themuse.com/jobs)
+* [LinkUp](https://linkup.com/)
+* [Authentic Jobs](https://authenticjobs.com/)
+* [designmodo](https://designmodo.com/jobs/)
+* [DevSnap](https://devsnap.io/)
+* [Joblist.app](https://joblist.app/)
+* [FlexJobs](https://www.flexjobs.com/)
 
 ### Startups
 
@@ -146,6 +172,10 @@ A curated list of awesome job boards.
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/)
+
+### Asia
+
+* [Tech Jobs Asia](https://www.techjobsasia.com/)
 
 ### Free & Open Source
 
