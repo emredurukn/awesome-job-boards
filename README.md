@@ -11,13 +11,16 @@ A curated list of awesome job boards.
 - [InfoSec](#infosec)
 - [Programming](#programming)
 - [Remote](#remote)
+- [Freelancer](#freelancer)
 - [Other](#other)
+
 
 ## General
 
 * [LinkedIn](https://www.linkedin.com/)
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
+
 
 ## Data Science
 
@@ -45,7 +48,7 @@ A curated list of awesome job boards.
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](http://ixda.org/jobs/)
-* [Jobs for Designers](https://dribbble.com/jobs)
+* [Dribble](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
@@ -112,6 +115,22 @@ A curated list of awesome job boards.
 * [Workew](https://workew.com/remote-jobs/)
 * [wellpaid.io](https://wellpaid.io/)
 * [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
+* [FlexJobs](https://www.flexjobs.com/)
+
+
+## Freelancer
+
+* [Upwork](https://www.upwork.com)
+* [Toptal](https://www.toptal.com/)
+* [Freelancer](https://www.freelancer.com)
+* [Guru](https://www.guru.com/)
+* [People Per Hour](https://www.peopleperhour.com)
+* [Fiverr](https://www.fiverr.com/)
+* [Hubstaff](https://talent.hubstaff.com/)
+* [Outsource](https://outsource.com)
+* [GigGrabbers](https://www.giggrabbers.com)
+* [CloudPeeps](https://www.cloudpeeps.com)
+* [Local Solo](https://localsolo.com/)
 
 
 ## Other
@@ -143,7 +162,18 @@ A curated list of awesome job boards.
 * [designmodo](https://designmodo.com/jobs/)
 * [DevSnap](https://devsnap.io/)
 * [Joblist.app](https://joblist.app/)
-* [FlexJobs](https://www.flexjobs.com/)
+* [Jobs2Careers](https://www.jobs2careers.com/)
+* [JobisJob](https://www.jobisjob.com/)
+* [Joblift](https://joblift.com/)
+* [Adzuna](https://www.adzuna.com/)
+
+
+### Entry Level
+
+* [Entry Level Jobs](https://www.entryleveljobs.me/)
+* [College Recruiter](https://www.collegerecruiter.com/)
+* [Internships](https://www.internships.com/)
+
 
 ### Startups
 
@@ -172,6 +202,7 @@ A curated list of awesome job boards.
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/)
+* [US Jobs](https://us.jobs/)
 
 ### Asia
 
