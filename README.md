@@ -14,13 +14,11 @@ A curated list of awesome job boards.
 - [Freelancer](#freelancer)
 - [Other](#other)
 
-
 ## General
 
 * [LinkedIn](https://www.linkedin.com/)
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
-
 
 ## Data Science
 
@@ -30,7 +28,8 @@ A curated list of awesome job boards.
 * [AI Jobs](https://ai-jobs.net/)
 * [Machine learning jobs](https://jobhunt.ai/)
 * [Kaggle jobs](https://www.kaggle.com/jobs)
-
+* [icrunchdata](https://icrunchdata.com/)
+* [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 
 ## Blockchain
 
@@ -39,7 +38,6 @@ A curated list of awesome job boards.
 * [CryptoJobs](https://crypto.jobs/)
 * [Blockew](https://blockew.com/)
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
-
 
 ## Design
 
@@ -54,12 +52,10 @@ A curated list of awesome job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Designer Jobs](https://designerjobs.co/jobs)
 
-
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/)
 * [infosec-jobs](https://infosec-jobs.com/)
-
 
 ## Programming
 
@@ -91,7 +87,6 @@ A curated list of awesome job boards.
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
 
-
 ## Remote
 
 * [Jobspresso](https://jobspresso.co/remote-work/)
@@ -117,7 +112,6 @@ A curated list of awesome job boards.
 * [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 * [FlexJobs](https://www.flexjobs.com/)
 
-
 ## Freelancer
 
 * [Upwork](https://www.upwork.com)
@@ -132,7 +126,6 @@ A curated list of awesome job boards.
 * [CloudPeeps](https://www.cloudpeeps.com)
 * [Local Solo](https://localsolo.com/)
 
-
 ## Other
 
 * [Monster](https://www.monster.com/)
@@ -140,6 +133,7 @@ A curated list of awesome job boards.
 * [Amazon Jobs](https://www.amazon.jobs/en)
 * [HackerNews Jobs](https://news.ycombinator.com/jobs)
 * [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+* [Crunchboard](https://www.crunchboard.com/)
 * [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 * [Jobbatical](https://jobbatical.com/jobs)
 * [PowerToFly (Women)](https://powertofly.com/jobs/)
@@ -166,14 +160,13 @@ A curated list of awesome job boards.
 * [JobisJob](https://www.jobisjob.com/)
 * [Joblift](https://joblift.com/)
 * [Adzuna](https://www.adzuna.com/)
-
+* [TechMeAbroad](https://techmeabroad.com/)
 
 ### Entry Level
 
 * [Entry Level Jobs](https://www.entryleveljobs.me/)
 * [College Recruiter](https://www.collegerecruiter.com/)
 * [Internships](https://www.internships.com/)
-
 
 ### Startups
 
