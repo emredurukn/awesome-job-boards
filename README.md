@@ -19,6 +19,7 @@ A curated list of awesome job boards.
 * [LinkedIn](https://www.linkedin.com/)
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
+* [Angel List](https://angel.co)
 
 ## Data Science
 
@@ -75,7 +76,7 @@ A curated list of awesome job boards.
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Drupal Jobs](https://jobs.drupal.org/)
-* [jobs.wordpress.net](https://jobs.wordpress.net/)
+* [WordPress Jobs](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/)
 * [Python Job Board](https://www.python.org/jobs/)
@@ -161,12 +162,15 @@ A curated list of awesome job boards.
 * [Joblift](https://joblift.com/)
 * [Adzuna](https://www.adzuna.com/)
 * [TechMeAbroad](https://techmeabroad.com/)
+* [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
+* [Find Bacon](https://findbacon.com/)
 
 ### Entry Level
 
 * [Entry Level Jobs](https://www.entryleveljobs.me/)
 * [College Recruiter](https://www.collegerecruiter.com/)
 * [Internships](https://www.internships.com/)
+* [Jr.DevJobs](https://www.jrdevjobs.com/)
 
 ### Startups
 
@@ -204,6 +208,7 @@ A curated list of awesome job boards.
 ### Free & Open Source
 
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [Open Source Jobs](https://oo.t9t.io/jobs)
 
 ### DevOps
 
