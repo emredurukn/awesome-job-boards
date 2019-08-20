@@ -164,6 +164,9 @@ A curated list of awesome job boards.
 * [TechMeAbroad](https://techmeabroad.com/)
 * [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 * [Find Bacon](https://findbacon.com/)
+* [Codersrank](https://codersrank.io/find-a-job/)
+* [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
+* [Jora](https://www.jora.com/)
 
 ### Entry Level
 
@@ -195,6 +198,7 @@ A curated list of awesome job boards.
 * [Work in Estonia](https://www.workinestonia.com/latest-offers/)
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
+* [Careers in Poland](https://www.careersinpoland.com/)
 
 ### United States
 
