@@ -112,6 +112,8 @@ A curated list of awesome job boards.
 * [wellpaid.io](https://wellpaid.io/)
 * [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 * [FlexJobs](https://www.flexjobs.com/)
+* [RMTWRK](https://rmtwrk.com/)
+* [remotify](https://remotify.me/)
 
 ## Freelancer
 
