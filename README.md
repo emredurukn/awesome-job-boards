@@ -202,6 +202,7 @@ A curated list of awesome job boards.
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
 * [Careers in Poland](https://www.careersinpoland.com/)
+* [SwissDev Jobs](https://swissdevjobs.ch/)
 
 ### United States
 
