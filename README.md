@@ -31,6 +31,7 @@ A curated list of awesome job boards.
 * [Kaggle jobs](https://www.kaggle.com/jobs)
 * [icrunchdata](https://icrunchdata.com/)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
+* [Big Cloud](https://bigcloud.io/jobs/)
 
 ## Blockchain
 
@@ -177,6 +178,8 @@ A curated list of awesome job boards.
 * [PRODUCTHIRE.NET](https://producthire.net/)
 * [Sports tech jobs](https://sportekjobs.com)
 * [#epicjobs](https://epicjobs.co/)
+* [Able](https://able.bio/jobs)
+* [StackShare](https://stackshare.io/match)
 
 ### Entry Level
 
