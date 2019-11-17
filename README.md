@@ -116,6 +116,7 @@ A curated list of awesome job boards.
 * [FlexJobs](https://www.flexjobs.com/)
 * [RMTWRK](https://rmtwrk.com/)
 * [remotify](https://remotify.me/)
+* [Remoters](https://remoters.net/jobs/)
 
 ## Freelancer
 
@@ -180,6 +181,8 @@ A curated list of awesome job boards.
 * [#epicjobs](https://epicjobs.co/)
 * [Able](https://able.bio/jobs)
 * [StackShare](https://stackshare.io/match)
+* [Neuvoo](https://neuvoo.com/)
+* [Top Language Jobs](https://www.toplanguagejobs.com/)
 
 ### Entry Level
 
@@ -214,6 +217,11 @@ A curated list of awesome job boards.
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
 * [Careers in Poland](https://www.careersinpoland.com/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+
+### Turkey
+
+* [Kodilan](https://kodilan.com/)
+* [Randstad Türkiye](https://www.randstad.com.tr/jobs/)
 
 ### United States
 
