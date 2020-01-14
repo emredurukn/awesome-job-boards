@@ -53,6 +53,7 @@ A curated list of awesome job boards.
 * [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Designer Jobs](https://designerjobs.co/jobs)
+* [designmodo](https://designmodo.com/jobs/)
 
 ## InfoSec
 
@@ -159,7 +160,6 @@ A curated list of awesome job boards.
 * [The Muse](https://www.themuse.com/jobs)
 * [LinkUp](https://linkup.com/)
 * [Authentic Jobs](https://authenticjobs.com/)
-* [designmodo](https://designmodo.com/jobs/)
 * [DevSnap](https://devsnap.io/)
 * [Joblist.app](https://joblist.app/)
 * [Jobs2Careers](https://www.jobs2careers.com/)
@@ -183,6 +183,9 @@ A curated list of awesome job boards.
 * [StackShare](https://stackshare.io/match)
 * [Neuvoo](https://neuvoo.com/)
 * [Top Language Jobs](https://www.toplanguagejobs.com/)
+* [Vanhack](https://vanhack.com/platform/#/jobs)
+* [CalmJobs](http://calmjobs.io/jobs)
+* [PeopleFirstJobs](https://peoplefirstjobs.com/)
 
 ### Entry Level
 
