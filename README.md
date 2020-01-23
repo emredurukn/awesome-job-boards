@@ -186,6 +186,10 @@ A curated list of awesome job boards.
 * [Vanhack](https://vanhack.com/platform/#/jobs)
 * [CalmJobs](http://calmjobs.io/jobs)
 * [PeopleFirstJobs](https://peoplefirstjobs.com/)
+* [Naukri](https://www.naukri.com/)
+* [Digital Oxford Jobs](https://jobs.digitaloxford.com/)
+* [CSS-Tricks Jobs](https://css-tricks.com/jobs/)
+* [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
 
 ### Entry Level
 
@@ -198,6 +202,8 @@ A curated list of awesome job boards.
 
 * [Startup Jobs](https://startup.jobs/)
 * [StartUpers](https://www.startupers.com/)
+* [WorkinStartups](https://workinstartups.com/)
+* [The Hub](https://thehub.io/)
 
 ### Australia
 
@@ -220,6 +226,9 @@ A curated list of awesome job boards.
 * [CWJobs.co.uk](https://www.cwjobs.co.uk/)
 * [Careers in Poland](https://www.careersinpoland.com/)
 * [SwissDev Jobs](https://swissdevjobs.ch/)
+* [No Fluff Jobs](https://nofluffjobs.com/)
+* [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
+* [Jobindex](https://www.jobindex.dk/)
 
 ### Turkey
 
