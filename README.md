@@ -118,6 +118,8 @@ A curated list of awesome job boards.
 * [RMTWRK](https://rmtwrk.com/)
 * [remotify](https://remotify.me/)
 * [Remoters](https://remoters.net/jobs/)
+* [Jobmote](https://jobmote.com/)
+* [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 
 ## Freelancer
 
@@ -210,6 +212,7 @@ A curated list of awesome job boards.
 * [austechjobs.com.au](https://austechjobs.com.au/)
 * [SEEK](https://www.seek.com.au/)
 * [CareerOne](https://www.careerone.com.au/)
+* [Jobaroo](https://www.jobaroo.com/)
 
 ### Canada
 
@@ -229,6 +232,9 @@ A curated list of awesome job boards.
 * [No Fluff Jobs](https://nofluffjobs.com/)
 * [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
 * [Jobindex](https://www.jobindex.dk/)
+* [Jobsuche](https://www.jobsintown.de/jobsuche/)
+* [It Job Bank](https://www.it-jobbank.dk/)
+* [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
 
 ### Turkey
 
