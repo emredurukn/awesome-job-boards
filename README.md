@@ -120,6 +120,8 @@ A curated list of awesome job boards.
 * [Remoters](https://remoters.net/jobs/)
 * [Jobmote](https://jobmote.com/)
 * [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
+* [DailyRemote](https://dailyremote.com/)
+* [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
 
 ## Freelancer
 
@@ -145,7 +147,7 @@ A curated list of awesome job boards.
 * [Crunchboard](https://www.crunchboard.com/)
 * [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 * [Jobbatical](https://jobbatical.com/jobs)
-* [PowerToFly (Women)](https://powertofly.com/jobs/)
+* [PowerToFly](https://powertofly.com/jobs/) (Women)
 * [whoishiring.io](https://whoishiring.io/)
 * [SimplyHired](https://www.simplyhired.com/)
 * [CareerBuilder](https://www.careerbuilder.com/browse)
@@ -192,6 +194,8 @@ A curated list of awesome job boards.
 * [Digital Oxford Jobs](https://jobs.digitaloxford.com/)
 * [CSS-Tricks Jobs](https://css-tricks.com/jobs/)
 * [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
+* [Totaljobs](https://www.totaljobs.com/)
+* [XING](https://www.xing.com/jobs)
 
 ### Entry Level
 
@@ -209,7 +213,7 @@ A curated list of awesome job boards.
 
 ### Australia
 
-* [austechjobs.com.au](https://austechjobs.com.au/)
+* [austechjobs](https://austechjobs.com.au/)
 * [SEEK](https://www.seek.com.au/)
 * [CareerOne](https://www.careerone.com.au/)
 * [Jobaroo](https://www.jobaroo.com/)
@@ -221,20 +225,39 @@ A curated list of awesome job boards.
 
 ### Europe
 
+#### United Kingdom
+
+* [Jobsite](https://www.jobsite.co.uk/)
+* [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
+* [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
+* [CWJobs](https://www.cwjobs.co.uk/)
+* [reed](https://www.reed.co.uk/)
+
+#### Germany
+
+* [Jobsuche](https://www.jobsintown.de/jobsuche/)
+* [StepStone](https://www.stepstone.de/en)
+* [jobvector](https://www.jobvector.de/en/)
+* [Jobware](https://www.jobware.de/)
+* [Stellenanzeigen](https://www.stellenanzeigen.de/)
+* [JobScout24](https://www.jobs.de/)
+* [StellenOnline](https://www.stellenonline.de/)
+
+#### Denmark
+
+* [Jobindex](https://www.jobindex.dk/)
+* [It Job Bank](https://www.it-jobbank.dk/)
+
+#### Europe - Other
+
 * [Landing.jobs](https://landing.jobs/)
-* [careerin.tech](https://careerin.tech)
-* [reed.co.uk](https://www.reed.co.uk/)
 * [Work in Estonia](https://www.workinestonia.com/latest-offers/)
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
-* [CWJobs.co.uk](https://www.cwjobs.co.uk/)
 * [Careers in Poland](https://www.careersinpoland.com/)
-* [SwissDev Jobs](https://swissdevjobs.ch/)
-* [No Fluff Jobs](https://nofluffjobs.com/)
-* [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
-* [Jobindex](https://www.jobindex.dk/)
-* [Jobsuche](https://www.jobsintown.de/jobsuche/)
-* [It Job Bank](https://www.it-jobbank.dk/)
-* [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
+* [SwissDev Jobs](https://swissdevjobs.ch/) (Switzerland)
+* [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
+* [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
+* [NIJOBS](https://www.nijobs.com/) (Ireland)
 
 ### Turkey
 
