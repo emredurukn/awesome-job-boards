@@ -203,6 +203,8 @@ A curated list of awesome job boards.
 * [College Recruiter](https://www.collegerecruiter.com/)
 * [Internships](https://www.internships.com/)
 * [Jr.DevJobs](https://www.jrdevjobs.com/)
+* [Graduateland](https://graduateland.com/jobs)
+* [TalentEgg](https://talentegg.ca/)
 
 ### Startups
 
@@ -222,6 +224,11 @@ A curated list of awesome job boards.
 
 * [Work in Tech](https://www.workintech.ca/)
 * [Toronto Startup Jobs](https://to9to5.com/)
+* [Robert Half](https://www.roberthalf.ca/en/jobs)
+* [Jobboom](https://www.jobboom.com/en/job/)
+* [Jobillico](https://www.jobillico.com/search-jobs)
+* [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
+* [Eluta](https://www.eluta.ca/)
 
 ### Europe
 
@@ -243,6 +250,11 @@ A curated list of awesome job boards.
 * [JobScout24](https://www.jobs.de/)
 * [StellenOnline](https://www.stellenonline.de/)
 
+#### Netherlands
+
+* [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
+* [HOITALENT](https://hoitalent.com/position/)
+
 #### Denmark
 
 * [Jobindex](https://www.jobindex.dk/)
@@ -263,6 +275,8 @@ A curated list of awesome job boards.
 
 * [Kodilan](https://kodilan.com/)
 * [Randstad Türkiye](https://www.randstad.com.tr/jobs/)
+* [Startup Jobs İstanbul](https://startupjobs.istanbul/)
+* [Toptalent](https://toptalent.co/is-ilanlari/)
 
 ### United States
 
