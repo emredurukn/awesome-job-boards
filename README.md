@@ -196,6 +196,9 @@ A curated list of awesome job boards.
 * [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
 * [Totaljobs](https://www.totaljobs.com/)
 * [XING](https://www.xing.com/jobs)
+* [Codepen Jobs](https://codepen.io/jobs/)
+* [The Guardian Jobs](https://jobs.theguardian.com/jobs/)
+* [Jobs in Network](https://www.jobsinnetwork.com/)
 
 ### Entry Level
 
@@ -205,6 +208,7 @@ A curated list of awesome job boards.
 * [Jr.DevJobs](https://www.jrdevjobs.com/)
 * [Graduateland](https://graduateland.com/jobs)
 * [TalentEgg](https://talentegg.ca/)
+* [entrylevel.io](https://entrylevel.io/)
 
 ### Startups
 
@@ -254,6 +258,7 @@ A curated list of awesome job boards.
 
 * [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
 * [HOITALENT](https://hoitalent.com/position/)
+* [Together Abroad](https://www.togetherabroad.nl/jobs.html)
 
 #### Denmark
 
@@ -265,6 +270,7 @@ A curated list of awesome job boards.
 * [Landing.jobs](https://landing.jobs/)
 * [Work in Estonia](https://www.workinestonia.com/latest-offers/)
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
+* [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 * [Careers in Poland](https://www.careersinpoland.com/)
 * [SwissDev Jobs](https://swissdevjobs.ch/) (Switzerland)
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
@@ -282,6 +288,7 @@ A curated list of awesome job boards.
 
 * [DallasJobs](https://www.dallasjobs.io/)
 * [US Jobs](https://us.jobs/)
+* [Careerjet](https://www.careerjet.com/)
 
 ### Asia
 
