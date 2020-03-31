@@ -150,7 +150,7 @@ A curated list of awesome job boards.
 * [PowerToFly](https://powertofly.com/jobs/) (Women)
 * [whoishiring.io](https://whoishiring.io/)
 * [SimplyHired](https://www.simplyhired.com/)
-* [CareerBuilder](https://www.careerbuilder.com/browse)
+* [CareerBuilder](https://www.careerbuilder.com)
 * [CareerCast](https://www.careercast.com/jobs/search/)
 * [Dice](https://www.dice.com/)
 * [Techstars](https://jobs.techstars.com/)
@@ -199,6 +199,11 @@ A curated list of awesome job boards.
 * [Codepen Jobs](https://codepen.io/jobs/)
 * [The Guardian Jobs](https://jobs.theguardian.com/jobs/)
 * [Jobs in Network](https://www.jobsinnetwork.com/)
+* [snagajob](https://www.snagajob.com/)
+* [Robert Half](https://www.roberthalf.com/jobs)
+* [HigherEdJobs](https://www.higheredjobs.com/)
+* [Mediabistro](https://www.mediabistro.com/)
+* [Joblist](https://www.joblist.com/)
 
 ### Entry Level
 
@@ -228,7 +233,6 @@ A curated list of awesome job boards.
 
 * [Work in Tech](https://www.workintech.ca/)
 * [Toronto Startup Jobs](https://to9to5.com/)
-* [Robert Half](https://www.roberthalf.ca/en/jobs)
 * [Jobboom](https://www.jobboom.com/en/job/)
 * [Jobillico](https://www.jobillico.com/search-jobs)
 * [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
