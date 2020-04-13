@@ -75,6 +75,7 @@ A curated list of awesome job boards.
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)
+* [Made with Vue.js Jobs](https://madewithvuejs.com/jobs)
 * [React Jobs](https://www.react-jobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
@@ -247,6 +248,7 @@ A curated list of awesome job boards.
 * [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
 * [CWJobs](https://www.cwjobs.co.uk/)
 * [reed](https://www.reed.co.uk/)
+* [CV-Library](https://www.cv-library.co.uk/)
 
 #### Germany
 
@@ -293,6 +295,7 @@ A curated list of awesome job boards.
 * [DallasJobs](https://www.dallasjobs.io/)
 * [US Jobs](https://us.jobs/)
 * [Careerjet](https://www.careerjet.com/)
+* [Nexxt](https://www.nexxt.com/)
 
 ### Asia
 
