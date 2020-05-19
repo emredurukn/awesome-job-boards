@@ -98,7 +98,7 @@ A curated list of awesome job boards.
 * [We Work Remotely](https://weworkremotely.com/)
 * [Workaline](https://workaline.com/)
 * [Remotive](https://remotive.io/)
-* [Remote](https://remote.com/)
+* [Remote](https://remote.com/remote-jobs)
 * [remote | OK](https://remoteok.io/)
 * [JustRemote](https://justremote.co/)
 * [SkipTheDrive](https://www.skipthedrive.com/)
@@ -205,6 +205,8 @@ A curated list of awesome job boards.
 * [HigherEdJobs](https://www.higheredjobs.com/)
 * [Mediabistro](https://www.mediabistro.com/)
 * [Joblist](https://www.joblist.com/)
+* [Workatastartup](https://www.workatastartup.com/job_list)
+* [enviro](https://enviro.work/)
 
 ### Entry Level
 
