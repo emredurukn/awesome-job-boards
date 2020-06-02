@@ -207,6 +207,7 @@ A curated list of awesome job boards.
 * [Joblist](https://www.joblist.com/)
 * [Workatastartup](https://www.workatastartup.com/job_list)
 * [enviro](https://enviro.work/)
+* [f6s](https://www.f6s.com/jobs)
 
 ### Entry Level
 
