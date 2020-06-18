@@ -32,6 +32,7 @@ A curated list of awesome job boards.
 * [icrunchdata](https://icrunchdata.com/)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 * [Big Cloud](https://bigcloud.io/jobs/)
+* [Data Yoshi](https://www.datayoshi.com/)
 
 ## Blockchain
 
