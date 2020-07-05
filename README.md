@@ -63,6 +63,7 @@ A curated list of awesome job boards.
 
 ## Programming
 
+* [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Jobs](https://elixir.career/)
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
