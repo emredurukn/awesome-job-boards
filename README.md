@@ -93,6 +93,7 @@ A curated list of awesome job boards.
 * [Ruby on Rails Jobs](https://www.rorjobs.com/)
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
+* [JavaScript Jobs](https://jobs.date-fns.org/)
 
 ## Remote
 
