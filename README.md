@@ -94,6 +94,7 @@ A curated list of awesome job boards.
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
 * [JavaScript Jobs](https://jobs.date-fns.org/)
+* [Jobs in JS](https://jobsinjs.com/)
 
 ## Remote
 
@@ -216,6 +217,8 @@ A curated list of awesome job boards.
 * [VirtualVocations](https://www.virtualvocations.com/)
 * [Mashable](https://jobs.mashable.com/)
 * [Jobvertise](http://www.jobvertise.com/)
+* [EqualOpportunity](https://equalopportunity.work/)
+* [CNCF Job Board](https://jobs.cncf.io/)
 
 ### Entry Level
 
@@ -241,6 +244,8 @@ A curated list of awesome job boards.
 * [SEEK](https://www.seek.com.au/)
 * [CareerOne](https://www.careerone.com.au/)
 * [Jobaroo](https://www.jobaroo.com/)
+* [Breakout Careers](https://breakout.careers/jobs)
+* [Headhunted](https://www.headhunted.com.au/jobs/)
 
 ### Canada
 
@@ -261,6 +266,7 @@ A curated list of awesome job boards.
 * [CWJobs](https://www.cwjobs.co.uk/)
 * [reed](https://www.reed.co.uk/)
 * [CV-Library](https://www.cv-library.co.uk/)
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/)
 
 #### Germany
 
@@ -271,6 +277,7 @@ A curated list of awesome job boards.
 * [Stellenanzeigen](https://www.stellenanzeigen.de/)
 * [JobScout24](https://www.jobs.de/)
 * [StellenOnline](https://www.stellenonline.de/)
+* [Berlin Startup Jobs](https://berlinstartupjobs.com/)
 
 #### Netherlands
 
