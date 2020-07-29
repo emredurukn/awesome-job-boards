@@ -33,6 +33,8 @@ A curated list of awesome job boards.
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 * [Big Cloud](https://bigcloud.io/jobs/)
 * [Data Yoshi](https://www.datayoshi.com/)
+* [Opendatascience Jobs](https://jobs.opendatascience.com/)
+* [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
 
 ## Blockchain
 
@@ -112,6 +114,7 @@ A curated list of awesome job boards.
 * [EuropeRemotely](https://europeremotely.com/)
 * [AwesomeJobs](https://www.awesomejobs.io/)
 * [Remote Python](https://www.remotepython.com/)
+* [Ruby On Remote](https://rubyonremote.com/)
 * [Remote ML](https://remoteml.com/)
 * [JS Remotely](https://jsremotely.com/)
 * [Remote Arena](https://remotearena.com/)
@@ -127,6 +130,8 @@ A curated list of awesome job boards.
 * [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
+* [Remotees](https://remotees.com/)
+* [Meerkad](https://meerkad.com/)
 
 ## Freelancer
 
@@ -141,6 +146,7 @@ A curated list of awesome job boards.
 * [GigGrabbers](https://www.giggrabbers.com)
 * [CloudPeeps](https://www.cloudpeeps.com)
 * [Local Solo](https://localsolo.com/)
+* [YunoJuno](https://www.yunojuno.com/)
 
 ## Other
 
@@ -219,6 +225,7 @@ A curated list of awesome job boards.
 * [Jobvertise](http://www.jobvertise.com/)
 * [EqualOpportunity](https://equalopportunity.work/)
 * [CNCF Job Board](https://jobs.cncf.io/)
+* [KDR Recruitment](https://www.kdrrecruitment.com/jobs/) 
 
 ### Entry Level
 
@@ -237,6 +244,7 @@ A curated list of awesome job boards.
 * [StartUpers](https://www.startupers.com/)
 * [WorkinStartups](https://workinstartups.com/)
 * [The Hub](https://thehub.io/)
+* [Unicorn Hunt](https://unicornhunt.io/)
 
 ### Australia
 
