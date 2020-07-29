@@ -297,6 +297,7 @@ A curated list of awesome job boards.
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 * [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 * [Careers in Poland](https://www.careersinpoland.com/)
+* [WeJob.ch](https://WeJob.ch/) (Switzerland)
 * [SwissDev Jobs](https://swissdevjobs.ch/) (Switzerland)
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
 * [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
