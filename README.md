@@ -35,6 +35,7 @@ A curated list of awesome job boards.
 * [Data Yoshi](https://www.datayoshi.com/)
 * [Opendatascience Jobs](https://jobs.opendatascience.com/)
 * [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
+* [Jobs for New Data Scientists](https://www.jobsfornewdatascientists.com/) 
 
 ## Blockchain
 
@@ -132,6 +133,7 @@ A curated list of awesome job boards.
 * [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
 * [Remotees](https://remotees.com/)
 * [Meerkad](https://meerkad.com/)
+* [Work From Home Jobs](https://workfromhomejobs.me/)
 
 ## Freelancer
 
@@ -225,7 +227,8 @@ A curated list of awesome job boards.
 * [Jobvertise](http://www.jobvertise.com/)
 * [EqualOpportunity](https://equalopportunity.work/)
 * [CNCF Job Board](https://jobs.cncf.io/)
-* [KDR Recruitment](https://www.kdrrecruitment.com/jobs/) 
+* [KDR Recruitment](https://www.kdrrecruitment.com/jobs/)
+* [Diversify Tech](https://www.diversifytech.co/job-board/)
 
 ### Entry Level
 
@@ -286,6 +289,7 @@ A curated list of awesome job boards.
 * [JobScout24](https://www.jobs.de/)
 * [StellenOnline](https://www.stellenonline.de/)
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/)
+* [Jobs in Berlin](https://www.jobsinberlin.eu/)
 
 #### Netherlands
 
