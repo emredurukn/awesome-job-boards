@@ -82,6 +82,7 @@ A curated list of awesome job boards.
 * [Vue.js Jobs](https://vuejobs.com/)
 * [Made with Vue.js Jobs](https://madewithvuejs.com/jobs)
 * [React Jobs](https://www.react-jobs.com/)
+* [React Job Board](https://www.reactjobboard.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
 * [Drupal Jobs](https://jobs.drupal.org/)
@@ -134,6 +135,8 @@ A curated list of awesome job boards.
 * [Remotees](https://remotees.com/)
 * [Meerkad](https://meerkad.com/)
 * [Work From Home Jobs](https://workfromhomejobs.me/)
+* [Pangian](https://pangian.com/job-travel-remote/)
+* [Outsourcely](https://www.outsourcely.com/remote-web-development-jobs)
 
 ## Freelancer
 
@@ -149,6 +152,7 @@ A curated list of awesome job boards.
 * [CloudPeeps](https://www.cloudpeeps.com)
 * [Local Solo](https://localsolo.com/)
 * [YunoJuno](https://www.yunojuno.com/)
+* [Gun.io](https://www.gun.io/)
 
 ## Other
 
@@ -229,6 +233,8 @@ A curated list of awesome job boards.
 * [CNCF Job Board](https://jobs.cncf.io/)
 * [KDR Recruitment](https://www.kdrrecruitment.com/jobs/)
 * [Diversify Tech](https://www.diversifytech.co/job-board/)
+* [Women Who Code](https://www.womenwhocode.com/jobs)
+* [Hitmarker](https://hitmarker.net/jobs)
 
 ### Entry Level
 
@@ -248,6 +254,7 @@ A curated list of awesome job boards.
 * [WorkinStartups](https://workinstartups.com/)
 * [The Hub](https://thehub.io/)
 * [Unicorn Hunt](https://unicornhunt.io/)
+* [StartupHire](https://www.startuphire.com/) 
 
 ### Australia
 
