@@ -297,6 +297,7 @@ A curated list of awesome job boards.
 * [StellenOnline](https://www.stellenonline.de/)
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/)
 * [Jobs in Berlin](https://www.jobsinberlin.eu/)
+* [GermanTech Jobs](https://germantechjobs.de/)
 
 #### Netherlands
 
