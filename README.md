@@ -273,6 +273,7 @@ A curated list of awesome job boards.
 * [Jobillico](https://www.jobillico.com/search-jobs)
 * [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 * [Eluta](https://www.eluta.ca/)
+* [CareerBeacon](https://www.careerbeacon.com/)
 
 ### Europe
 
@@ -285,6 +286,7 @@ A curated list of awesome job boards.
 * [reed](https://www.reed.co.uk/)
 * [CV-Library](https://www.cv-library.co.uk/)
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/)
+* [Gumtree](https://www.gumtree.com/jobs)
 
 #### Germany
 
@@ -309,16 +311,29 @@ A curated list of awesome job boards.
 
 * [Jobindex](https://www.jobindex.dk/)
 * [It Job Bank](https://www.it-jobbank.dk/)
+* [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
+
+#### Poland
+
+* [Careers in Poland](https://www.careersinpoland.com/)
+* [Crossjob](https://crossweb.pl/en/job/oferty-pracy/)
+* [Bulldogjob](https://bulldogjob.com/)
+* [Just Join IT](https://justjoin.it/)
+
+#### Switzerland
+
+* [SwissDev Jobs](https://swissdevjobs.ch/)
+* [WeJob.ch](https://WeJob.ch/)
+* [Jobwinner](https://jobwinner.ch/en/)
+* [JobScout24](https://www.jobscout24.ch/en)
 
 #### Europe - Other
 
 * [Landing.jobs](https://landing.jobs/)
 * [Work in Estonia](https://www.workinestonia.com/latest-offers/)
+* [CV Keskus](https://www.cvkeskus.ee/)
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 * [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
-* [Careers in Poland](https://www.careersinpoland.com/)
-* [WeJob.ch](https://WeJob.ch/) (Switzerland)
-* [SwissDev Jobs](https://swissdevjobs.ch/) (Switzerland)
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
 * [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
