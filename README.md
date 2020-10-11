@@ -25,13 +25,11 @@ A curated list of awesome job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 * [Data Elixir](https://jobs.dataelixir.com/)
-* [ML Jobs List](https://mljobslist.com/jobs/)
 * [AI Jobs](https://ai-jobs.net/)
 * [Machine learning jobs](https://jobhunt.ai/)
 * [Kaggle jobs](https://www.kaggle.com/jobs)
 * [icrunchdata](https://icrunchdata.com/)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
-* [Big Cloud](https://bigcloud.io/jobs/)
 * [Data Yoshi](https://www.datayoshi.com/)
 * [Opendatascience Jobs](https://jobs.opendatascience.com/)
 * [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
