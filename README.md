@@ -73,6 +73,7 @@ A curated list of awesome job boards.
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Job Board](https://golangjob.xyz/)
 * [Golang Cafe](https://golang.cafe/)
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
