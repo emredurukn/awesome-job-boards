@@ -33,7 +33,9 @@ A curated list of awesome job boards.
 * [Data Yoshi](https://www.datayoshi.com/)
 * [Opendatascience Jobs](https://jobs.opendatascience.com/)
 * [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
-* [Jobs for New Data Scientists](https://www.jobsfornewdatascientists.com/) 
+* [Jobs for New Data Scientists](https://www.jobsfornewdatascientists.com/)
+* [BigDataJobs](https://www.bigdatajobs.com/)
+* [StatsJobs](https://www.statsjobs.com/)
 
 ## Blockchain
 
@@ -98,6 +100,7 @@ A curated list of awesome job boards.
 * [WebAssembly Jobs](https://webassemblyjobs.com/)
 * [JavaScript Jobs](https://jobs.date-fns.org/)
 * [Jobs in JS](https://jobsinjs.com/)
+* [R-users](https://www.r-users.com/)
 
 ## Remote
 
@@ -135,7 +138,9 @@ A curated list of awesome job boards.
 * [Meerkad](https://meerkad.com/)
 * [Work From Home Jobs](https://workfromhomejobs.me/)
 * [Pangian](https://pangian.com/job-travel-remote/)
-* [Outsourcely](https://www.outsourcely.com/remote-web-development-jobs)
+* [Outsourcely](https://www.outsourcely.com/remote-workers)
+* [prospercircle](https://www.prospercircle.org/)
+* [DynamiteJobs](https://www.dynamitejobs.com/)
 
 ## Freelancer
 
@@ -286,6 +291,7 @@ A curated list of awesome job boards.
 * [CV-Library](https://www.cv-library.co.uk/)
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/)
 * [Gumtree](https://www.gumtree.com/jobs)
+* [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 
 #### Germany
 
