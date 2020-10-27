@@ -58,6 +58,8 @@ A curated list of awesome job boards.
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Designer Jobs](https://designerjobs.co/jobs)
 * [designmodo](https://designmodo.com/jobs/)
+* [Design Jobs Board](https://www.designjobsboard.com/)
+* [Design Week Jobs](https://jobs.designweek.co.uk/)
 
 ## InfoSec
 
@@ -139,7 +141,7 @@ A curated list of awesome job boards.
 * [Work From Home Jobs](https://workfromhomejobs.me/)
 * [Pangian](https://pangian.com/job-travel-remote/)
 * [Outsourcely](https://www.outsourcely.com/remote-workers)
-* [prospercircle](https://www.prospercircle.org/)
+* [ProsperCircle.org](https://www.prospercircle.org/)
 * [DynamiteJobs](https://www.dynamitejobs.com/)
 
 ## Freelancer
@@ -342,6 +344,7 @@ A curated list of awesome job boards.
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
 * [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
+* [Hyper Island](https://www.hyperisland.com/jobs)
 
 ### Turkey
 
