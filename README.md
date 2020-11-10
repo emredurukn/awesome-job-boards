@@ -106,6 +106,7 @@ A curated list of awesome job boards.
 
 ## Remote
 
+* [Career Vault](https://careervault.io/)
 * [Remotebond](https://remotebond.com/)
 * [Jobspresso](https://jobspresso.co/remote-work/)
 * [We Work Remotely](https://weworkremotely.com/)
