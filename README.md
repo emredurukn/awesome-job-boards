@@ -68,6 +68,7 @@ A curated list of awesome job boards.
 
 ## Programming
 
+* [Carrots](https://thecarrots.io/jobs)
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Jobs](https://elixir.career/)
