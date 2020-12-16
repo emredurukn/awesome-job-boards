@@ -36,6 +36,7 @@ A curated list of awesome job boards.
 * [Jobs for New Data Scientists](https://www.jobsfornewdatascientists.com/)
 * [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
+* [Big Cloud](https://bigcloud.global/find-a-job/)
 
 ## Blockchain
 
@@ -244,6 +245,15 @@ A curated list of awesome job boards.
 * [Diversify Tech](https://www.diversifytech.co/job-board/)
 * [Women Who Code](https://www.womenwhocode.com/jobs)
 * [Hitmarker](https://hitmarker.net/jobs)
+* [Open GameDev Jobs](https://careers.greatercph.com/gamedev)
+* [Hey Gamer](https://www.heygamer.co/)
+* [PRSA Job Center](https://jobs.prsa.org/)
+* [eFinancialCareers](https://www.efinancialcareers.com/)
+* [Uncubed](https://uncubed.com/jobs)
+* [Health eCareers](https://healthecareers.com/)
+* [TechFetch](https://www.techfetch.com/)
+* [LaunchAfrica](https://launchafrica.io/)
+* [DiversityJobs](https://www.diversityjobs.com/)
 
 ### Entry Level
 
@@ -255,6 +265,8 @@ A curated list of awesome job boards.
 * [TalentEgg](https://talentegg.ca/)
 * [entrylevel.io](https://entrylevel.io/)
 * [ErasmusIntern](https://erasmusintern.org/traineeships)
+* [CareerRookie](https://www.careerrookie.com/)
+* [AfterCollege](https://www.aftercollege.com/)
 
 ### Startups
 
@@ -297,6 +309,7 @@ A curated list of awesome job boards.
 * [IT Jobs Watch](https://www.itjobswatch.co.uk/)
 * [Gumtree](https://www.gumtree.com/jobs)
 * [Analytics Jobs](https://www.analyticsjobs.co.uk/)
+* [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 
 #### Germany
 
@@ -362,6 +375,7 @@ A curated list of awesome job boards.
 * [US Jobs](https://us.jobs/)
 * [Careerjet](https://www.careerjet.com/)
 * [Nexxt](https://www.nexxt.com/)
+* [National Labor Exchange](https://usnlx.com/)
 
 ### Asia
 
