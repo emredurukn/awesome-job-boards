@@ -314,6 +314,7 @@ A curated list of awesome job boards.
 * [CareerBeacon](https://www.careerbeacon.com/)
 
 ### Europe
+* [findwrk](https://findwrk.app/)
 
 #### United Kingdom
 
