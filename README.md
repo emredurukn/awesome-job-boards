@@ -408,6 +408,7 @@ A curated list of awesome job boards.
 ### DevOps
 
 * [Jobs For DevOps](https://jobsfordevops.com)
+* [Kube Careers](https://kube.careers)
 
 ### Growth Hacking
 
