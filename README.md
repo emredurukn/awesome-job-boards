@@ -22,6 +22,7 @@ A curated list of awesome job boards.
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
 * [Angel List](https://angel.co)
+* [arbeitnow](https://www.arbeitnow.com)
 
 ## Data Science
 
