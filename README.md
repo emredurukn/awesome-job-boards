@@ -329,6 +329,7 @@ A curated list of awesome job boards.
 * [Gumtree](https://www.gumtree.com/jobs)
 * [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 * [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
+* [DevITjobs UK](https://devitjobs.uk/)
 
 #### Germany
 
