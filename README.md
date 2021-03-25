@@ -40,6 +40,7 @@ A curated list of awesome job boards.
 * [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
+* [Microprediction jobs](https://www.microprediction.com/jobs)
 
 ## Blockchain
 
