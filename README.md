@@ -360,7 +360,7 @@ A curated list of awesome job boards.
 #### Poland
 
 * [Careers in Poland](https://www.careersinpoland.com/)
-* [Crossjob](https://crossweb.pl/en/job/oferty-pracy/)
+* [Crossweb](https://crossweb.pl/en/job/oferty-pracy/)
 * [Bulldogjob](https://bulldogjob.com/)
 * [Just Join IT](https://justjoin.it/)
 
