@@ -162,6 +162,7 @@ A curated list of awesome job boards.
 * [ProsperCircle.org](https://www.prospercircle.org/)
 * [DynamiteJobs](https://www.dynamitejobs.com/)
 * [FlatWorld](https://flatworld.co/jobs/)
+* [beefrii](https://www.beefrii.com/)
 
 ## Freelancer
 
