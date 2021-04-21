@@ -274,6 +274,7 @@ A curated list of awesome job boards.
 * [IT Job Pro](https://itjobpro.com/)
 * [The-Dots](https://the-dots.com/jobs/search)
 * [CampaignJobs](https://www.campaignlive.co.uk/jobs/all/)
+* [GoodJobs](https://goodjobs.careers/)(Climate change, food insecurity)
 
 ### Entry Level
 
