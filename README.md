@@ -163,6 +163,7 @@ A curated list of awesome job boards.
 * [DynamiteJobs](https://www.dynamitejobs.com/)
 * [FlatWorld](https://flatworld.co/jobs/)
 * [beefrii](https://www.beefrii.com/)
+* [Hire Remote](https://hireremote.io/)
 
 ## Freelancer
 
@@ -358,6 +359,7 @@ A curated list of awesome job boards.
 * [Jobindex](https://www.jobindex.dk/)
 * [It Job Bank](https://www.it-jobbank.dk/)
 * [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
+* [Open Jobs in Denmark](https://www.state-of-denmark.com/jobs)
 
 #### Poland
 
