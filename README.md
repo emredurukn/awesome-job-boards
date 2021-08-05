@@ -23,6 +23,7 @@ A curated list of awesome job boards.
 * [Glassdoor](https://www.glassdoor.com/)
 * [Angel List](https://angel.co)
 * [arbeitnow](https://www.arbeitnow.com)
+* [4 day week](https://4dayweek.io/)
 
 ## Data Science
 
