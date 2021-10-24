@@ -28,10 +28,8 @@ A curated list of awesome job boards.
 ## Data Science
 
 * [DataJobs.com](https://datajobs.com/)
-* [Data Elixir](https://jobs.dataelixir.com/)
 * [AI Jobs](https://ai-jobs.net/)
 * [Machine learning jobs](https://jobhunt.ai/)
-* [Kaggle jobs](https://www.kaggle.com/jobs)
 * [icrunchdata](https://icrunchdata.com/)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 * [Data Yoshi](https://www.datayoshi.com/)
@@ -41,7 +39,6 @@ A curated list of awesome job boards.
 * [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
-* [Microprediction jobs](https://www.microprediction.com/jobs)
 
 ## Blockchain
 
@@ -87,7 +84,8 @@ A curated list of awesome job boards.
 * [Carrots](https://thecarrots.io/jobs)
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
-* [Elixir Jobs](https://elixir.career/)
+* [Elixir Radar](https://elixir-radar.com/jobs)
+* [Elixir Jobs](https://elixirjobs.net/)
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
 * [Full-Stack Developer Jobs](https://fullstackjob.com/)
 * [Functional Jobs](https://functionaljobs.com/)
@@ -278,6 +276,7 @@ A curated list of awesome job boards.
 * [CampaignJobs](https://www.campaignlive.co.uk/jobs/all/)
 * [GoodJobs](https://goodjobs.careers/)(Climate change, food insecurity)
 * [Tech Jobs for Good](https://techjobsforgood.com/)
+* [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
 
 ### Entry Level
 
