@@ -163,6 +163,7 @@ A curated list of awesome job boards.
 * [FlatWorld](https://flatworld.co/jobs/)
 * [beefrii](https://www.beefrii.com/)
 * [Hire Remote](https://hireremote.io/)
+* [Remote Index](https://remoteindex.co/)
 
 ## Freelancer
 
