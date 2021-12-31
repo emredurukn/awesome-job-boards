@@ -164,6 +164,7 @@ A curated list of awesome job boards.
 * [beefrii](https://www.beefrii.com/)
 * [Hire Remote](https://hireremote.io/)
 * [Remote Index](https://remoteindex.co/)
+* [Smooth remote](https://smoothremote.com)
 
 ## Freelancer
 
@@ -278,6 +279,8 @@ A curated list of awesome job boards.
 * [GoodJobs](https://goodjobs.careers/)(Climate change, food insecurity)
 * [Tech Jobs for Good](https://techjobsforgood.com/)
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
+* [Getwork](https://getwork.com/)
+* [Lensa](https://lensa.com/)
 
 ### Entry Level
 
@@ -403,6 +406,7 @@ A curated list of awesome job boards.
 * [Careerjet](https://www.careerjet.com/)
 * [Nexxt](https://www.nexxt.com/)
 * [National Labor Exchange](https://usnlx.com/)
+* [juju](https://www.juju.com/)
 
 ### Asia
 
