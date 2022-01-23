@@ -82,6 +82,7 @@ A curated list of awesome job boards.
 ## Programming
 
 * [Carrots](https://thecarrots.io/jobs)
+* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Radar](https://elixir-radar.com/jobs)
