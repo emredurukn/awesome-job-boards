@@ -307,6 +307,7 @@ A curated list of awesome job boards.
 * [The Hub](https://thehub.io/)
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [StartupHire](https://www.startuphire.com/) 
+* [Work in biotech](https://workinbiotech.com/)
 
 ### Australia
 
