@@ -22,8 +22,6 @@ A curated list of awesome job boards.
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
 * [Angel List](https://angel.co)
-* [arbeitnow](https://www.arbeitnow.com)
-* [4 day week](https://4dayweek.io/)
 
 ## Data Science
 
@@ -39,6 +37,7 @@ A curated list of awesome job boards.
 * [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
+- [DataStryde](https://data-stryde.com/)
 
 ## Blockchain
 
@@ -48,6 +47,8 @@ A curated list of awesome job boards.
 * [Blockew](https://blockew.com/)
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 * [useWeb3.xyz](https://www.useweb3.xyz/jobs)
+* [BlockStryde](https://block-stryde.com/)
+
 
 ## Design
 
@@ -79,6 +80,7 @@ A curated list of awesome job boards.
 * [CareersInfoSecurity](https://www.careersinfosecurity.com/jobs/)
 * [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
 * [YesWeHack](https://jobs.yeswehack.com/en/)
+- [CyberStryde](https://cyber-stryde.com/)
 
 ## Programming
 
@@ -286,6 +288,8 @@ A curated list of awesome job boards.
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
 * [Getwork](https://getwork.com/)
 * [Lensa](https://lensa.com/)
+* [arbeitnow](https://www.arbeitnow.com)
+* [4 day week](https://4dayweek.io/)
 
 ### Entry Level
 
@@ -330,7 +334,6 @@ A curated list of awesome job boards.
 * [CareerBeacon](https://www.careerbeacon.com/)
 
 ### Europe
-* [findwrk](https://findwrk.app/)
 
 #### United Kingdom
 
@@ -395,8 +398,10 @@ A curated list of awesome job boards.
 * [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
 * [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
+* [Jobbland](https://jobbland.se/lediga-jobb) (Sweden)
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
 * [Hyper Island](https://www.hyperisland.com/jobs)
+* [findwrk](https://findwrk.app/)
 
 ### Turkey
 
