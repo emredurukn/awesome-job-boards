@@ -396,6 +396,7 @@ A curated list of awesome job boards.
 * [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 * [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
 * [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
+* [Jobbland](https://jobbland.se/lediga-jobb) (Sweden)
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
 * [Hyper Island](https://www.hyperisland.com/jobs)
 * [findwrk](https://findwrk.app/)
