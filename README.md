@@ -48,6 +48,7 @@ A curated list of awesome job boards.
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 * [useWeb3.xyz](https://www.useweb3.xyz/jobs)
 * [BlockStryde](https://block-stryde.com/)
+* [Next Crypto Jobs](https://nextcryptojobs.com/)
 
 
 ## Design
