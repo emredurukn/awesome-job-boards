@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome job boards.
+A curated list of awesome job boards. If you want to support my work, you can buy me a coffee [here](https://www.buymeacoffee.com/emredurukn).
 
 ## Table of Contents
 
