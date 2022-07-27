@@ -173,6 +173,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Hire Remote](https://hireremote.io/)
 * [Remote Index](https://remoteindex.co/)
 * [Smooth remote](https://smoothremote.com)
+* [Remote Jobs](https://backendremotejobs.com/)
 
 ## Freelancer
 
