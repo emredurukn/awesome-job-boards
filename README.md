@@ -126,6 +126,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [JavaScript Jobs](https://jobs.date-fns.org/)
 * [Jobs in JS](https://jobsinjs.com/)
 * [R-users](https://www.r-users.com/)
+* [Java Jobs](https://javajobs.pro/)
 
 ## Remote
 
