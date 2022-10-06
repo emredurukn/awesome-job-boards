@@ -114,6 +114,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [WordPress Jobs](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
 * [WPhired](https://www.wphired.com/)
+* [pyJobs](https://www.pyjobs.com/)
 * [Python Job Board](https://www.python.org/jobs/)
 * [Python Jobs](https://pythonjob.xyz/)
 * [Pycoder's Jobs](https://www.pythonjobshq.com/)
