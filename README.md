@@ -49,7 +49,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [useWeb3.xyz](https://www.useweb3.xyz/jobs)
 * [BlockStryde](https://block-stryde.com/)
 * [Next Crypto Jobs](https://nextcryptojobs.com/)
-
+* [Woody3](https://www.woody3.xyz/)
 
 ## Design
 
