@@ -296,6 +296,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [arbeitnow](https://www.arbeitnow.com)
 * [4 day week](https://4dayweek.io/)
 * [Renewable Jobs](https://www.renewable.jobs/)
+* [Jobgether](https://jobgether.com)
 
 ### Entry Level
 
