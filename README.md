@@ -81,7 +81,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CareersInfoSecurity](https://www.careersinfosecurity.com/jobs/)
 * [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
 * [YesWeHack](https://jobs.yeswehack.com/en/)
-- [CyberStryde](https://cyber-stryde.com/)
+* [CyberStryde](https://cyber-stryde.com/)
 
 ## Programming
 
@@ -408,6 +408,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
 * [Hyper Island](https://www.hyperisland.com/jobs)
 * [findwrk](https://findwrk.app/)
+* [RemoteScout](https://remotescout.ch/jobs)
 
 ### Turkey
 
