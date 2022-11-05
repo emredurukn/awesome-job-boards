@@ -408,7 +408,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
 * [Hyper Island](https://www.hyperisland.com/jobs)
 * [findwrk](https://findwrk.app/)
-* [RemoteScout](https://remotescout.ch/jobs)
+* [RemoteScout](https://remotescout.ch)
 
 ### Turkey
 
