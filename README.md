@@ -129,6 +129,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [R-users](https://www.r-users.com/)
 * [Java Jobs](https://javajobs.pro/)
 * [Jobbsy](https://jobbsy.dev/) - Symfony job board
+* [Scala Jobs](https://scalajobs.com/)
 
 ## Remote
 
@@ -196,6 +197,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Other
 
+* [Job Board Search](https://jobboardsearch.com/)
 * [Monster](https://www.monster.com/)
 * [GitHub Jobs](https://jobs.github.com/)
 * [Amazon Jobs](https://www.amazon.jobs/en)
@@ -297,6 +299,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [4 day week](https://4dayweek.io/)
 * [Renewable Jobs](https://www.renewable.jobs/)
 * [Jobgether](https://jobgether.com)
+* [Techloop](https://jobs.techloop.io/)
+* [Himalayas](https://himalayas.app/jobs)
 
 ### Entry Level
 
@@ -368,6 +372,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Berlin Startup Jobs](https://berlinstartupjobs.com/)
 * [Jobs in Berlin](https://www.jobsinberlin.eu/)
 * [GermanTech Jobs](https://germantechjobs.de/)
+* [Gigajob](https://de.gigajob.com/)
 
 #### Netherlands
 
