@@ -301,6 +301,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobgether](https://jobgether.com)
 * [Techloop](https://jobs.techloop.io/)
 * [Himalayas](https://himalayas.app/jobs)
+* [Talent Service](https://talentservice.com/vacancies)
 
 ### Entry Level
 
