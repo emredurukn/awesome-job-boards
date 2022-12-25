@@ -416,6 +416,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Hyper Island](https://www.hyperisland.com/jobs)
 * [findwrk](https://findwrk.app/)
 * [RemoteScout](https://remotescout.ch)
+* [zuhausejobs.com](https://zuhausejobs.com) (German-speaking area - Germany, Austria & Switzerland)
 
 ### Turkey
 
