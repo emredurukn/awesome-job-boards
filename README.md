@@ -8,6 +8,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [General](#general)
 - [Data Science](#data-science)
+- [Finance](#finance)
 - [Blockchain](#blockchain)
 - [Design](#design)
 - [InfoSec](#infosec)
@@ -38,6 +39,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 - [DataStryde](https://data-stryde.com/)
+
+## Finance
+* [OpenQuant](https://openquant.co/)
 
 ## Blockchain
 
@@ -179,6 +183,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Smooth remote](https://smoothremote.com)
 * [Remote Jobs](https://backendremotejobs.com/)
 * [Devremote](https://devremote.io/)
+* [I love remote](https://iloveremote.io) (High paid remote jobs)
 
 ## Freelancer
 
@@ -223,6 +228,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Livecareer](https://jobs.livecareer.com/)
 * [The Muse](https://www.themuse.com/jobs)
 * [LinkUp](https://linkup.com/)
+* [eComPortal] (https://ecomportal.co)
 * [Authentic Jobs](https://authenticjobs.com/)
 * [DevSnap](https://devsnap.io/)
 * [Joblist.app](https://joblist.app/)
@@ -303,6 +309,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Techloop](https://jobs.techloop.io/)
 * [Himalayas](https://himalayas.app/jobs)
 * [Talent Service](https://talentservice.com/vacancies)
+* [Python Devs](https://www.pythondevs.net)
 
 ### Entry Level
 
