@@ -8,6 +8,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [General](#general)
 - [Data Science](#data-science)
+- [Finance](#finance)
 - [Blockchain](#blockchain)
 - [Design](#design)
 - [InfoSec](#infosec)
@@ -38,6 +39,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 - [DataStryde](https://data-stryde.com/)
+
+## Finance
+* [OpenQuant](https://openquant.co/)
 
 ## Blockchain
 
