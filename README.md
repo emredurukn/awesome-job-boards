@@ -38,9 +38,10 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
-- [DataStryde](https://data-stryde.com/)
+* [DataStryde](https://data-stryde.com/)
 
 ## Finance
+
 * [OpenQuant](https://openquant.co/)
 
 ## Blockchain
@@ -90,7 +91,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 ## Programming
 
 * [Carrots](https://thecarrots.io/jobs)
-* [ClojureJobboard.com](https://ClojureJobboard.com/)- Clojure jobs, also got a remote section
+* [ClojureJobboard.com](https://ClojureJobboard.com/) | Clojure jobs
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Radar](https://elixir-radar.com/jobs)
@@ -132,7 +133,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobs in JS](https://jobsinjs.com/)
 * [R-users](https://www.r-users.com/)
 * [Java Jobs](https://javajobs.pro/)
-* [Jobbsy](https://jobbsy.dev/) - Symfony job board
+* [Jobbsy](https://jobbsy.dev/) | Symfony job board
 * [Scala Jobs](https://scalajobs.com/)
 
 ## Remote
@@ -183,7 +184,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Smooth remote](https://smoothremote.com)
 * [Remote Jobs](https://backendremotejobs.com/)
 * [Devremote](https://devremote.io/)
-* [I love remote](https://iloveremote.io) (High paid remote jobs)
+* [I love remote](https://iloveremote.io) | High paid remote jobs
 
 ## Freelancer
 
@@ -212,7 +213,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Crunchboard](https://www.crunchboard.com/)
 * [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 * [Jobbatical](https://jobbatical.com/jobs)
-* [PowerToFly](https://powertofly.com/jobs/) (Women)
+* [PowerToFly](https://powertofly.com/jobs/) | Women
 * [whoishiring.io](https://whoishiring.io/)
 * [SimplyHired](https://www.simplyhired.com/)
 * [CareerBuilder](https://www.careerbuilder.com)
@@ -228,7 +229,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Livecareer](https://jobs.livecareer.com/)
 * [The Muse](https://www.themuse.com/jobs)
 * [LinkUp](https://linkup.com/)
-* [eComPortal] (https://ecomportal.co)
+* [eComPortal](https://ecomportal.co)
 * [Authentic Jobs](https://authenticjobs.com/)
 * [DevSnap](https://devsnap.io/)
 * [Joblist.app](https://joblist.app/)
@@ -297,7 +298,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [IT Job Pro](https://itjobpro.com/)
 * [The-Dots](https://the-dots.com/jobs/search)
 * [CampaignJobs](https://www.campaignlive.co.uk/jobs/all/)
-* [GoodJobs](https://goodjobs.careers/)(Climate change, food insecurity)
+* [GoodJobs](https://goodjobs.careers/) | Climate change, food insecurity
 * [Tech Jobs for Good](https://techjobsforgood.com/)
 * [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
 * [Getwork](https://getwork.com/)
@@ -417,14 +418,14 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CV Keskus](https://www.cvkeskus.ee/)
 * [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 * [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
-* [No Fluff Jobs](https://nofluffjobs.com/) (Poland & Hungary)
-* [Duunitori](https://duunitori.fi/tyopaikat) (Finland)
-* [Jobbland](https://jobbland.se/lediga-jobb) (Sweden)
+* [No Fluff Jobs](https://nofluffjobs.com/) | Poland & Hungary
+* [Duunitori](https://duunitori.fi/tyopaikat) | Finland
+* [Jobbland](https://jobbland.se/lediga-jobb) | Sweden
 * [NIJOBS](https://www.nijobs.com/) (Ireland)
 * [Hyper Island](https://www.hyperisland.com/jobs)
 * [findwrk](https://findwrk.app/)
 * [RemoteScout](https://remotescout.ch)
-* [zuhausejobs.com](https://zuhausejobs.com) (Remote Jobs in German-speaking area - Germany, Austria & Switzerland)
+* [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 
 ### Turkey
 
