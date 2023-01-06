@@ -182,7 +182,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Remote Index](https://remoteindex.co/)
 * [Smooth remote](https://smoothremote.com)
 * [Remote Jobs](https://backendremotejobs.com/)
-* [I love remote - High paid remote jobs](https://iloveremote.io)
+* [Devremote](https://devremote.io/)
+* [I love remote](https://iloveremote.io) (High paid remote jobs)
 
 ## Freelancer
 
