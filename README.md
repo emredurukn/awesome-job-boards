@@ -185,6 +185,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Remote Jobs](https://backendremotejobs.com/)
 * [Devremote](https://devremote.io/)
 * [I love remote](https://iloveremote.io) | High paid remote jobs
+* [RemoteFR](https://remoteFR.com) | Full remote jobs for French devs
 
 ## Freelancer
 
