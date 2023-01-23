@@ -398,6 +398,20 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
 * [Open Jobs in Denmark](https://www.state-of-denmark.com/jobs)
 
+####Italy
+
+* [Jobrapido](https://it.jobrapido.com/)
+* [Experteer](https://www.experteer.com/)
+* [Adecco](https://www.adecco.it/)
+* [Experis](https://www.experis.it/)
+* [Infojobs](https://www.infojobs.it/)
+* [Cercolavoro](https://www.cercolavoro.it/)
+* [Subito](https://www.subito.it/)
+* [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
+* [Gi Group](https://www.gigroup.it/)
+
+
+
 #### Poland
 
 * [Careers in Poland](https://www.careersinpoland.com/)
