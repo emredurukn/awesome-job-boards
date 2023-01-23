@@ -403,6 +403,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobrapido](https://it.jobrapido.com/)
 * [Experteer](https://www.experteer.com/)
 * [Adecco](https://www.adecco.it/)
+* [Lavoro Digitale Italia](https://www.lavorodigitaleitalia.it)
 * [Experis](https://www.experis.it/)
 * [Infojobs](https://www.infojobs.it/)
 * [Cercolavoro](https://www.cercolavoro.it/)
