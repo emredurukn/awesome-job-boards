@@ -76,6 +76,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CreativeMornings](https://creativemornings.com/jobs)
 * [Creativepool](https://creativepool.com/jobs/)
 * [The Loop](https://www.theloop.com.au/jobs)
+* [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 
 ## InfoSec
 
