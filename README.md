@@ -91,6 +91,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Programming
 
+* [Frontend Careers](https://frontendcareers.com/)
 * [Carrots](https://thecarrots.io/jobs)
 * [ClojureJobboard.com](https://ClojureJobboard.com/) | Clojure jobs
 * [Goopensource.dev](https://www.goopensource.dev/)
