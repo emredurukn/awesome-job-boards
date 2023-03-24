@@ -189,6 +189,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [I love remote](https://iloveremote.io) | High paid remote jobs
 * [RemoteFR](https://remoteFR.com) | Full remote jobs for French devs
 * [MarketRemotely](https://marketremotely.com/) | Remote marketing jobs
+* [RemoteSource](https://jobs.remotesource.com/jobs)
 
 ## Freelancer
 
