@@ -396,6 +396,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
 * [HOITALENT](https://hoitalent.com/position/)
 * [Together Abroad](https://www.togetherabroad.nl/jobs.html)
+* [Jobs in the Netherlands](https://www.welcome-to-nl.nl/jobs/)
 
 #### Denmark
 
