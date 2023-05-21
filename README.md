@@ -474,6 +474,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 * [Open Source Jobs](https://oo.t9t.io/jobs)
 * [LinuxJobs.io](https://www.linuxjobs.io/)
+* [Fossfox](https://fossfox.com/)
 
 ### DevOps
 
