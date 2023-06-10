@@ -126,6 +126,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Python Job Board](https://www.python.org/jobs/)
 * [Python Jobs](https://pythonjob.xyz/)
 * [Pycoder's Jobs](https://www.pythonjobshq.com/)
+* [Python Devs](https://www.pythondevs.net)
 * [django gigs](https://djangogigs.com/)
 * [Django Jobs](https://djangojobs.net/jobs/)
 * [RubyNow](https://jobs.rubynow.com/)
@@ -317,7 +318,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Techloop](https://jobs.techloop.io/)
 * [Himalayas](https://himalayas.app/jobs)
 * [Talent Service](https://talentservice.com/vacancies)
-* [Python Devs](https://www.pythondevs.net)
+* [gamesjobsdirect](https://www.gamesjobsdirect.com/)
+* [jobsdb](https://www.jobsdb.com/)
+* [scholarshipdb](https://scholarshipdb.net/)
 
 ### Entry Level
 
@@ -360,6 +363,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 * [Eluta](https://www.eluta.ca/)
 * [CareerBeacon](https://www.careerbeacon.com/)
+* [jobgurus](https://ca.jobgurus.net/)
 
 ### Europe
 
@@ -390,6 +394,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobs in Berlin](https://www.jobsinberlin.eu/)
 * [GermanTech Jobs](https://germantechjobs.de/)
 * [Gigajob](https://de.gigajob.com/)
+* [kimeta](https://www.kimeta.de/)
+* [academics](https://www.academics.de/)
+* [rekruter](https://www.rekruter.de/)
 
 #### Netherlands
 
@@ -435,6 +442,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 #### Europe - Other
 
+* [eurojobs](https://eurojobs.com/)
+* [eurobrussels](https://www.eurobrussels.com/)
 * [Landing.jobs](https://landing.jobs/)
 * [Work in Estonia](https://www.workinestonia.com/latest-offers/)
 * [CV Keskus](https://www.cvkeskus.ee/)
