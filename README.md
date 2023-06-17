@@ -22,7 +22,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [LinkedIn](https://www.linkedin.com/)
 * [Indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/)
-* [Angel List](https://angel.co)
+* [wellfound](https://wellfound.com/jobs)
 * [Levels.fyi](https://levels.fyi/jobs)
 
 ## Data Science
@@ -154,7 +154,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [SkipTheDrive](https://www.skipthedrive.com/)
 * [remote.co](https://remote.co/remote-jobs/)
 * [remote4me.com](https://remote4me.com/)
-* [Working Nomads](https://www.workingnomads.co/jobs)
+* [Working Nomads](https://www.workingnomads.com/jobs)
 * [EuropeRemotely](https://europeremotely.com/)
 * [AwesomeJobs](https://www.awesomejobs.io/)
 * [Remote Python](https://www.remotepython.com/)
@@ -192,6 +192,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [RemoteFR](https://remoteFR.com) | Full remote jobs for French devs
 * [MarketRemotely](https://marketremotely.com/) | Remote marketing jobs
 * [RemoteSource](https://jobs.remotesource.com/jobs)
+* [tryremotely](https://tryremotely.com/remote-jobs)
 
 ## Freelancer
 
