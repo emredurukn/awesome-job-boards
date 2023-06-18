@@ -40,6 +40,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 * [DataStryde](https://data-stryde.com/)
+* [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 
 ## Finance
 
