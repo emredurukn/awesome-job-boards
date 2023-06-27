@@ -7,8 +7,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 ## Table of Contents
 
 - [General](#general)
-- [Data Science](#data-science)
-- [Finance](#finance)
+- [Data](#data)
 - [Blockchain](#blockchain)
 - [Design](#design)
 - [InfoSec](#infosec)
@@ -25,7 +24,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [wellfound](https://wellfound.com/jobs)
 * [Levels.fyi](https://levels.fyi/jobs)
 
-## Data Science
+## Data
 
 * [DataJobs.com](https://datajobs.com/)
 * [AI Jobs](https://ai-jobs.net/)
@@ -41,10 +40,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 * [DataStryde](https://data-stryde.com/)
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
-
-## Finance
-
-* [OpenQuant](https://openquant.co/)
+* [Data Engineering Jobs](https://dataengjobs.com/)
 
 ## Blockchain
 
@@ -222,7 +218,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Crunchboard](https://www.crunchboard.com/)
 * [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 * [Jobbatical](https://jobbatical.com/jobs)
-* [PowerToFly](https://powertofly.com/jobs/) | Women
+* [PowerToFly](https://powertofly.com/jobs/)
 * [whoishiring.io](https://whoishiring.io/)
 * [SimplyHired](https://www.simplyhired.com/)
 * [CareerBuilder](https://www.careerbuilder.com)
@@ -323,8 +319,11 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [gamesjobsdirect](https://www.gamesjobsdirect.com/)
 * [jobsdb](https://www.jobsdb.com/)
 * [scholarshipdb](https://scholarshipdb.net/)
+* [OpenQuant](https://openquant.co/) | Finance
+* [GrowthHackers](https://growthhackers.com/jobs)
+* [AquariumsHiring](https://aquariumshiring.com) | Nature
 
-### Entry Level
+## Entry Level
 
 * [Entry Level Jobs](https://www.entryleveljobs.me/)
 * [College Recruiter](https://www.collegerecruiter.com/)
@@ -346,6 +345,15 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Unicorn Hunt](https://unicornhunt.io/)
 * [StartupHire](https://www.startuphire.com/) 
 * [Work in biotech](https://workinbiotech.com/)
+
+### United States
+
+* [DallasJobs](https://www.dallasjobs.io/)
+* [US Jobs](https://us.jobs/)
+* [Careerjet](https://www.careerjet.com/)
+* [Nexxt](https://www.nexxt.com/)
+* [National Labor Exchange](https://usnlx.com/)
+* [juju](https://www.juju.com/)
 
 ### Australia
 
@@ -427,7 +435,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
 * [Gi Group](https://www.gigroup.it/)
 
-
 #### Poland
 
 * [Careers in Poland](https://www.careersinpoland.com/)
@@ -467,15 +474,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Startup Jobs İstanbul](https://startupjobs.istanbul/)
 * [Toptalent](https://toptalent.co/is-ilanlari/)
 
-### United States
-
-* [DallasJobs](https://www.dallasjobs.io/)
-* [US Jobs](https://us.jobs/)
-* [Careerjet](https://www.careerjet.com/)
-* [Nexxt](https://www.nexxt.com/)
-* [National Labor Exchange](https://usnlx.com/)
-* [juju](https://www.juju.com/)
-
 ### Asia
 
 * [Tech Jobs Asia](https://www.techjobsasia.com/)
@@ -491,12 +489,3 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 * [Jobs For DevOps](https://jobsfordevops.com)
 * [Kube Careers](https://kube.careers)
-
-### Growth Hacking
-
-* [GrowthHackers](https://growthhackers.com/jobs)
-
-
-### Nature
-
-* [AquariumsHiring](https://aquariumshiring.com)
