@@ -49,6 +49,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CryptoJobs](https://crypto.jobs/)
 * [Blockew](https://blockew.com/)
 * [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+* [JobsInBlockchain](https://jobsinblockchain.com/)
 * [useWeb3.xyz](https://www.useweb3.xyz/jobs)
 * [BlockStryde](https://block-stryde.com/)
 * [Next Crypto Jobs](https://nextcryptojobs.com/)
