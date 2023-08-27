@@ -42,6 +42,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 * [Data Engineering Jobs](https://dataengjobs.com/)
 * [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
+* [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
  
 ## Blockchain
 
