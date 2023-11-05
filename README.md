@@ -34,11 +34,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Data Yoshi](https://www.datayoshi.com/)
 * [Opendatascience Jobs](https://jobs.opendatascience.com/)
 * [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
-* [Jobs for New Data Scientists](https://www.jobsfornewdatascientists.com/)
-* [BigDataJobs](https://www.bigdatajobs.com/)
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
-* [DataStryde](https://data-stryde.com/)
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 * [Data Engineering Jobs](https://dataengjobs.com/)
 * [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
