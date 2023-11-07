@@ -477,6 +477,11 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Startup Jobs İstanbul](https://startupjobs.istanbul/)
 * [Toptalent](https://toptalent.co/is-ilanlari/)
 
+### MENA
+
+#### United Arab Emirates (UAE)
+* [Remote Jobs in Dubai](https://www.remotedxb.com)
+
 ### Asia
 
 * [Tech Jobs Asia](https://www.techjobsasia.com/)
