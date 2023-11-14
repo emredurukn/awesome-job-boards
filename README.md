@@ -326,6 +326,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [GrowthHackers](https://growthhackers.com/jobs)
 * [AquariumsHiring](https://aquariumshiring.com) | Nature
 * [ZoosHiring](https://zooshiring.com) | Nature
+* [OkJob](https://okjob.io) | 4 day week job board
 
 ## Entry Level
 
