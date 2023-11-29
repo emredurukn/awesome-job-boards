@@ -192,6 +192,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [MarketRemotely](https://marketremotely.com/) | Remote marketing jobs
 * [RemoteSource](https://jobs.remotesource.com/jobs)
 * [tryremotely](https://tryremotely.com/remote-jobs)
+* [Find My Remote](https://findmyremote.ai/jobs)
 
 ## Freelancer
 
