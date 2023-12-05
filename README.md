@@ -328,7 +328,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [AquariumsHiring](https://aquariumshiring.com) | Nature
 * [ZoosHiring](https://zooshiring.com) | Nature
 * [OkJob](https://okjob.io) | 4 day week job board
-* [ProsperCircle](https://www.prospercircle.com) | Product Management Jobs
+* [ProsperCircle](https://www.prospercircle.com "{rel='nofollow'}") | Product Management Jobs
 
 ## Entry Level
 
