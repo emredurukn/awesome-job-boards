@@ -38,9 +38,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 * [Data Engineering Jobs](https://dataengjobs.com/)
-* [AiJobsTracker](https://www.aijobstracker.com/) - live aggregator of 300+ AI-first companies's job boards, updated daily.
-* [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
-* [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
+* [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
+* [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
+* [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
  
  
 ## Blockchain
@@ -93,7 +93,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 * [Frontend Careers](https://frontendcareers.com/)
 * [Carrots](https://thecarrots.io/jobs)
-* [ClojureJobboard.com](https://ClojureJobboard.com/) | Clojure jobs
+* [ClojureJobboard](https://ClojureJobboard.com/)
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Radar](https://elixir-radar.com/jobs)
@@ -250,7 +250,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 * [Find Bacon](https://findbacon.com/)
 * [Codersrank](https://codersrank.io/find-a-job/)
-* [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers, live aggregator of 600 companies' job boards, updated daily
+* [ClimateTechList](https://www.climatetechlist.com/) | climate tech / green energy jobs for software engineers, live aggregator of 600 companies' job boards, updated daily
 * [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 * [Jora](https://www.jora.com/)
 * [HNHIRING](https://hnhiring.com/)
@@ -328,6 +328,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [AquariumsHiring](https://aquariumshiring.com) | Nature
 * [ZoosHiring](https://zooshiring.com) | Nature
 * [OkJob](https://okjob.io) | 4 day week job board
+* [ProsperCircle](https://www.prospercircle.com) | Product Management Jobs
 
 ## Entry Level
 
