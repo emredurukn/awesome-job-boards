@@ -26,14 +26,15 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Levels.fyi](https://levels.fyi/jobs)
 
 ## AI
+
 * [AI/ML Jobs](https://aimljobs.fyi)
-* [Machine learning jobs](https://jobhunt.ai/)
+* [AI Jobs](https://ai-jobs.net/)
+* [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
+
 
 ## Data
 
 * [DataJobs.com](https://datajobs.com/)
-* [AI Jobs](https://ai-jobs.net/)
-* [Machine learning jobs](https://jobhunt.ai/)
 * [icrunchdata](https://icrunchdata.com/)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 * [Data Yoshi](https://www.datayoshi.com/)
@@ -43,7 +44,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 * [Data Engineering Jobs](https://dataengjobs.com/)
-* [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
 * [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 * [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
  
