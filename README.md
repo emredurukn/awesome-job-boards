@@ -24,6 +24,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Glassdoor](https://www.glassdoor.com/)
 * [wellfound](https://wellfound.com/jobs)
 * [Levels.fyi](https://levels.fyi/jobs)
+* [X jobs](https://twitter.com/jobs)
 
 ## AI
 
