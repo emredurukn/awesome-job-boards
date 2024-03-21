@@ -28,6 +28,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## AI
 
+* [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 * [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
 * [AI Jobs](https://ai-jobs.net/)
 * [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
