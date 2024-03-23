@@ -336,6 +336,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [ZoosHiring](https://zooshiring.com) | Nature
 * [OkJob](https://okjob.io) | 4 day week job board
 * [ProsperCircle](https://www.prospercircle.com "{rel='nofollow'}") | Product Management Jobs
+* [Rejobs](https://rejobs.org/en/) | Renewable Energy Jobs
 
 ## Entry Level
 
