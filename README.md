@@ -149,6 +149,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Remote
 
+* [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
 * [Career Vault](https://careervault.io/)
 * [Remotebond](https://remotebond.com/)
 * [Jobspresso](https://jobspresso.co/remote-work/)
