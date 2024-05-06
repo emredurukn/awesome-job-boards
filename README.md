@@ -45,6 +45,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [StatsJobs](https://www.statsjobs.com/)
 * [Big Cloud](https://bigcloud.global/find-a-job/)
 * [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
+* [Data Engineer Jobs](https://dataengineerjobs.com)
 * [Data Engineering Jobs](https://dataengjobs.com/)
 * [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 * [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
