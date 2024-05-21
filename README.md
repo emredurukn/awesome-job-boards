@@ -49,6 +49,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Data Engineering Jobs](https://dataengjobs.com/)
 * [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 * [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
+* [Webscale Jobs](https://www.webscale.work) - Find a career working with MongoDB
  
  
 ## Blockchain
