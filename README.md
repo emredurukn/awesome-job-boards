@@ -514,5 +514,5 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ### DevOps
 
-* [Jobs For DevOps](https://jobsfordevops.com)
+* [JobDevOps](https://jobdevops.com)
 * [Kube Careers](https://kube.careers)
