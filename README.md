@@ -342,6 +342,10 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [OkJob](https://okjob.io) | 4 day week job board
 * [ProsperCircle](https://www.prospercircle.com "{rel='nofollow'}") | Product Management Jobs
 * [Rejobs](https://rejobs.org/en/) | Renewable Energy Jobs
+* [Hidden Jobs](https://hidden-jobs.com/)
+* [HiringCafe](https://hiring.cafe/)
+* [We Are Distributed](https://wearedistributed.org/jobs)
+* [Jobs by Workable](https://jobs.workable.com/)
 
 ## Entry Level
 
