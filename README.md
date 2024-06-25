@@ -102,7 +102,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 * [Carrots](https://thecarrots.io/jobs)
 * [ClojureJobboard](https://ClojureJobboard.com/)
-* [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Radar](https://elixir-radar.com/jobs)
 * [Elixir Jobs](https://elixirjobs.net/)
