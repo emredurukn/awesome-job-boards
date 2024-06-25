@@ -100,14 +100,12 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Programming
 
-* [Frontend Careers](https://frontendcareers.com/)
 * [Carrots](https://thecarrots.io/jobs)
 * [ClojureJobboard](https://ClojureJobboard.com/)
 * [Goopensource.dev](https://www.goopensource.dev/)
 * [iOS Dev Jobs](https://iosdevjobs.com/)
 * [Elixir Radar](https://elixir-radar.com/jobs)
 * [Elixir Jobs](https://elixirjobs.net/)
-* [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
 * [Full-Stack Developer Jobs](https://fullstackjob.com/)
 * [Functional Jobs](https://functionaljobs.com/)
 * [Golangprojects](https://www.golangprojects.com/)
@@ -140,7 +138,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [RubyNow](https://jobs.rubynow.com/)
 * [Ruby on Rails Jobs](https://www.rorjobs.com/)
 * [Rust Programming Language Jobs](http://rust-jobs.com/)
-* [WebAssembly Jobs](https://webassemblyjobs.com/)
 * [JavaScript Jobs](https://jobs.date-fns.org/)
 * [Jobs in JS](https://jobsinjs.com/)
 * [R-users](https://www.r-users.com/)
