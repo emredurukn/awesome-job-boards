@@ -16,6 +16,25 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Remote](#remote)
 - [Freelancer](#freelancer)
 - [Other](#other)
+- [Entry Level](#entry_level)
+- [Startups](#startups)
+- [Free & Open Source](#open_source)
+- [DevOps](#devops)
+- [World](#world)
+    - [USA](#united_states)
+    - [Australia](#australia)
+    - [Canada](#canada)
+    - [UK](#united_kingdom)
+    - [Germany](#germany)
+    - [Netherlands](#netherlands)
+    - [Denmark](#denmark)
+    - [Italy](#italy)
+    - [Poland](#poland)
+    - [Switzerland](#switzerland)
+    - [Europe Other](#europe_other)
+    - [Turkey](#turkey)
+    - [UAE](#uae)
+    - [Asia](#asia)
 
 ## General
 
@@ -53,6 +72,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
  
  
 ## Blockchain
+
 * [Blocktribe](https://blocktribe.com/)
 * [Crypto Jobs List](https://cryptojobslist.com/)
 * [CryptoJobs](https://crypto.jobs/)
@@ -258,7 +278,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 * [Find Bacon](https://findbacon.com/)
 * [Codersrank](https://codersrank.io/find-a-job/)
-* [ClimateTechList](https://www.climatetechlist.com/) | climate tech / green energy jobs for software engineers, live aggregator of 600 companies' job boards, updated daily
+* [ClimateTechList](https://www.climatetechlist.com/) | climate tech / green energy jobs for software engineers
 * [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 * [Jora](https://www.jora.com/)
 * [HNHIRING](https://hnhiring.com/)
@@ -343,7 +363,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [We Are Distributed](https://wearedistributed.org/jobs)
 * [Jobs by Workable](https://jobs.workable.com/)
 
-## Entry Level
+## Entry_Level
 
 * [Entry Level Jobs](https://www.entryleveljobs.me/)
 * [College Recruiter](https://www.collegerecruiter.com/)
@@ -356,7 +376,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CareerRookie](https://www.careerrookie.com/)
 * [AfterCollege](https://www.aftercollege.com/)
 
-### Startups
+## Startups
 
 * [Startup Jobs](https://startup.jobs/)
 * [StartUpers](https://www.startupers.com/)
@@ -366,7 +386,21 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [StartupHire](https://www.startuphire.com/) 
 * [Work in biotech](https://workinbiotech.com/)
 
-### United States
+## Open_Source
+
+* [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [Open Source Jobs](https://oo.t9t.io/jobs)
+* [LinuxJobs.io](https://www.linuxjobs.io/)
+* [Fossfox](https://fossfox.com/)
+
+## DevOps
+
+* [JobDevOps](https://jobdevops.com)
+* [Kube Careers](https://kube.careers)
+
+## World
+
+### United_States
 
 * [DallasJobs](https://www.dallasjobs.io/)
 * [US Jobs](https://us.jobs/)
@@ -395,9 +429,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [CareerBeacon](https://www.careerbeacon.com/)
 * [jobgurus](https://ca.jobgurus.net/)
 
-### Europe
-
-#### United Kingdom
+### United_Kingdom
 
 * [Jobsite](https://www.jobsite.co.uk/)
 * [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
@@ -411,7 +443,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 * [DevITjobs UK](https://devitjobs.uk/)
 
-#### Germany
+### Germany
 
 * [Jobsuche](https://www.jobsintown.de/jobsuche/)
 * [StepStone](https://www.stepstone.de/en)
@@ -428,21 +460,21 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [academics](https://www.academics.de/)
 * [rekruter](https://www.rekruter.de/)
 
-#### Netherlands
+### Netherlands
 
 * [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
 * [HOITALENT](https://hoitalent.com/position/)
 * [Together Abroad](https://www.togetherabroad.nl/jobs.html)
 * [Jobs in the Netherlands](https://www.welcome-to-nl.nl/jobs/)
 
-#### Denmark
+### Denmark
 
 * [Jobindex](https://www.jobindex.dk/)
 * [It Job Bank](https://www.it-jobbank.dk/)
 * [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
 * [Open Jobs in Denmark](https://www.state-of-denmark.com/jobs)
 
-#### Italy
+### Italy
 
 * [Jobrapido](https://it.jobrapido.com/)
 * [Experteer](https://www.experteer.com/)
@@ -455,21 +487,21 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
 * [Gi Group](https://www.gigroup.it/)
 
-#### Poland
+### Poland
 
 * [Careers in Poland](https://www.careersinpoland.com/)
 * [Crossweb](https://crossweb.pl/en/job/oferty-pracy/)
 * [Bulldogjob](https://bulldogjob.com/)
 * [Just Join IT](https://justjoin.it/)
 
-#### Switzerland
+### Switzerland
 
 * [SwissDev Jobs](https://swissdevjobs.ch/)
 * [WeJob.ch](https://WeJob.ch/)
 * [Jobwinner](https://jobwinner.ch/en/)
 * [JobScout24](https://www.jobscout24.ch/en)
 
-#### Europe - Other
+### Europe_Other
 
 * [eurojobs](https://eurojobs.com/)
 * [eurobrussels](https://www.eurobrussels.com/)
@@ -496,24 +528,11 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Startup Jobs İstanbul](https://startupjobs.istanbul/)
 * [Toptalent](https://toptalent.co/is-ilanlari/)
 
-### MENA
+### UAE
 
-#### United Arab Emirates (UAE)
 * [Remote Jobs in Dubai](https://www.remotedxb.com)
 * [JobXDubai](https://jobxdubai.com)
 
 ### Asia
 
 * [Tech Jobs Asia](https://www.techjobsasia.com/)
-
-### Free & Open Source
-
-* [Free & Open Source Jobs](https://www.fossjobs.net/)
-* [Open Source Jobs](https://oo.t9t.io/jobs)
-* [LinuxJobs.io](https://www.linuxjobs.io/)
-* [Fossfox](https://fossfox.com/)
-
-### DevOps
-
-* [JobDevOps](https://jobdevops.com)
-* [Kube Careers](https://kube.careers)
