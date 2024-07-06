@@ -500,6 +500,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 #### United Arab Emirates (UAE)
 * [Remote Jobs in Dubai](https://www.remotedxb.com)
+* [JobXDubai](https://jobxdubai.com)
 
 ### Asia
 
