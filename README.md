@@ -53,7 +53,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
  
  
 ## Blockchain
-
 * [Blocktribe](https://blocktribe.com/)
 * [Crypto Jobs List](https://cryptojobslist.com/)
 * [CryptoJobs](https://crypto.jobs/)
@@ -64,6 +63,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [BlockStryde](https://block-stryde.com/)
 * [Next Crypto Jobs](https://nextcryptojobs.com/)
 * [Woody3](https://www.woody3.xyz/)
+* [Web3 Jobs](https://web3.career/)
 
 ## Design
 
