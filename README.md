@@ -164,7 +164,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobbsy](https://jobbsy.dev/) | Symfony job board
 * [Scala Jobs](https://scalajobs.com/)
 * [QA Jobs](https://www.qajobs.co/)
-* [androidDev.careers](https://androiddev.careers) 
+* [androidDev.careers](https://androiddev.careers)
+* [DevJobsPRO](https://devjobspro.com)
 
 ## Remote
 
