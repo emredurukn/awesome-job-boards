@@ -363,6 +363,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [HiringCafe](https://hiring.cafe/)
 * [We Are Distributed](https://wearedistributed.org/jobs)
 * [Jobs by Workable](https://jobs.workable.com/)
+* [Engineering Manager Jobs (EngMgrJobs)](https://engmgrjobs.com)
 
 ## Entry_Level
 
