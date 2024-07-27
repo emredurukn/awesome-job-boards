@@ -419,6 +419,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobaroo](https://www.jobaroo.com/)
 * [Breakout Careers](https://breakout.careers/jobs)
 * [Headhunted](https://www.headhunted.com.au/jobs/)
+* [seojobs](https://seojobs.au/)
 
 ### Canada
 
