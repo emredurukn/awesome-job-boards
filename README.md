@@ -365,6 +365,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Jobs by Workable](https://jobs.workable.com/)
 * [Engineering Manager Jobs (EngMgrJobs)](https://engmgrjobs.com)
 * [testdevjobs](https://testdevjobs.com/)
+* [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
 
 ## Entry_Level
 
