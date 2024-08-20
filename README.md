@@ -366,6 +366,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Engineering Manager Jobs (EngMgrJobs)](https://engmgrjobs.com)
 * [testdevjobs](https://testdevjobs.com/)
 * [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
+* [Christian Tech Jobs](https://www.christiantechjobs.io/)
 
 ## Entry_Level
 
