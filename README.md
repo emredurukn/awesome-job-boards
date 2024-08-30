@@ -465,6 +465,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [kimeta](https://www.kimeta.de/)
 * [academics](https://www.academics.de/)
 * [rekruter](https://www.rekruter.de/)
+* [meinestadt](https://www.meinestadt.de/)
+* [karrieresprung](https://www.karrieresprung.de/)
 
 ### Netherlands
 
