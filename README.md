@@ -529,6 +529,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [findwrk](https://findwrk.app/)
 * [RemoteScout](https://remotescout.ch)
 * [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
+* [lovejob](https://en.lovejob.lt/)
+
 
 ### Turkey
 
