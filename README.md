@@ -549,3 +549,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 ### Asia
 
 * [VietnamDevs](https://vietnamdevs.com)
+
+### Africa
+
+* [Hired - Jobs in Kenya](https://www.hired.co.ke)
+
