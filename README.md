@@ -426,6 +426,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 * [Breakout Careers](https://breakout.careers/jobs)
 * [Headhunted](https://www.headhunted.com.au/jobs/)
 * [seojobs](https://seojobs.au/)
+* [Backpacker Job Board](https://www.backpackerjobboard.com.au/)
+* [Grapevine Jobs](https://www.grapevinejobs.com.au/)
+* [Student Job Board](https://www.studentjobboard.com.au/)
 
 ### Canada
 
