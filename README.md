@@ -415,6 +415,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [Chef Jobs Near.Me](https://chefjobsnear.me/)
 
 ### Australia
 
