@@ -487,6 +487,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [It Job Bank](https://www.it-jobbank.dk/)
 - [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
 - [Open Jobs in Denmark](https://www.state-of-denmark.com/jobs)
+- [DanishTech](https://danishtech.co/) | Software engineering jobs only
 
 ### Italy
 
