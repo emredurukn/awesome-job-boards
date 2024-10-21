@@ -66,6 +66,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 - [Data Engineer Jobs](https://dataengineerjobs.com)
 - [Data Engineering Jobs](https://dataengjobs.com/)
+- [More Data Engineer Jobs](https://dataengineercareers.com/) - All the best data engineer jobs in one place. Subscribe and be first to apply.
 - [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 - [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
 - [Webscale Jobs](https://www.webscale.work) - Find a career working with MongoDB
