@@ -223,6 +223,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [RemoteSource](https://jobs.remotesource.com/jobs)
 - [tryremotely](https://tryremotely.com/remote-jobs)
 - [Find My Remote](https://findmyremote.ai/jobs)
+- [Benture](https://benture.io)
 
 ## Freelancer
 
