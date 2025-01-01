@@ -35,6 +35,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
   - [Turkey](#turkey)
   - [UAE](#uae)
   - [Asia](#asia)
+  - [Latam](#latam)
 
 ## General
 
@@ -560,6 +561,10 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [VietnamDevs](https://vietnamdevs.com)
 - [JobJob Thailand](https://th.jobjob.io)
+
+### Latam
+
+- [Findjobit](https://findjobit.com/jobs)
 
 ### Africa
 
