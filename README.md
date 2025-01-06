@@ -481,6 +481,10 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [meinestadt](https://www.meinestadt.de/)
 - [karrieresprung](https://www.karrieresprung.de/)
 
+### France
+
+- [teletravail.guru](https://teletravail.guru) | Full remote for frenchies, Emplois 100% télétravail depuis la France
+
 ### Netherlands
 
 - [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
