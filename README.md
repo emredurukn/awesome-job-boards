@@ -225,7 +225,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [tryremotely](https://tryremotely.com/remote-jobs)
 - [Find My Remote](https://findmyremote.ai/jobs)
 - [Benture](https://benture.io)
-
+- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | High-Paying ($100-600k)Fully-Remote Tech Jobs
 ## Freelancer
 
 - [Upwork](https://www.upwork.com)
@@ -548,6 +548,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) | €100k+ Software Engineering Jobs 🇪🇺
+- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | Top-Paying Tech Jobs in Europe and Remotely
 
 ### Turkey
 
