@@ -15,6 +15,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Programming](#programming)
 - [Remote](#remote)
 - [Freelancer](#freelancer)
+- [Fashion](#fashion)
+- [Care Services](#care_services)
 - [Other](#other)
 - [Entry Level](#entry_level)
 - [Startups](#startups)
@@ -243,6 +245,20 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
 
+## Fashion
+
+- [Cerulean](https://ceruleanjobs.com/)
+- [Fashion Workie](https://www.fashionworkie.com/)
+- [LuxuryRecruit](https://www.luxuryrecruit.com/)
+
+## Care_Services
+
+- [NannyLane](https://www.nannylane.com/)
+- [Housekeeper.com](https://housekeeper.com/)
+- [ElderCare.com](https://eldercare.com/)
+- [Sitter.com](https://sitter.com/)
+- [PetSitter.com](https://petsitter.com/)
+
 ## Other
 
 - [Job Board Search](https://jobboardsearch.com/)
@@ -447,6 +463,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [jobgurus](https://ca.jobgurus.net/)
+- [CanadianNanny.ca](https://canadiannanny.ca/)
 
 ### United_Kingdom
 
