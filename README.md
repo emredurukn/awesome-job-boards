@@ -1,4 +1,4 @@
-# Awesome Job Boards 
+# Awesome Job Boards
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -413,7 +413,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [WorkinStartups](https://workinstartups.com/)
 - [The Hub](https://thehub.io/)
 - [Unicorn Hunt](https://unicornhunt.io/)
-- [StartupHire](https://www.startuphire.com/) 
+- [StartupHire](https://www.startuphire.com/)
 - [Work in biotech](https://workinbiotech.com/)
 
 ## Open_Source
@@ -497,6 +497,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [rekruter](https://www.rekruter.de/)
 - [meinestadt](https://www.meinestadt.de/)
 - [karrieresprung](https://www.karrieresprung.de/)
+- [JobJump](https://jobjump.net/)
+
 
 ### France
 
