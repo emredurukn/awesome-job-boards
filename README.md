@@ -228,6 +228,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Find My Remote](https://findmyremote.ai/jobs)
 - [Benture](https://benture.io)
 - [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | High-Paying ($100-600k)Fully-Remote Tech Jobs
+
 ## Freelancer
 
 - [Upwork](https://www.upwork.com)
@@ -392,6 +393,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Mecruit Job Board](https://www.mecruit.com/)
+- [All PM jobs in one place](https://allpmjobs.com)
 
 ## Entry_Level
 
@@ -498,7 +500,6 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [meinestadt](https://www.meinestadt.de/)
 - [karrieresprung](https://www.karrieresprung.de/)
 - [JobJump](https://jobjump.net/)
-
 
 ### France
 
