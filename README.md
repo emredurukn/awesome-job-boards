@@ -173,6 +173,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Remote
 
+- [GoRemote Africa](https://www.goremote.africa) - Curated list of 100% Remote Jobs
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
 - [Career Vault](https://careervault.io/)
 - [Remotebond](https://remotebond.com/)
@@ -595,3 +596,4 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 ### Africa
 
 - [Hired - Jobs in Kenya](https://www.hired.co.ke)
+- [Jobberman Nigeria](https://jobberman.com)
