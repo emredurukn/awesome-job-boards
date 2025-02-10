@@ -401,11 +401,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [Entry Level Jobs](https://www.entryleveljobs.me/)
 - [College Recruiter](https://www.collegerecruiter.com/)
-- [Internships](https://www.internships.com/)
 - [Jr.DevJobs](https://www.jrdevjobs.com/)
 - [Graduateland](https://graduateland.com/jobs)
 - [TalentEgg](https://talentegg.ca/)
-- [entrylevel.io](https://entrylevel.io/)
 - [ErasmusIntern](https://erasmusintern.org/traineeships)
 - [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
