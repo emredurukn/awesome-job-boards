@@ -247,6 +247,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
+- [CodingCops.com](https://codingcops.com/)
 
 ## Fashion
 
