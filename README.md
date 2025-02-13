@@ -560,6 +560,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [No Fluff Jobs](https://nofluffjobs.com/) | Poland & Hungary
 - [Duunitori](https://duunitori.fi/tyopaikat) | Finland
 - [jobbland.se](https://jobbland.se/lediga-jobb) | Sweden
+- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) | Sweden
 - [jobbland.no](https://jobbland.no/ledige-stillinger) | Norway
 - [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) | Norway
 - [NIJOBS](https://www.nijobs.com/) (Ireland)
