@@ -418,6 +418,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Unicorn Hunt](https://unicornhunt.io/)
 - [StartupHire](https://www.startuphire.com/)
 - [Work in biotech](https://workinbiotech.com/)
+- [Startups Gallery](https://startups.gallery/)
 
 ## Open_Source
 
