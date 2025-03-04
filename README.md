@@ -482,6 +482,9 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 - [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 - [DevITjobs UK](https://devitjobs.uk/)
+- [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
+- [Builtin](https://builtin.com/)
+- [Welcome to the jungle](https://uk.welcometothejungle.com/)
 
 ### Germany
 
