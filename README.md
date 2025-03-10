@@ -587,6 +587,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [Remote Jobs in Dubai](https://www.remotedxb.com)
 - [JobXDubai](https://jobxdubai.com)
+- [Zero Tax Jobs](https://zerotaxjobs.com/)
 
 ### Asia
 
