@@ -397,6 +397,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Mecruit Job Board](https://www.mecruit.com/)
 - [All PM jobs in one place](https://allpmjobs.com)
+- [StarJobs - Personalised Job Search](https://starjobs.dev)
 
 ## Entry_Level
 
