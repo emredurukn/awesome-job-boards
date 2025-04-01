@@ -445,7 +445,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
 - [Chef Jobs Near.Me](https://chefjobsnear.me/)
-- [Remote Physician Jobs](https://www.remotephysicianjobs.org/)
+- [Remote Physician Jobs](https://www.remotephysicianjobs.org/) - Remote jobs for physicians and doctors. Live aggregator of 600 companies' job boards, updated daily
 
 ### Australia
 
