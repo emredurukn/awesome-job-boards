@@ -400,6 +400,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [All PM jobs in one place](https://allpmjobs.com)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](visajobs.xyz)
+- [jobswithgpt](https://jobswithgpt.com)
 
 ## Entry_Level
 
