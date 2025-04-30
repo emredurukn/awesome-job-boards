@@ -22,6 +22,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Startups](#startups)
 - [Free & Open Source](#open_source)
 - [DevOps](#devops)
+- [Quantum Computing](#quantum_computing)
 - [World](#world)
   - [USA](#united_states)
   - [Australia](#australia)
@@ -435,6 +436,10 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 - [JobDevOps](https://jobdevops.com)
 - [Kube Careers](https://kube.careers)
+
+## Quantum_Computing
+
+- [qubitsok.com](https://qubitsok.com)
 
 ## World
 
