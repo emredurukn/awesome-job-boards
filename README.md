@@ -88,6 +88,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Next Crypto Jobs](https://nextcryptojobs.com/)
 - [Woody3](https://www.woody3.xyz/)
 - [Web3 Jobs](https://web3.career/)
+- [token jobs](https://tokenjobs.io)
 
 ## Design
 
