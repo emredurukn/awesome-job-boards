@@ -233,6 +233,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Find My Remote](https://findmyremote.ai/jobs)
 - [Benture](https://benture.io)
 - [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | High-Paying ($100-600k)Fully-Remote Tech Jobs
+- [Remoseal](https://www.remoseal.com)
 
 ## Freelancer
 
