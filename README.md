@@ -416,6 +416,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
 
+You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships)
+
 ## Startups
 
 - [Startup Jobs](https://startup.jobs/)
