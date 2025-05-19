@@ -49,6 +49,8 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://twitter.com/jobs)
 
+You can also check out [easy-application](https://github.com/j-delaney/easy-application) | Over 400 software engineering companies that are easy to apply to
+
 ## AI
 
 - [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
@@ -593,9 +595,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 ### Turkey
 
-- [Kodilan](https://kodilan.com/)
 - [Randstad Türkiye](https://www.randstad.com.tr/jobs/)
-- [Startup Jobs İstanbul](https://startupjobs.istanbul/)
 - [Toptalent](https://toptalent.co/is-ilanlari/)
 
 ### UAE
