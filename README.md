@@ -278,6 +278,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Amazon Jobs](https://www.amazon.jobs/en)
 - [HackerNews Jobs](https://news.ycombinator.com/jobs)
 - [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+- [Top Jobs Today](https://topjobstoday.com) - FAANG jobs
 - [Crunchboard](https://www.crunchboard.com/)
 - [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 - [Jobbatical](https://jobbatical.com/jobs)
