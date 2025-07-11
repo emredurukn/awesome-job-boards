@@ -176,6 +176,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [androidDev.careers](https://androiddev.careers)
 - [DevJobsPRO](https://devjobspro.com)
 - [GrepJob](https://grepjob.com/) | SWE jobs scraped directly from high paying tech companies
+- [Software Tech Jobs](https://softwaretechjobs.com/) | US & Canada Software Jobs
 
 ## Remote
 
