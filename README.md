@@ -251,7 +251,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Hubstaff](https://talent.hubstaff.com/)
 - [Outsource](https://outsource.com)
 - [GigGrabbers](https://www.giggrabbers.com)
-- [CloudPeeps](https://www.cloudpeeps.com)
+- [Techamana](https://www.techamana.com)
 - [Local Solo](https://localsolo.com/)
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
