@@ -180,6 +180,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 
 ## Remote
 
+- [hiring.lat](https://hiring.lat) - Remote or relocation opportunities for LATAM workers
 - [GoRemote Africa](https://www.goremote.africa) - Curated list of 100% Remote Jobs
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
 - [Career Vault](https://careervault.io/)
