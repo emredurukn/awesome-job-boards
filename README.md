@@ -424,7 +424,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
 
-You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships)
+You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
 ## Startups
 
