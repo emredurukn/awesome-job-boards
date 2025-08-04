@@ -618,6 +618,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 ### Latam
 
 - [Findjobit](https://findjobit.com/jobs)
+- [TacoEmpleos](https://tacoempleos.com.mx) | Reverse job board for restaurant positions in Mexico
 
 ### Africa
 
