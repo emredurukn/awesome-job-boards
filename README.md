@@ -566,6 +566,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Crossweb](https://crossweb.pl/en/job/oferty-pracy/)
 - [Bulldogjob](https://bulldogjob.com/)
 - [Just Join IT](https://justjoin.it/)
+- [Jobo](https://jobo.pl/)
 
 ### Switzerland
 
