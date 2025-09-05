@@ -112,6 +112,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [AIGA Design Jobs](https://designjobs.aiga.org/)
 - [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
 - [CreativeMornings](https://creativemornings.com/jobs)
+- [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
 - [The Loop](https://www.theloop.com.au/jobs)
 - [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
@@ -407,7 +408,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Boilermaker Jobs](https://boilermakerjobs.co/)
 - [Part-Time Job Hub](https://ptjobhub.com/)
 - [Best PM Jobs](https://www.bestpmjobs.com/)
-- [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Mecruit Job Board](https://www.mecruit.com/)
 - [All PM jobs in one place](https://allpmjobs.com)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
