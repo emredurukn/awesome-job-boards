@@ -136,6 +136,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [iOS Dev Jobs](https://iosdevjobs.com/)
 - [Elixir Radar](https://elixir-radar.com/jobs)
 - [Elixir Jobs](https://elixirjobs.net/)
+- [findatechjob](https://findatechjob.dev/)
 - [Full-Stack Developer Jobs](https://fullstackjob.com/)
 - [Functional Jobs](https://functionaljobs.com/)
 - [Golangprojects](https://www.golangprojects.com/)
