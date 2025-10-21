@@ -415,6 +415,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](visajobs.xyz)
 - [jobswithgpt](https://jobswithgpt.com)
+- [Jobright](https://jobright.ai/)
 
 ## Entry_Level
 
