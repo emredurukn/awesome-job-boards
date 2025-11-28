@@ -47,7 +47,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
-- [X jobs](https://twitter.com/jobs)
+- [X jobs](https://x.com/jobs)
 - [Careerday](https://careerday.com/)
 
 You can also check out [easy-application](https://github.com/j-delaney/easy-application) | Over 400 software engineering companies that are easy to apply to
@@ -57,7 +57,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
 - [AI Jobs](https://ai-jobs.net/)
-- [AiJobsTracker](https://www.aijobstracker.com/) | live aggregator of 300+ AI-first companies's job boards, updated daily.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) | AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) | Find engineering, product, and research roles at the top AI startups.
 
@@ -72,9 +71,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [StatsJobs](https://www.statsjobs.com/)
 - [Big Cloud](https://bigcloud.global/find-a-job/)
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
-- [Data Engineer Jobs](https://dataengineerjobs.com)
 - [Data Engineering Jobs](https://dataengjobs.com/)
-- [More Data Engineer Jobs](https://dataengineercareers.com/) - All the best data engineer jobs in one place. Subscribe and be first to apply.
 - [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
 - [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
 
@@ -85,9 +82,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Blockew](https://blockew.com/)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
-- [BlockStryde](https://block-stryde.com/)
-- [Next Crypto Jobs](https://nextcryptojobs.com/)
-- [Woody3](https://www.woody3.xyz/)
 - [Web3 Jobs](https://web3.career/)
 - [token jobs](https://tokenjobs.io)
 
@@ -103,15 +97,13 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 - [UX Jobs Board](https://www.uxjobsboard.com)
 - [Designer Jobs](https://designerjobs.co/jobs)
-- [designmodo](https://designmodo.com/jobs/)
 - [Design Jobs Board](https://www.designjobsboard.com/)
-- [Design Week Jobs](https://jobs.designweek.co.uk/)
+- [Design Week Jobs](https://www.designweek.co.uk/jobs/)
 - [AIGA Design Jobs](https://designjobs.aiga.org/)
 - [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
 - [CreativeMornings](https://creativemornings.com/jobs)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
-- [The Loop](https://www.theloop.com.au/jobs)
 - [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 - [UI/UX Jobs Board](https://uiuxjobsboard.com)
 
@@ -123,10 +115,10 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [CareersInfoSecurity](https://www.careersinfosecurity.com/jobs/)
 - [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
 - [YesWeHack](https://jobs.yeswehack.com/en/)
-- [CyberStryde](https://cyber-stryde.com/)
 
 ## Programming
 
+- [Ruby on Rails Jobs](https://www.ruby-on-rails-jobs.com/)
 - [ClojureJobboard](https://ClojureJobboard.com/)
 - [iOS Dev Jobs](https://iosdevjobs.com/)
 - [Elixir Radar](https://elixir-radar.com/jobs)
@@ -140,34 +132,28 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Golang Cafe](https://golang.cafe/)
 - [Angular Jobs](https://angularjobs.com/)
 - [Angular Work](https://angular.work/)
-- [Ember Job Board](https://jobs.emberjs.com/)
 - [Vue.js Jobs](https://vuejobs.com/)
 - [Made with Vue.js Jobs](https://madewithvuejs.com/jobs)
 - [React Job Board](https://www.reactjobboard.com/)
 - [React JS Jobs](https://reactjsjob.com/)
-- [We Love Angular](https://www.weloveangular.com/)
 - [We Work Meteor](https://www.weworkmeteor.com/)
 - [Drupal Jobs](https://jobs.drupal.org/)
 - [WordPress Jobs](https://jobs.wordpress.net/)
 - [LaraJobs](https://larajobs.com/)
-- [WPhired](https://www.wphired.com/)
 - [pyJobs](https://www.pyjobs.com/)
 - [Python Job Board](https://www.python.org/jobs/)
 - [Python Jobs](https://pythonjob.xyz/)
 - [Pycoder's Jobs](https://www.pythonjobshq.com/)
 - [django gigs](https://djangogigs.com/)
 - [Django Jobs](https://djangojobs.net/jobs/)
-- [Ruby on Rails Jobs](https://www.rorjobs.com/)
 - [Rust Programming Language Jobs](http://rust-jobs.com/)
 - [JavaScript Jobs](https://jobs.date-fns.org/)
 - [Jobs in JS](https://jobsinjs.com/)
 - [R-users](https://www.r-users.com/)
-- [JavaProHire](https://javaprohire.com)
 - [Jobbsy](https://jobbsy.dev/) | Symfony job board
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
-- [DevJobsPRO](https://devjobspro.com)
 - [GrepJob](https://grepjob.com/) | SWE jobs scraped directly from high paying tech companies
 - [Software Tech Jobs](https://softwaretechjobs.com/) | US & Canada Software Jobs
 - [EmbeddedJobs](https://embedded.jobs/) | best jobs for Embedded Systems Engineers
@@ -183,7 +169,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [We Work Remotely](https://weworkremotely.com/)
 - [Workaline](https://workaline.com/)
 - [RemoteYeah](https://remoteyeah.com/)
-- [Remotive](https://remotive.io/)
+- [Remotive](https://remotive.com/)
 - [Remote](https://remote.com/jobs/all)
 - [remote | OK](https://remoteok.io/)
 - [JustRemote](https://justremote.co/)
@@ -191,12 +177,10 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [remote.co](https://remote.co/remote-jobs/)
 - [remote4me.com](https://remote4me.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
-- [EuropeRemotely](https://europeremotely.com/)
 - [AwesomeJobs](https://www.awesomejobs.io/)
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
 - [JS Remotely](https://jsremotely.com/)
-- [Remote Arena](https://remotearena.com/)
 - [letsworkremotely](https://www.letsworkremotely.com/remote-jobs/)
 - [Workew](https://workew.com/remote-jobs/)
 - [wellpaid.io](https://wellpaid.io/)
@@ -207,15 +191,10 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Jobmote](https://jobmote.com/)
 - [DailyRemote](https://dailyremote.com/)
 - [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
-- [Remotees](https://remotees.com/)
 - [Meerkad](https://meerkad.com/)
-- [Work From Home Jobs](https://workfromhomejobs.me/)
 - [Pangian](https://pangian.com/job-travel-remote/)
-- [Outsourcely](https://www.outsourcely.com/remote-workers)
-- [ProsperCircle.org](https://www.prospercircle.org/)
 - [DynamiteJobs](https://www.dynamitejobs.com/)
 - [FlatWorld](https://flatworld.co/jobs/)
-- [Hire Remote](https://hireremote.io/)
 - [Remote Index](https://remoteindex.co/)
 - [Remote Jobs](https://backendremotejobs.com/)
 - [Devremote](https://devremote.io/)
@@ -229,6 +208,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Remoseal](https://www.remoseal.com)
 - [Remote100K](https://remote100k.com/)
 - [RemoteRocketship](https://www.remoterocketship.com/)
+- [RemoteScout](https://remotescout24.com/en)
 
 ## Freelancer
 
@@ -242,7 +222,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Outsource](https://outsource.com)
 - [GigGrabbers](https://www.giggrabbers.com)
 - [Techamana](https://www.techamana.com)
-- [Local Solo](https://localsolo.com/)
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
@@ -285,12 +264,10 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Aquent](https://aquent.com/find-work/)
 - [HackerX](https://hackerx.org/jobs/)
 - [findwork.dev](https://findwork.dev/)
-- [Livecareer](https://jobs.livecareer.com/)
 - [The Muse](https://www.themuse.com/jobs)
 - [LinkUp](https://linkup.com/)
 - [eComPortal](https://ecomportal.co)
 - [Authentic Jobs](https://authenticjobs.com/)
-- [DevSnap](https://devsnap.io/)
 - [Joblist.app](https://joblist.app/)
 - [Jobs2Careers](https://www.jobs2careers.com/)
 - [JobisJob](https://www.jobisjob.com/)
@@ -307,11 +284,8 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Y Combinator Job Board](https://ycombinator.monday.vc/)
 - [Relocate.me](https://relocate.me/)
 - [PRODUCTHIRE.NET](https://producthire.net/)
-- [Sports tech jobs](https://sportekjobs.com)
 - [#epicjobs](https://epicjobs.co/)
-- [Able](https://able.bio/jobs)
 - [StackShare](https://stackshare.io/match)
-- [Top Language Jobs](https://www.toplanguagejobs.com/)
 - [Vanhack](https://vanhack.com/platform/#/jobs)
 - [PeopleFirstJobs](https://peoplefirstjobs.com/)
 - [Naukri](https://www.naukri.com/)
@@ -319,7 +293,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
 - [Totaljobs](https://www.totaljobs.com/)
 - [XING](https://www.xing.com/jobs)
-- [Codepen Jobs](https://codepen.io/jobs/)
 - [The Guardian Jobs](https://jobs.theguardian.com/jobs/)
 - [Jobs in Network](https://www.jobsinnetwork.com/)
 - [snagajob](https://www.snagajob.com/)
@@ -335,13 +308,11 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [VirtualVocations](https://www.virtualvocations.com/)
 - [Mashable](https://jobs.mashable.com/)
 - [Jobvertise](http://www.jobvertise.com/)
-- [EqualOpportunity](https://equalopportunity.work/)
 - [CNCF Job Board](https://jobs.cncf.io/)
 - [KDR Recruitment](https://www.kdrrecruitment.com/jobs/)
 - [Diversify Tech](https://www.diversifytech.co/job-board/)
 - [Hitmarker](https://hitmarker.net/jobs)
 - [Open Jobs in Copenhagen Region](https://careers.greatercphregion.com/)
-- [Hey Gamer](https://www.heygamer.co/)
 - [PRSA Job Center](https://jobs.prsa.org/)
 - [eFinancialCareers](https://www.efinancialcareers.com/)
 - [Uncubed](https://uncubed.com/jobs)
@@ -350,7 +321,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [DiversityJobs](https://www.diversityjobs.com/)
 - [ClearanceJobs](https://www.clearancejobs.com/)
 - [IT Job Pro](https://itjobpro.com/)
-- [The-Dots](https://the-dots.com/jobs/search)
 - [CampaignJobs](https://jp.campaignlive.co.uk/jobs)
 - [Tech Jobs for Good](https://techjobsforgood.com/)
 - [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
@@ -358,19 +328,15 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Lensa](https://lensa.com/)
 - [arbeitnow](https://www.arbeitnow.com)
 - [4 day week](https://4dayweek.io/)
-- [Renewable Jobs](https://www.renewable.jobs/)
 - [Jobgether](https://jobgether.com)
 - [Techloop](https://jobs.techloop.io/)
 - [Himalayas](https://himalayas.app/jobs)
-- [Talent Service](https://talentservice.com/vacancies)
 - [gamesjobsdirect](https://www.gamesjobsdirect.com/)
 - [jobsdb](https://www.jobsdb.com/)
 - [scholarshipdb](https://scholarshipdb.net/)
 - [OpenQuant](https://openquant.co/) | Finance
 - [AquariumsHiring](https://aquariumshiring.com) | Nature
 - [ZoosHiring](https://zooshiring.com) | Nature
-- [OkJob](https://okjob.io) | 4 day week job board
-- [ProsperCircle](https://www.prospercircle.com "{rel='nofollow'}") | Product Management Jobs
 - [Rejobs](https://rejobs.org/en/) | Renewable Energy Jobs
 - [Hidden Jobs](https://hidden-jobs.com/)
 - [HiringCafe](https://hiring.cafe/)
@@ -381,15 +347,13 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [GreenLever](https://greenlever.co/)
-- [Boilermaker Jobs](https://boilermakerjobs.co/)
 - [Best PM Jobs](https://www.bestpmjobs.com/)
-- [Mecruit Job Board](https://www.mecruit.com/)
-- [All PM jobs in one place](https://allpmjobs.com)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](visajobs.xyz)
 - [jobswithgpt](https://jobswithgpt.com)
 - [Jobright](https://jobright.ai/)
 - [JobFound](https://jobfound.co)
+- [Woody](https://www.woodyjobs.com/)
 
 ## Entry_Level
 
@@ -410,16 +374,12 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [StartUpers](https://www.startupers.com/)
 - [WorkinStartups](https://workinstartups.com/)
 - [The Hub](https://thehub.io/)
-- [Unicorn Hunt](https://unicornhunt.io/)
-- [StartupHire](https://www.startuphire.com/)
 - [Work in biotech](https://workinbiotech.com/)
 - [Startups Gallery](https://startups.gallery/)
 
 ## Open_Source
 
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
-- [Open Source Jobs](https://oo.t9t.io/jobs)
-- [LinuxJobs.io](https://www.linuxjobs.io/)
 - [Fossfox](https://fossfox.com/)
 
 ## DevOps
@@ -445,34 +405,27 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 ### Australia
 
-- [austechjobs](https://austechjobs.com.au/)
 - [SEEK](https://www.seek.com.au/)
 - [CareerOne](https://www.careerone.com.au/)
 - [Jobaroo](https://www.jobaroo.com/)
-- [Breakout Careers](https://breakout.careers/jobs)
 - [Headhunted](https://www.headhunted.com.au/jobs/)
-- [seojobs](https://seojobs.au/)
-- [Backpacker Job Board](https://www.backpackerjobboard.com.au/)
 - [Grapevine Jobs](https://www.grapevinejobs.com.au/)
 - [Student Job Board](https://www.studentjobboard.com.au/)
 
 ### Canada
 
 - [Work in Tech](https://www.workintech.ca/)
-- [Toronto Startup Jobs](https://to9to5.com/)
 - [Jobboom](https://www.jobboom.com/en/job/)
 - [Jobillico](https://www.jobillico.com/search-jobs)
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
-- [jobgurus](https://ca.jobgurus.net/)
 - [CanadianNanny.ca](https://canadiannanny.ca/)
 
 ### United_Kingdom
 
 - [Jobsite](https://www.jobsite.co.uk/)
 - [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
-- [Wired Sussex](https://www.wiredsussex.com/jobs/all/)
 - [CWJobs](https://www.cwjobs.co.uk/)
 - [reed](https://www.reed.co.uk/)
 - [CV-Library](https://www.cv-library.co.uk/)
@@ -512,7 +465,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 ### Netherlands
 
 - [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
-- [HOITALENT](https://hoitalent.com/position/)
 - [Together Abroad](https://www.togetherabroad.nl/jobs.html)
 - [Jobs in the Netherlands](https://www.welcome-to-nl.nl/jobs/)
 
@@ -569,8 +521,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) | Norway
 - [NIJOBS](https://www.nijobs.com/) (Ireland)
 - [Hyper Island](https://www.hyperisland.com/jobs)
-- [findwrk](https://findwrk.app/)
-- [RemoteScout](https://remotescout.ch)
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) | €100k+ Software Engineering Jobs 🇪🇺
@@ -590,7 +540,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 ### Asia
 
 - [VietnamDevs](https://vietnamdevs.com)
-- [JobJob Thailand](https://th.jobjob.io)
 
 ### Latam
 
@@ -599,5 +548,4 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 ### Africa
 
-- [Hired - Jobs in Kenya](https://www.hired.co.ke)
 - [Jobberman Nigeria](https://jobberman.com)
