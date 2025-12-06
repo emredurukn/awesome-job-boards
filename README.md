@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome job boards. If you want to support my work, you can buy me a coffee [here](https://www.buymeacoffee.com/emredurukn).
+A curated list of awesome job boards. If you want to support my work, you can [buy me a coffee here](https://www.buymeacoffee.com/emredurukn).
 
 ## Table of Contents
 
@@ -162,7 +162,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 ## Remote
 
 - [hiring.lat](https://hiring.lat) - Remote or relocation opportunities for LATAM workers
-- [GoRemote Africa](https://www.goremote.africa) - Curated list of 100% Remote Jobs
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
 - [Career Vault](https://careervault.io/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
@@ -180,7 +179,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [AwesomeJobs](https://www.awesomejobs.io/)
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
-- [JS Remotely](https://jsremotely.com/)
+- [Remote Javascript Jobs](https://javascript.jobs/remote)
 - [letsworkremotely](https://www.letsworkremotely.com/remote-jobs/)
 - [Workew](https://workew.com/remote-jobs/)
 - [wellpaid.io](https://wellpaid.io/)
@@ -192,7 +191,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [DailyRemote](https://dailyremote.com/)
 - [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
 - [Meerkad](https://meerkad.com/)
-- [Pangian](https://pangian.com/job-travel-remote/)
+- [Pangian](https://pangian.com/remote/job-board/)
 - [DynamiteJobs](https://www.dynamitejobs.com/)
 - [FlatWorld](https://flatworld.co/jobs/)
 - [Remote Index](https://remoteindex.co/)
@@ -225,7 +224,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
-- [CodingCops.com](https://codingcops.com/)
 
 ## Fashion
 
