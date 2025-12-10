@@ -352,6 +352,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Jobright](https://jobright.ai/)
 - [JobFound](https://www.jobfound.org/)
 - [Woody](https://www.woodyjobs.com/)
+- [Econ-Jobs](https://econ-jobs.com/)
 
 ## Entry_Level
 
