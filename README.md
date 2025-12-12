@@ -209,6 +209,8 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
 
+You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
+
 ## Freelancer
 
 - [Upwork](https://www.upwork.com)
