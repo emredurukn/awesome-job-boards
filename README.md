@@ -208,7 +208,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Remote100K](https://remote100k.com/)
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
-
+- [Remote Job Assistant](https://remotejobassistant.com/) | Remote jobs for moms, career changers & non-technical professionals
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
 ## Freelancer
