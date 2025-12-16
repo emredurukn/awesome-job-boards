@@ -209,6 +209,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
 - [Remote Job Assistant](https://remotejobassistant.com/) | Remote jobs for moms, career changers & non-technical professionals
+- [RemoteCorgi](https://www.remotecorgi.com/) | Hand-picked remote and hybrid jobs. Top companies only.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
