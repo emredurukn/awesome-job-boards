@@ -1,6 +1,4 @@
-# Awesome Job Boards
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome job boards. If you want to support my work, you can [buy me a coffee here](https://www.buymeacoffee.com/emredurukn).
 
@@ -40,6 +38,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [UAE](#uae)
   - [Asia](#asia)
   - [Latam](#latam)
+  - [Africa](#africa)
 
 ## General
 
@@ -156,7 +155,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [androidDev.careers](https://androiddev.careers)
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
-- [EmbeddedJobs](https://embedded.jobs/) - best jobs for Embedded Systems Engineers.
+- [EmbeddedJobs](https://embedded.jobs/) - Best jobs for Embedded Systems Engineers.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
 
 ## Remote
@@ -276,7 +275,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [TechMeAbroad](https://techmeabroad.com/)
 - [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 - [Codersrank](https://jobs.codersrank.io/)
-- [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers.
+- [ClimateTechList](https://www.climatetechlist.com/) - Climate tech / green energy jobs for software engineers.
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
