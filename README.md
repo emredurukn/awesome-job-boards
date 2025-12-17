@@ -29,6 +29,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [Canada](#canada)
   - [UK](#uk)
   - [Germany](#germany)
+  - [France](#france)
   - [Netherlands](#netherlands)
   - [Denmark](#denmark)
   - [Italy](#italy)
@@ -249,7 +250,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Amazon Jobs](https://www.amazon.jobs/en)
 - [HackerNews Jobs](https://news.ycombinator.com/jobs)
 - [Stack Overflow Jobs](https://stackoverflowjobs.com/)
-- [Top Jobs Today](https://topjobstoday.com) - FAANG jobs
+- [Top Jobs Today](https://topjobstoday.com) - FAANG jobs.
 - [Crunchboard](https://www.crunchboard.com/)
 - [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 - [Jobbatical](https://jobbatical.com/jobs)
@@ -333,10 +334,10 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [gamesjobsdirect](https://www.gamesjobsdirect.com/)
 - [jobsdb](https://www.jobsdb.com/)
 - [scholarshipdb](https://scholarshipdb.net/)
-- [OpenQuant](https://openquant.co/) - Finance
-- [AquariumsHiring](https://aquariumshiring.com) - Nature
-- [ZoosHiring](https://zooshiring.com) - Nature
-- [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs
+- [OpenQuant](https://openquant.co/) - Finance.
+- [AquariumsHiring](https://aquariumshiring.com) - Nature.
+- [ZoosHiring](https://zooshiring.com) - Nature.
+- [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 - [Hidden Jobs](https://hidden-jobs.com/)
 - [HiringCafe](https://hiring.cafe/)
 - [We Are Distributed](https://wearedistributed.org/jobs)
@@ -348,7 +349,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GreenLever](https://greenlever.co/)
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
-- [visajobs.xyz](visajobs.xyz)
+- [visajobs.xyz](https://visajobs.xyz/)
 - [jobswithgpt](https://jobswithgpt.com)
 - [Jobright](https://jobright.ai/)
 - [JobFound](https://www.jobfound.org/)
@@ -512,14 +513,14 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [CV Keskus](https://www.cvkeskus.ee/)
 - [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 - [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
-- [No Fluff Jobs](https://nofluffjobs.com/) - Poland & Hungary
-- [Duunitori](https://duunitori.fi/tyopaikat) - Finland
-- [Statsskuld.se](https://statsskuld.se/lediga-jobb) - Sweden
-- [jobbland.se](https://jobbland.se/lediga-jobb) - Sweden
-- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) - Sweden
-- [jobbland.no](https://jobbland.no/ledige-stillinger) - Norway
-- [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway
-- [NIJOBS](https://www.nijobs.com/) (Ireland)
+- [No Fluff Jobs](https://nofluffjobs.com/) - Poland & Hungary.
+- [Duunitori](https://duunitori.fi/tyopaikat) - Finland.
+- [Statsskuld.se](https://statsskuld.se/lediga-jobb) - Sweden.
+- [jobbland.se](https://jobbland.se/lediga-jobb) - Sweden.
+- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) - Sweden.
+- [jobbland.no](https://jobbland.no/ledige-stillinger) - Norway.
+- [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway.
+- [NIJOBS](https://www.nijobs.com/) - Ireland.
 - [Hyper Island](https://www.hyperisland.com/jobs)
 - [zuhausejobs.com](https://zuhausejobs.com) - Germany, Austria & Switzerland.
 - [lovejob](https://en.lovejob.lt/)
