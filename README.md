@@ -50,7 +50,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [X jobs](https://x.com/jobs)
 - [Careerday](https://careerday.com/)
 
-You can also check out [easy-application](https://github.com/j-delaney/easy-application) | Over 400 software engineering companies that are easy to apply to
+You can also check out [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to
 
 ## AI
 
@@ -104,7 +104,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [CreativeMornings](https://creativemornings.com/jobs)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
-- [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+- [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) - Hand-picked UI, UX & UXR Jobs
 - [UI/UX Jobs Board](https://uiuxjobsboard.com)
 
 ## InfoSec
@@ -208,6 +208,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals
+- [RemoteCorgi](https://www.remotecorgi.com/) - Hand-picked remote and hybrid jobs. Top companies only.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -333,10 +334,10 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [gamesjobsdirect](https://www.gamesjobsdirect.com/)
 - [jobsdb](https://www.jobsdb.com/)
 - [scholarshipdb](https://scholarshipdb.net/)
-- [OpenQuant](https://openquant.co/) | Finance
-- [AquariumsHiring](https://aquariumshiring.com) | Nature
-- [ZoosHiring](https://zooshiring.com) | Nature
-- [Rejobs](https://rejobs.org/en/) | Renewable Energy Jobs
+- [OpenQuant](https://openquant.co/) - Finance
+- [AquariumsHiring](https://aquariumshiring.com) - Nature
+- [ZoosHiring](https://zooshiring.com) - Nature
+- [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs
 - [Hidden Jobs](https://hidden-jobs.com/)
 - [HiringCafe](https://hiring.cafe/)
 - [We Are Distributed](https://wearedistributed.org/jobs)
