@@ -16,25 +16,25 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Remote](#remote)
 - [Freelancer](#freelancer)
 - [Fashion](#fashion)
-- [Care Services](#care_services)
+- [Care Services](#care-services)
 - [Other](#other)
-- [Entry Level](#entry_level)
+- [Entry Level](#entry-level)
 - [Startups](#startups)
-- [Free & Open Source](#open_source)
+- [Open Source](#open-source)
 - [DevOps](#devops)
-- [Quantum Computing](#quantum_computing)
+- [Quantum Computing](#quantum-computing)
 - [World](#world)
-  - [USA](#united_states)
+  - [USA](#usa)
   - [Australia](#australia)
   - [Canada](#canada)
-  - [UK](#united_kingdom)
+  - [UK](#uk)
   - [Germany](#germany)
   - [Netherlands](#netherlands)
   - [Denmark](#denmark)
   - [Italy](#italy)
   - [Poland](#poland)
   - [Switzerland](#switzerland)
-  - [Europe Other](#europe_other)
+  - [Europe Other](#europe-other)
   - [Turkey](#turkey)
   - [UAE](#uae)
   - [Asia](#asia)
@@ -99,7 +99,6 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Designer Jobs](https://designerjobs.co/jobs)
 - [Design Jobs Board](https://www.designjobsboard.com/)
 - [Design Week Jobs](https://www.designweek.co.uk/jobs/)
-- [AIGA Design Jobs](https://designjobs.aiga.org/)
 - [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
 - [CreativeMornings](https://creativemornings.com/jobs)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
@@ -234,7 +233,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fashion Workie](https://www.fashionworkie.com/)
 - [LuxuryRecruit](https://www.luxuryrecruit.com/)
 
-## Care_Services
+## Care Services
 
 - [NannyLane](https://www.nannylane.com/)
 - [Housekeeper.com](https://housekeeper.com/)
@@ -356,7 +355,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Woody](https://www.woodyjobs.com/)
 - [Econ-Jobs](https://econ-jobs.com/)
 
-## Entry_Level
+## Entry Level
 
 - [Entry Level Jobs](https://www.entryleveljobs.me/)
 - [College Recruiter](https://www.collegerecruiter.com/)
@@ -378,7 +377,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Work in biotech](https://workinbiotech.com/)
 - [Startups Gallery](https://startups.gallery/)
 
-## Open_Source
+## Open Source
 
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [Fossfox](https://fossfox.com/)
@@ -387,13 +386,13 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 - [Kube Careers](https://kube.careers)
 
-## Quantum_Computing
+## Quantum Computing
 
 - [qubitsok.com](https://qubitsok.com)
 
 ## World
 
-### United_States
+### USA
 
 - [DallasJobs](https://www.dallasjobs.io/)
 - [US Jobs](https://us.jobs/)
@@ -423,7 +422,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [CanadianNanny.ca](https://canadiannanny.ca/)
 
-### United_Kingdom
+### United Kingdom
 
 - [Jobsite](https://www.jobsite.co.uk/)
 - [Job Serve](https://www.jobserve.com/gb/en/Job-Search/)
@@ -504,7 +503,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
 
-### Europe_Other
+### Europe Other
 
 - [eurojobs](https://eurojobs.com/)
 - [eurobrussels](https://www.eurobrussels.com/)
