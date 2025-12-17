@@ -4,7 +4,7 @@
 
 A curated list of awesome job boards. If you want to support my work, you can [buy me a coffee here](https://www.buymeacoffee.com/emredurukn).
 
-## Table of Contents
+## Contents
 
 - [General](#general)
 - [AI](#ai)
@@ -54,11 +54,11 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 
 ## AI
 
-- [AI Jobs](https://www.moaijobs.com/) | Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
-- [AI/ML Jobs](https://aimljobs.fyi) | Jobs at Top AI Companies and Startups, Updated Daily!
+- [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
+- [AI/ML Jobs](https://aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 - [AI Jobs](https://ai-jobs.net/)
-- [AI Tech Suite](https://www.aitechsuite.com/jobs) | AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
-- [ExploreJobs.ai](https://explorejobs.ai) | Find engineering, product, and research roles at the top AI startups.
+- [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
+- [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 
 ## Data
 
@@ -72,8 +72,8 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Big Cloud](https://bigcloud.global/find-a-job/)
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 - [Data Engineering Jobs](https://dataengjobs.com/)
-- [DataScienceJobs](https://datasciencejobs.com/) | Discover the latest and greatest data science jobs.
-- [Dataaxy](https://dataaxy.com/) | Top Data & AI Jobs in North America at your fingertips.
+- [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
+- [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
 
 ## Blockchain
 
@@ -144,25 +144,25 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Python Job Board](https://www.python.org/jobs/)
 - [Python Jobs](https://pythonjob.xyz/)
 - [Pycoder's Jobs](https://www.pythonjobshq.com/)
-- [django gigs](https://djangogigs.com/)
+- [Django gigs](https://djangogigs.com/)
 - [Django Jobs](https://djangojobs.net/jobs/)
 - [Rust Programming Language Jobs](http://rust-jobs.com/)
 - [JavaScript Jobs](https://jobs.date-fns.org/)
 - [Jobs in JS](https://jobsinjs.com/)
 - [R-users](https://www.r-users.com/)
-- [Jobbsy](https://jobbsy.dev/) | Symfony job board
+- [Jobbsy](https://jobbsy.dev/) - Symfony job board
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
-- [GrepJob](https://grepjob.com/) | SWE jobs scraped directly from high paying tech companies
-- [Software Tech Jobs](https://softwaretechjobs.com/) | US & Canada Software Jobs
-- [EmbeddedJobs](https://embedded.jobs/) | best jobs for Embedded Systems Engineers
-- [ReactNative Jobs](https://reactnative-jobs.com/) | The #1 job board for React Native developers
+- [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies
+- [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs
+- [EmbeddedJobs](https://embedded.jobs/) - best jobs for Embedded Systems Engineers
+- [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers
 
 ## Remote
 
 - [hiring.lat](https://hiring.lat) - Remote or relocation opportunities for LATAM workers
-- [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
+- [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - 100% globally work from anywhere jobs
 - [Career Vault](https://careervault.io/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
 - [We Work Remotely](https://weworkremotely.com/)
@@ -179,7 +179,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [AwesomeJobs](https://www.awesomejobs.io/)
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
-- [Remote Javascript Jobs](https://javascript.jobs/remote)
+- [Remote JavaScript Jobs](https://javascript.jobs/remote)
 - [letsworkremotely](https://www.letsworkremotely.com/remote-jobs/)
 - [Workew](https://workew.com/remote-jobs/)
 - [wellpaid.io](https://wellpaid.io/)
@@ -197,18 +197,17 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Remote Index](https://remoteindex.co/)
 - [Remote Jobs](https://backendremotejobs.com/)
 - [Devremote](https://devremote.io/)
-- [I love remote](https://iloveremote.io) | High paid remote jobs
-- [RemoteFR](https://remoteFR.com) | Full remote jobs for French devs
+- [I love remote](https://iloveremote.io) - High paid remote jobs
+- [RemoteFR](https://remoteFR.com) - Full remote jobs for French devs
 - [RemoteSource](https://jobs.remotesource.com/jobs)
 - [tryremotely](https://tryremotely.com/remote-jobs)
 - [Find My Remote](https://findmyremote.ai/)
 - [Benture](https://benture.io)
-- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | High-Paying ($100-600k)Fully-Remote Tech Jobs
 - [Remoseal](https://www.remoseal.com)
 - [Remote100K](https://remote100k.com/)
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
-- [Remote Job Assistant](https://remotejobassistant.com/) | Remote jobs for moms, career changers & non-technical professionals
+- [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -226,7 +225,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Techamana](https://www.techamana.com)
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
-- [Freel](https://www.freel.ca/) | Freelancing jobs in Canada
+- [Freel](https://www.freel.ca/) - Freelancing jobs in Canada
 
 ## Fashion
 
@@ -268,7 +267,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [The Muse](https://www.themuse.com/jobs)
 - [LinkUp](https://linkup.com/)
 - [eComPortal](https://ecomportal.co)
-- [Authentic Jobs](https://authenticjobs.com/)
 - [Joblist.app](https://joblist.app/)
 - [Jobs2Careers](https://www.jobs2careers.com/)
 - [JobisJob](https://www.jobisjob.com/)
@@ -277,7 +275,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [TechMeAbroad](https://techmeabroad.com/)
 - [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 - [Codersrank](https://jobs.codersrank.io/)
-- [ClimateTechList](https://www.climatetechlist.com/) | climate tech / green energy jobs for software engineers
+- [ClimateTechList](https://www.climatetechlist.com/) - climate tech / green energy jobs for software engineers
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
@@ -462,7 +460,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 ### France
 
-- [teletravail.guru](https://teletravail.guru) | Full remote for frenchies, Emplois 100% télétravail depuis la France
+- [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France
 
 ### Netherlands
 
@@ -476,7 +474,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [It Job Bank](https://www.it-jobbank.dk/)
 - [Jobs in Copenhagen](https://www.jobsincopenhagen.com/)
 - [Open Jobs in Denmark](https://careers.state-of-denmark.com/)
-- [DanishTech](https://danishtech.co/) | Software engineering jobs only
+- [DanishTech](https://danishtech.co/) - Software engineering jobs only
 
 ### Italy
 
@@ -514,19 +512,19 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [CV Keskus](https://www.cvkeskus.ee/)
 - [Zalando Jobs](https://jobs.zalando.com/en/jobs/)
 - [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
-- [No Fluff Jobs](https://nofluffjobs.com/) | Poland & Hungary
-- [Duunitori](https://duunitori.fi/tyopaikat) | Finland
-- [Statsskuld.se](https://statsskuld.se/lediga-jobb) | Sweden
-- [jobbland.se](https://jobbland.se/lediga-jobb) | Sweden
-- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) | Sweden
-- [jobbland.no](https://jobbland.no/ledige-stillinger) | Norway
-- [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) | Norway
+- [No Fluff Jobs](https://nofluffjobs.com/) - Poland & Hungary
+- [Duunitori](https://duunitori.fi/tyopaikat) - Finland
+- [Statsskuld.se](https://statsskuld.se/lediga-jobb) - Sweden
+- [jobbland.se](https://jobbland.se/lediga-jobb) - Sweden
+- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) - Sweden
+- [jobbland.no](https://jobbland.no/ledige-stillinger) - Norway
+- [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway
 - [NIJOBS](https://www.nijobs.com/) (Ireland)
 - [Hyper Island](https://www.hyperisland.com/jobs)
-- [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
+- [zuhausejobs.com](https://zuhausejobs.com) - Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
-- [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) | €100k+ Software Engineering Jobs 🇪🇺
-- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) | Top-Paying Tech Jobs in Europe and Remotely
+- [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
+- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) - Top-Paying Tech Jobs in Europe and Remotely
 
 ### Turkey
 
@@ -546,7 +544,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 ### Latam
 
 - [Findjobit](https://findjobit.com/jobs)
-- [TacoEmpleos](https://tacoempleos.com.mx) | Reverse job board for restaurant positions in Mexico
+- [TacoEmpleos](https://tacoempleos.com.mx) - Reverse job board for restaurant positions in Mexico
 
 ### Africa
 
