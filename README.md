@@ -437,6 +437,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
 - [Builtin](https://builtin.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
+- [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
 
 ### Germany
 
@@ -525,6 +526,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [lovejob](https://en.lovejob.lt/)
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺.
 - [Euro Top Tech Jobs](https://eurotoptechjobs.com/) - Top-Paying Tech Jobs in Europe and Remotely.
+- [Startup Jobs CZ](https://www.startupjobs.cz/)
 
 ### Turkey
 
