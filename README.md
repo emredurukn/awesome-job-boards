@@ -148,6 +148,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Rust Programming Language Jobs](http://rust-jobs.com/)
 - [JavaScript Jobs](https://jobs.date-fns.org/)
 - [Jobs in JS](https://jobsinjs.com/)
+- [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript developer positions, updated daily
 - [R-users](https://www.r-users.com/)
 - [Jobbsy](https://jobbsy.dev/) - Symfony job board.
 - [Scala Jobs](https://scalajobs.com/)
@@ -421,6 +422,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [CanadianNanny.ca](https://canadiannanny.ca/)
+- [MapleStack](https://maplestack.ca/) - Canadian jobs with AI-powered matching
 
 ### UK
 
