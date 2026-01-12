@@ -209,6 +209,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [RemoteScout](https://remotescout24.com/en)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals.
 - [RemoteCorgi](https://www.remotecorgi.com/) - Hand-picked remote and hybrid jobs. Top companies only.
+- [TrulyRemote](https://trulyremote.co/)
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -355,6 +356,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [JobFound](https://www.jobfound.org/)
 - [Woody](https://www.woodyjobs.com/)
 - [Econ-Jobs](https://econ-jobs.com/)
+- [JobMesh](https://jobmesh.io/)
+- [Built In](https://builtin.com/)
 
 ## Entry Level
 
