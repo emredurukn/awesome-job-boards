@@ -380,7 +380,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [The Hub](https://thehub.io/)
 - [Work in biotech](https://workinbiotech.com/)
 - [Startups Gallery](https://startups.gallery/)
-- [devtooljobs](https://devtooljobs.com/)
+- [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies
 
 ## Open Source
 
