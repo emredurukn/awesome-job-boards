@@ -84,6 +84,13 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [JobsInBlockchain](https://jobsinblockchain.com/)
 - [Web3 Jobs](https://web3.career/)
 - [token jobs](https://tokenjobs.io)
+- [Ethereum Job Board](https://ethereumjobboard.com/)
+- [Avalanche Jobs](https://jobs.avax.network/jobs)
+- [Solana Jobs](https://jobs.solana.com/jobs)
+- [Dragonfly Jobs](https://jobs.dragonfly.xyz/jobs)
+- [Remote3](https://www.remote3.co/remote-web3-jobs)
+- [Jobstash](https://jobstash.xyz/jobs)
+- [BeInCrypto Jobs](https://beincrypto.com/jobs/)
 
 ## Design
 
