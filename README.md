@@ -27,12 +27,12 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [Canada](#canada)
   - [UK](#uk)
   - [Germany](#germany)
-  - [France](#france)
   - [Netherlands](#netherlands)
   - [Denmark](#denmark)
   - [Italy](#italy)
   - [Poland](#poland)
   - [Switzerland](#switzerland)
+  - [Sweden](#sweden)
   - [Europe Other](#europe-other)
   - [Turkey](#turkey)
   - [UAE](#uae)
@@ -394,6 +394,8 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [Fossfox](https://fossfox.com/)
 
+You can also check out [open-source-jobs](https://github.com/timqian/open-source-jobs)
+
 ## DevOps
 
 - [Kube Careers](https://kube.careers)
@@ -472,10 +474,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [karrieresprung](https://www.karrieresprung.de/)
 - [JobJump](https://jobjump.net/)
 
-### France
-
-- [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
-
 ### Netherlands
 
 - [Jobs in Amsterdam](http://www.jobinamsterdam.com/)
@@ -517,6 +515,12 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
 
+### Sweden
+
+- [Statsskuld.se](https://statsskuld.se/lediga-jobb)
+- [jobbland.se](https://jobbland.se/lediga-jobb)
+- [jobbsafari.se](https://jobbsafari.se/lediga-jobb)
+
 ### Europe Other
 
 - [eurojobs](https://eurojobs.com/)
@@ -528,9 +532,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 - [No Fluff Jobs](https://nofluffjobs.com/) - Poland & Hungary.
 - [Duunitori](https://duunitori.fi/tyopaikat) - Finland.
-- [Statsskuld.se](https://statsskuld.se/lediga-jobb) - Sweden.
-- [jobbland.se](https://jobbland.se/lediga-jobb) - Sweden.
-- [jobbsafari.se](https://jobbsafari.se/lediga-jobb) - Sweden.
 - [jobbland.no](https://jobbland.no/ledige-stillinger) - Norway.
 - [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway.
 - [NIJOBS](https://www.nijobs.com/) - Ireland.
@@ -540,10 +541,15 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺.
 - [Euro Top Tech Jobs](https://eurotoptechjobs.com/) - Top-Paying Tech Jobs in Europe and Remotely.
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
-- [Jobsportal](https://www.jobsportal.fi) - Finland
+- [Jobsportal](https://www.jobsportal.fi) - Finland.
+- [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
 
 ### Turkey
 
+- [Kariyer.net](https://www.kariyer.net/is-ilanlari/)
+- [Yenibiris](https://www.yenibiris.com/is-ilanlari/)
+- [Secretcv](https://www.secretcv.com/is-ilanlari/)
+- [Eleman.net](https://www.eleman.net/is-ilanlari/)
 - [Randstad Türkiye](https://www.randstad.com.tr/jobs/)
 - [Toptalent](https://toptalent.co/is-ilanlari/)
 
