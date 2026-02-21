@@ -217,6 +217,8 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals.
 - [RemoteCorgi](https://www.remotecorgi.com/) - Hand-picked remote and hybrid jobs. Top companies only.
 - [TrulyRemote](https://trulyremote.co/)
+- [RemoteJobsFinder](https://remotejobsfinder.co/en)
+- [GlobalWork](https://globalwork.ai/en)
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -365,6 +367,9 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Econ-Jobs](https://econ-jobs.com/)
 - [JobMesh](https://jobmesh.io/)
 - [Built In](https://builtin.com/)
+- [Jobcrawl](https://jobcrawl.org/)
+- [First Wave Jobs](https://www.firstwavejobs.com/)
+- [JobLeads](https://www.jobleads.com/)
 
 ## Entry Level
 
@@ -453,6 +458,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Builtin](https://builtin.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
+- [UK Visa Jobs](https://www.ukvisajobs.com/)
 
 ### Germany
 
