@@ -49,6 +49,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [Careerday](https://careerday.com/)
+- [OpenJobHub](https://jobs.wowkit.net/)
 
 You can also check out [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to
 
