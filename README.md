@@ -91,6 +91,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Remote3](https://www.remote3.co/remote-web3-jobs)
 - [Jobstash](https://jobstash.xyz/jobs)
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/)
+- [Sail on Chain](https://sailonchain.com/)
 
 ## Design
 
@@ -370,7 +371,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jobcrawl](https://jobcrawl.org/)
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
-- 
 
 ## Entry Level
 
