@@ -370,6 +370,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jobcrawl](https://jobcrawl.org/)
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
+- 
 
 ## Entry Level
 
@@ -421,6 +422,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [juju](https://www.juju.com/)
 - [Chef Jobs Near.Me](https://chefjobsnear.me/)
 - [Remote Physician Jobs](https://www.remotephysicianjobs.org/) - Remote jobs for physicians and doctors. Live aggregator of 600 companies' job boards, updated daily.
+- [Library Jobs HQ](https://www.libraryjobshq.com/)
 
 ### Australia
 
