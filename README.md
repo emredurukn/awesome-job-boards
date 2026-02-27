@@ -220,6 +220,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [TrulyRemote](https://trulyremote.co/)
 - [RemoteJobsFinder](https://remotejobsfinder.co/en)
 - [GlobalWork](https://globalwork.ai/en)
+- [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
