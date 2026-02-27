@@ -434,6 +434,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Headhunted](https://www.headhunted.com.au/jobs/)
 - [Grapevine Jobs](https://www.grapevinejobs.com.au/)
 - [Student Job Board](https://www.studentjobboard.com.au/)
+- [Resource Jobs](https://www.resourcejobs.au/)
 
 ### Canada
 
