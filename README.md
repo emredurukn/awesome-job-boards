@@ -59,6 +59,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [AI Jobs](https://ai-jobs.net/)
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+- [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
 
 ## Data
 
