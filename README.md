@@ -556,6 +556,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
 - [Jobsportal](https://www.jobsportal.fi) - Finland.
 - [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
+- [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in European defence industry 🇪🇺 
 
 ### Turkey
 
