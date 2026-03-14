@@ -11,10 +11,13 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Design](#design)
 - [InfoSec](#infosec)
 - [Programming](#programming)
+- [Product](#product)
 - [Remote](#remote)
 - [Freelancer](#freelancer)
 - [Fashion](#fashion)
 - [Care Services](#care-services)
+- [Climate & Green Tech](#climate--green-tech)
+- [Impact](#impact)
 - [Other](#other)
 - [Entry Level](#entry-level)
 - [Startups](#startups)
@@ -61,6 +64,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
+- [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
 
 ## Data
 
@@ -168,6 +172,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
 - [EmbeddedJobs](https://embedded.jobs/) - Best jobs for Embedded Systems Engineers.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
+- [Index.dev](https://index.dev/) - AI-powered platform for software talent.
 
 ## Remote
 
@@ -225,6 +230,13 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
 
+## Product
+
+- [APM Career](https://www.apmcareer.com/) - Curated for entry-level and junior PM positions.
+- [APM List](https://apmlist.com/) - Specialized for Associate PM roles and internships.
+- [Best PM Jobs](https://www.bestpmjobs.com/)
+- [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
+
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
 ## Freelancer
@@ -256,6 +268,19 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [ElderCare.com](https://eldercare.com/)
 - [Sitter.com](https://sitter.com/)
 - [PetSitter.com](https://petsitter.com/)
+
+## Climate & Green Tech
+
+- [ClimateTechList](https://www.climatetechlist.com/) - Climate tech / green energy jobs for software engineers.
+- [Climatebase](https://climatebase.org/) - Access to job openings at thousands of climate tech companies and nonprofits.
+- [EnergyHire](https://energyhire.com/) - A job marketplace for the energy sector.
+- [GreenLever](https://greenlever.co/)
+- [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
+
+## Impact
+
+- [Probably Good](https://jobs.probablygood.org/) - Impact-focused job board for promising job opportunities in various cause areas.
+- [Black Tech Pipeline](https://blacktechpipeline.com/) - Increases visibility of tech opportunities for the Black community.
 
 ## Other
 
@@ -298,7 +323,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [nocsok](https://nocsok.com/)
 - [Y Combinator Job Board](https://ycombinator.monday.vc/)
 - [Relocate.me](https://relocate.me/)
-- [PRODUCTHIRE.NET](https://producthire.net/)
 - [#epicjobs](https://epicjobs.co/)
 - [StackShare](https://stackshare.io/match)
 - [Vanhack](https://vanhack.com/platform/#/jobs)
@@ -316,7 +340,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Mediabistro](https://www.mediabistro.com/)
 - [Joblist](https://www.joblist.com/)
 - [Workatastartup](https://www.workatastartup.com/job_list)
-- [enviro](https://enviro.work/)
 - [f6s](https://www.f6s.com/jobs)
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
 - [Cleverism](https://www.cleverism.com/jobs)
@@ -352,7 +375,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [OpenQuant](https://openquant.co/) - Finance.
 - [AquariumsHiring](https://aquariumshiring.com) - Nature.
 - [ZoosHiring](https://zooshiring.com) - Nature.
-- [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 - [Hidden Jobs](https://hidden-jobs.com/)
 - [HiringCafe](https://hiring.cafe/)
 - [We Are Distributed](https://wearedistributed.org/jobs)
@@ -399,6 +421,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Work in biotech](https://workinbiotech.com/)
 - [Startups Gallery](https://startups.gallery/)
 - [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies
+- [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
 
 ## Open Source
 
