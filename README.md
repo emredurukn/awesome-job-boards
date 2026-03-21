@@ -229,6 +229,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [GlobalWork](https://globalwork.ai/en)
 - [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
+- [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
 
 ## Product
 
@@ -387,7 +388,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](https://visajobs.xyz/)
-- [jobswithgpt](https://jobswithgpt.com)
+- [corvi careers](https://corvi.careers)
 - [Jobright](https://jobright.ai/)
 - [JobFound](https://www.jobfound.org/)
 - [Woody](https://www.woodyjobs.com/)
