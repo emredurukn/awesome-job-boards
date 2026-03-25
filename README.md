@@ -423,6 +423,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Startups Gallery](https://startups.gallery/)
 - [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies
 - [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
+- [Basin.cv](https://basin.cv/)
 
 ## Open Source
 
