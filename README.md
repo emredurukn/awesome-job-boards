@@ -57,6 +57,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 
 ## AI
 
+- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Curated job board for engineers who build agentic systems: RAG pipelines, AI agents, LLM-powered products, and agent orchestration.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI/ML Jobs](https://aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!.
 - [AI Jobs](https://ai-jobs.net/)
