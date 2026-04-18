@@ -457,6 +457,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Remote Physician Jobs](https://www.remotephysicianjobs.org/) - Remote jobs for physicians and doctors. Live aggregator of 600 companies' job boards, updated daily.
 - [Library Jobs HQ](https://www.libraryjobshq.com/)
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
+- [USDevJobs](https://usdevjobs.com/) - Real-time job aggregator for software, AI/ML, and data engineer roles at US startups.
 
 ### Australia
 
