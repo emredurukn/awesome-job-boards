@@ -101,6 +101,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 - [Jobstash](https://jobstash.xyz/jobs)
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/)
 - [Sail on Chain](https://sailonchain.com/)
+- [web3vacancy](https://web3vacancy.com/) — Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
 
 ## Design
 
