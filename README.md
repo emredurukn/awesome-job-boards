@@ -53,7 +53,10 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [X jobs](https://x.com/jobs)
 - [Careerday](https://careerday.com/)
 
-You can also check out [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to
+You can also check out the following resources:
+
+- [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
+- [ATSGuard](https://atsguard.com) - Scans your resume against any JD before you apply.
 
 ## AI
 
@@ -403,7 +406,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
 - [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
-- [ATSGuard](https://atsguard.com) - Not a job board, but pairs well with this list: scans your resume against any JD before you apply.
 
 ## Entry Level
 
