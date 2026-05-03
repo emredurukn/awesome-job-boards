@@ -67,6 +67,7 @@ You can also check out the following resources:
 - [AI Jobs](https://ai-jobs.net/)
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+- [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
