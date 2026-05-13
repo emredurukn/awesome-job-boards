@@ -238,6 +238,7 @@ You can also check out the following resources:
 - [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
 - [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
+- [FindRemoteAccountingJobs](https://findremoteaccountingjobs.com/) - Remote jobs for accounting and finance professionals.
 
 ## Product
 
