@@ -106,6 +106,7 @@ You can also check out the following resources:
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/)
 - [Sail on Chain](https://sailonchain.com/)
 - [web3vacancy](https://web3vacancy.com/) — Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
+- [PredictionJobs](https://predictionjobs.co) — Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
 
 ## Design
 
