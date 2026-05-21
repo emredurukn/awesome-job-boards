@@ -16,6 +16,11 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Freelancer](#freelancer)
 - [Fashion](#fashion)
 - [Care Services](#care-services)
+- [Hospitality & Food Service](#hospitality--food-service)
+- [Music & Entertainment](#music--entertainment)
+- [Events & Weddings](#events--weddings)
+- [Fitness & Outdoors](#fitness--outdoors)
+- [Creative & Gig Work](#creative--gig-work)
 - [Climate & Green Tech](#climate--green-tech)
 - [Impact](#impact)
 - [Other](#other)
@@ -279,6 +284,31 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [ElderCare.com](https://eldercare.com/)
 - [Sitter.com](https://sitter.com/)
 - [PetSitter.com](https://petsitter.com/)
+
+
+## Hospitality & Food Service
+
+- [Nightlife Employees](https://nightlifeemployees.com) - Bar, club, and nightlife industry jobs — bartenders, DJs, promoters, and security staff.
+- [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs for line cooks, sous chefs, pastry chefs, FOH, and catering.
+
+## Music & Entertainment
+
+- [Music and Sound Jobs](https://musicandsoundjobs.com) - Music industry jobs for audio engineers, producers, session musicians, and touring crew.
+- [Tattoo Studio Jobs](https://tattoostudiojobs.com) - Tattoo artist, piercer, and studio manager positions at shops and conventions.
+
+## Events & Weddings
+
+- [Event Crew Jobs](https://eventcrewjobs.com) - Production, AV, and staffing jobs for live events, festivals, and conferences.
+- [Wedding Vendor Jobs](https://weddingvendorjobs.com) - Jobs for wedding planners, photographers, florists, and event coordinators.
+
+## Fitness & Outdoors
+
+- [Fitness Trainer Jobs](https://fitnesstrainerjobs.com) - Personal training, group fitness, and wellness coaching positions at gyms and studios.
+- [Wilderness Staff Jobs](https://wildernessstaffjobs.com) - Outdoor guide, park ranger, camp counselor, and adventure tourism positions.
+
+## Creative & Gig Work
+
+- [Creative Gig Jobs](https://creativegigjobs.com) - Freelance and gig jobs for designers, illustrators, photographers, and creative professionals.
 
 ## Climate & Green Tech
 
