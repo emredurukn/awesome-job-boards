@@ -77,6 +77,7 @@ You can also check out the following resources:
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
 - [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
+- [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 
 ## Data
 
