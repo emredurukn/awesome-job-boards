@@ -598,6 +598,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [WeJob.ch](https://WeJob.ch/)
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
+- [SwissAIJob](https://swissaijob.ch/)
 
 ### Sweden
 
