@@ -327,6 +327,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 ## Other
 
+- [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 - [Job Board Search](https://jobboardsearch.com/)
 - [Monster](https://www.monster.com/)
 - [GitHub Jobs](https://www.github.careers/careers-home/jobs)
