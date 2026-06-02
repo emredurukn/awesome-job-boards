@@ -519,7 +519,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [CanadianNanny.ca](https://canadiannanny.ca/)
 - [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles.
 - [MapleStack](https://maplestack.ca/) - Canadian jobs with AI-powered matching
-- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-graduate jobs across internships, co-ops, new grad, junior, and entry-level roles.
 
 ### UK
 
