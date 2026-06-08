@@ -72,6 +72,7 @@ You can also check out the following resources:
 - [Resume Roaster](https://resume.roastlabai.com) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
 - [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified dataset of which ATS the 743 largest employers use. F500 + Global 2000 + Series-C+ private $1B+. MIT.
 
 ## AI
 
