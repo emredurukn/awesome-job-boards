@@ -631,6 +631,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
 - [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in European defence industry 🇪🇺 
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
+- [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
 
 ### Turkey
 
