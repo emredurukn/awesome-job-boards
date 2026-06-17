@@ -472,6 +472,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [Fossfox](https://fossfox.com/)
+- [freehire](https://github.com/strelov1/freehire) - Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many ATS boards and Telegram channels.
 
 You can also check out [open-source-jobs](https://github.com/timqian/open-source-jobs)
 
