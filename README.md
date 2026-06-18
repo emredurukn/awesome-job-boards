@@ -442,6 +442,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
 - [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
+- [Cviya](https://cviya.com) — A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 
 ## Entry Level
 
