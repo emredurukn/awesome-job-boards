@@ -249,14 +249,14 @@ You can also check out the following resources:
 - [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
 - [FindRemoteAccountingJobs](https://findremoteaccountingjobs.com/) - Remote jobs for accounting and finance professionals.
 
+You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
+
 ## Product
 
 - [APM Career](https://www.apmcareer.com/) - Curated for entry-level and junior PM positions.
 - [APM List](https://apmlist.com/) - Specialized for Associate PM roles and internships.
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
-
-You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
 ## Freelancer
 
@@ -442,7 +442,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
 - [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
-- [Cviya](https://cviya.com) — A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
+
+You can also check out [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 
 ## Entry Level
 
