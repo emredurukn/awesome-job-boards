@@ -1,4 +1,4 @@
-# Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf8be614-a342-4ab3-9664-3a6f502c1e07" /># Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome job boards. If you want to support my work, you can [buy me a coffee here](https://www.buymeacoffee.com/emredurukn).
 
@@ -94,7 +94,7 @@ You can also check out the following resources:
 - [Data Engineering Jobs](https://dataengjobs.com/)
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
 - [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
-- [FindADataJob](https://findadatajob.com/) - Data job board aggregating roles across analytics, data science, data engineering, and ML.
+- [FindADataJob](https://findadatajob.com/) - global job board focused on data analyst roles.
 
 ## Blockchain
 
