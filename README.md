@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf8be614-a342-4ab3-9664-3a6f502c1e07" /># Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome job boards. If you want to support my work, you can [buy me a coffee here](https://www.buymeacoffee.com/emredurukn).
 
