@@ -456,6 +456,7 @@ You can also check out [Cviya](https://cviya.com) - A fully customizable, waterm
 - [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
 - [Newgrad jobs](https://www.newgrad-jobs.com/)
+- [EntryLevel Careers](https://entrylevel.careers/)
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
