@@ -597,6 +597,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Bulldogjob](https://bulldogjob.com/)
 - [Just Join IT](https://justjoin.it/)
 - [Jobo](https://jobo.pl/)
+- [SolidJobs](https://solid.jobs/)
 
 ### Switzerland
 
