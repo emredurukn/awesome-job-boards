@@ -193,6 +193,7 @@ You can also check out the following resources:
 ## Remote
 
 - [hiring.lat](https://hiring.lat) - Remote or relocation opportunities for LATAM workers.
+- [Meridian](https://meridianremote.com) - Remote tech jobs matched to your timezone for US, LATAM, and EU professionals; aggregated and deduplicated from top boards and ATS feeds.
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - 100% globally work from anywhere jobs.
 - [Career Vault](https://careervault.io/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
