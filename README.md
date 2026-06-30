@@ -75,6 +75,7 @@ You can also check out the following resources:
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
+- [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
 - [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
@@ -116,6 +117,7 @@ You can also check out the following resources:
 - [Sail on Chain](https://sailonchain.com/)
 - [web3vacancy](https://web3vacancy.com/) — Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
 - [PredictionJobs](https://predictionjobs.co) — Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
+- [Jobs in Crypto](https://jobsincrypto.xyz) - Marketplace for crypto, web3, and onchain roles.
 
 ## Design
 
@@ -191,6 +193,8 @@ You can also check out the following resources:
 - [EmbeddedJobs](https://embedded.jobs/) - Best jobs for Embedded Systems Engineers.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
 - [Index.dev](https://index.dev/) - AI-powered platform for software talent.
+- [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
+- [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
 
 ## Remote
 
@@ -447,6 +451,10 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [JobLeads](https://www.jobleads.com/)
 - [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
 - [Career.io Jobs](https://career.io/jobs) - 10M+ jobs with automatic applications
+- [Jobs in Games](https://jobsingames.com) - Marketplace for game development roles.
+- [Jobs in Next Tech](https://jobsinnexttech.com) - Network marketplace for next-generation technical work across AI, Flutter, crypto, quantum, XR, sextech, Rust, and games.
+- [Jobs in SexTech](https://jobsinsextech.com) - Marketplace for sextech engineering, product, hardware, app, and health roles.
+- [Jobs in XR](https://jobsinxr.com) - Marketplace for augmented reality, virtual reality, and extended reality roles.
 
 You can also check out [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 
@@ -491,6 +499,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ## Quantum Computing
 
 - [qubitsok.com](https://qubitsok.com)
+- [Jobs in Quantum](https://jobsinquantum.com) - Marketplace for quantum computing, quantum algorithms, and quantum hardware roles.
 
 ## World
 
