@@ -62,6 +62,7 @@ You can also check out the following resources:
 
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
 - [ATSGuard](https://atsguard.com) - Scans your resume against any JD before you apply.
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified dataset of which ATS the 743 largest employers use. F500 + Global 2000 + Series-C+ private $1B+. MIT.
 
 ## AI
 
