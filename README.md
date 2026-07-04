@@ -663,6 +663,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Latam
 
 - [Findjobit](https://findjobit.com/jobs)
+- [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
 - [TacoEmpleos](https://tacoempleos.com.mx) - Reverse job board for restaurant positions in Mexico.
 
 ### Africa
