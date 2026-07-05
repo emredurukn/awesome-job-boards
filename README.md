@@ -56,13 +56,13 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
-- [Careerday](https://careerday.com/)
-- [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
 
 You can also check out the following resources:
 
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
 - [ATSGuard](https://atsguard.com) - Scans your resume against any JD before you apply.
+- [Careerday](https://careerday.com/)
+- [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
 
 ## AI
 
