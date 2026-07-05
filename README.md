@@ -57,6 +57,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [Careerday](https://careerday.com/)
+- [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
 
 You can also check out the following resources:
 
