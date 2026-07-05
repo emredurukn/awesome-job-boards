@@ -250,6 +250,7 @@ You can also check out the following resources:
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
 - [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
 - [FindRemoteAccountingJobs](https://findremoteaccountingjobs.com/) - Remote jobs for accounting and finance professionals.
+- [Remote1stJobs](https://www.remote1stjobs.com/) - UK, Europe & EMEA remote-first jobs board; filters out US-only and fake-remote roles, direct employer links, salary-visible.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
