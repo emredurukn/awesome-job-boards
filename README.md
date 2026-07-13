@@ -576,6 +576,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [meinestadt](https://www.meinestadt.de/)
 - [karrieresprung](https://www.karrieresprung.de/)
 - [JobJump](https://jobjump.net/)
+- [DACH Early-Career Jobs](https://github.com/heynish/werkstudent-praktikum-jobs)
 
 ### Netherlands
 
