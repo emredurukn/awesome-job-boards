@@ -119,6 +119,7 @@ You can also check out the following resources:
 - [web3vacancy](https://web3vacancy.com/) — Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
 - [PredictionJobs](https://predictionjobs.co) — Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
 - [Jobs in Crypto](https://jobsincrypto.xyz) - Marketplace for crypto, web3, and onchain roles.
+- [ChainJobs](https://chainjobs.io/) — Crypto, web3 and blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
 
 ## Design
 
