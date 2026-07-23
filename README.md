@@ -42,6 +42,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [Switzerland](#switzerland)
   - [Sweden](#sweden)
   - [Europe Other](#europe-other)
+  - [Malta](#malta)
   - [Turkey](#turkey)
   - [UAE](#uae)
   - [Asia](#asia)
@@ -657,6 +658,10 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in European defence industry 🇪🇺 
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
 - [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
+
+### Malta
+
+- [Impjieg](https://impjieg.work) - Malta's hiring marketplace for tech, digital, and iGaming talent with transparent salary and work-mode information.
 
 ### Turkey
 
