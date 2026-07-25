@@ -83,6 +83,7 @@ You can also check out the following resources:
 - [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
 - [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 - [warpjobs](https://warpjobs.com) - Niche board of GPU/CUDA, ML-systems, inference & performance-engineering roles, scraped daily from AI-lab & infra companies' ATS feeds (Greenhouse/Lever/Ashby); free, open-source, RSS/JSON feeds.
+- [Landed](https://landed.jobs) - Daily matched AI-native roles with fit scores and drafted application answers, plus interview prep. Free tier; also queryable from any editor via a public MCP server.
 
 ## Data
 
