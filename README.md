@@ -65,6 +65,7 @@ You can also check out the following resources:
 - [Careerday](https://careerday.com/)
 - [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background.
+- [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
 
 ## AI
 
