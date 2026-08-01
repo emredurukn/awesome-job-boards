@@ -57,6 +57,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [JobYap](https://jobyap.com) - Search job postings aggregated from companies' official careers sites — salaries, locations, and a community discussion thread on every job.
 
 You can also check out the following resources:
 
