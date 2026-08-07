@@ -67,6 +67,7 @@ You can also check out the following resources:
 - [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
 - [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background.
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
+- [AI Applyd](https://aiapplyd.com) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
 
 ## AI
 
@@ -570,6 +571,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
+- [AI Applyd](https://aiapplyd.com/jobs)
 - [jobvector](https://www.jobvector.de/en/)
 - [Jobware](https://www.jobware.de/)
 - [Stellenanzeigen](https://www.stellenanzeigen.de/)
