@@ -58,6 +58,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [JobYap](https://jobyap.com) - Search job postings aggregated from companies' official careers sites — salaries, locations, and a community discussion thread on every job.
+- [Open Jobs Search](https://conorscode.github.io/open-jobs-search/) - Free search over 37,000+ live postings from 378 companies across nine ATS platforms (Greenhouse, Lever, Ashby, Workday, and more). No signup, no ads, no tracking.
 
 You can also check out the following resources:
 
