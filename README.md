@@ -79,6 +79,7 @@ You can also check out [easy-application](https://github.com/j-delaney/easy-appl
 
 - [Crypto Jobs List](https://cryptojobslist.com/)
 - [CryptoJobs](https://crypto.jobs/)
+- [Blockchain Jobs](https://www.blockchainjobsboard.com/)
 - [Blockew](https://blockew.com/)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
