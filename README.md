@@ -109,6 +109,7 @@ You can also check out the following resources:
 
 - [Crypto Jobs List](https://cryptojobslist.com/)
 - [CryptoJobs](https://crypto.jobs/)
+- [Blockchain Jobs](https://www.blockchainjobsboard.com/)
 - [Blockew](https://blockew.com/)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
