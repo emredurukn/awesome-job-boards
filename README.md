@@ -71,6 +71,7 @@ You can also check out the following resources:
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
 - [AI Applyd](https://aiapplyd.com) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
+- [Resume Roaster](https://resume.roastlabai.com) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
 
 ## AI
 
