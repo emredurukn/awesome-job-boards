@@ -129,6 +129,7 @@ You can also check out the following resources:
 - [PredictionJobs](https://predictionjobs.co) — Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
 - [Jobs in Crypto](https://jobsincrypto.xyz) - Marketplace for crypto, web3, and onchain roles.
 - [ChainJobs](https://chainjobs.io/) — Crypto, web3 and blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
+- [Maneki](https://maneki.work/) — Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
 
 ## Design
 
