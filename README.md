@@ -471,6 +471,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jobs in XR](https://jobsinxr.com) - Marketplace for augmented reality, virtual reality, and extended reality roles.
 
 You can also check out [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
+[ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 
 ## Entry Level
 
