@@ -45,6 +45,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [Malta](#malta)
   - [Turkey](#turkey)
   - [UAE](#uae)
+  - [India](#india)
   - [Asia](#asia)
   - [Latam](#latam)
   - [Africa](#africa)
@@ -686,6 +687,10 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Remote Jobs in Dubai](https://www.remotedxb.com)
 - [JobXDubai](https://jobxdubai.com)
 - [Zero Tax Jobs](https://zerotaxjobs.com/)
+
+### India
+
+- [PrepNPlaced Apprenticeships](https://www.prepnplaced.com/apprenticeships) - Hand-checked Indian tech apprenticeship and early-career programmes, including government and PSU schemes.
 
 ### Asia
 
