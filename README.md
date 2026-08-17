@@ -58,9 +58,6 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
-- [JobYap](https://jobyap.com) - Search job postings aggregated from companies' official careers sites — salaries, locations, and a community discussion thread on every job.
-- [Open Jobs Search](https://conorscode.github.io/open-jobs-search/) - Free search over 37,000+ live postings from 378 companies across nine ATS platforms (Greenhouse, Lever, Ashby, Workday, and more). No signup, no ads, no tracking.
-- [CrawlJobs](https://crawljobs.com) - Global job board with 550,000+ active listings crawled directly from employers' own career pages instead of other job boards. Covers 200+ countries in 20+ language versions, with filters for location, work mode and salary.
 
 You can also check out the following resources:
 
@@ -73,6 +70,7 @@ You can also check out the following resources:
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
 - [AI Applyd](https://aiapplyd.com) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
 - [Resume Roaster](https://resume.roastlabai.com) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
+- [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 
 ## AI
 
@@ -472,9 +470,10 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jobs in Next Tech](https://jobsinnexttech.com) - Network marketplace for next-generation technical work across AI, Flutter, crypto, quantum, XR, sextech, Rust, and games.
 - [Jobs in SexTech](https://jobsinsextech.com) - Marketplace for sextech engineering, product, hardware, app, and health roles.
 - [Jobs in XR](https://jobsinxr.com) - Marketplace for augmented reality, virtual reality, and extended reality roles.
-
-You can also check out [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
-[ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
+- [JobYap](https://jobyap.com) - Search job postings aggregated from companies' official careers sites — salaries, locations, and a community discussion thread on every job.
+- [Open Jobs Search](https://conorscode.github.io/open-jobs-search/) - Free search over 37,000+ live postings from 378 companies across nine ATS platforms (Greenhouse, Lever, Ashby, Workday, and more). No signup, no ads, no tracking.
+- [CrawlJobs](https://crawljobs.com) - Global job board with 550,000+ active listings crawled directly from employers' own career pages instead of other job boards. Covers 200+ countries in 20+ language versions, with filters for location, work mode and salary.
+- [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 
 ## Entry Level
 
