@@ -114,6 +114,7 @@ You can also check out the following resources:
 - [CryptoJobs](https://crypto.jobs/)
 - [Blockew](https://blockew.com/)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
+- [GMI Jobs](https://gmijobs.com/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
 - [Web3 Jobs](https://web3.career/)
 - [token jobs](https://tokenjobs.io)
