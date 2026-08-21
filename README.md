@@ -49,6 +49,7 @@ A curated list of awesome job boards. If you want to support my work, you can [b
   - [Asia](#asia)
   - [Latam](#latam)
   - [Africa](#africa)
+  - [Russia](#russia)
 
 ## General
 
@@ -709,3 +710,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+
+### Russia
+
+- [Joba Search](https://t.me/joba_search_bot) - Telegram bot aggregating game-industry jobs from Russian-language channels.
