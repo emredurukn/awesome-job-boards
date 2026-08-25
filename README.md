@@ -273,6 +273,7 @@ You can also check out the following resources:
 - [Remote1stJobs](https://www.remote1stjobs.com/) - UK, Europe & EMEA remote-first jobs board; filters out US-only and fake-remote roles, direct employer links, salary-visible.
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
 - [Remote Nomad Jobs](https://www.remotenomadjobs.com/) - Fully remote, work-from-anywhere jobs for digital nomads.
+- [WeWorkFromHome](https://weworkfromhome.com) - Remote jobs aggregated daily from company Greenhouse, Lever, and Ashby boards.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
