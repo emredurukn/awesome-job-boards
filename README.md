@@ -87,6 +87,7 @@ You can also check out the following resources:
 - [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
+- [Robot Jobs Board](https://www.robotjobsboard.com) - Robotics and automation roles (AMR, humanoid, drones, ROS) across US, UK, and Europe.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
 - [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
