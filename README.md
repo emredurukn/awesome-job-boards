@@ -83,6 +83,7 @@ You can also check out the following resources:
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
+- [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
