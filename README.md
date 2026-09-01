@@ -702,6 +702,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### India
 
 - [PrepNPlaced Apprenticeships](https://www.prepnplaced.com/apprenticeships) - Hand-checked Indian tech apprenticeship and early-career programmes, including government and PSU schemes.
+- [InternDoor](https://interndoor.com) - Engineering internships in India, filtered to a vetted list of real employers and updated every 30 minutes.
 
 ### Asia
 
