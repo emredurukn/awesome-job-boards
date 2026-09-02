@@ -11,8 +11,8 @@ A curated list of awesome job boards. If you want to support my work, you can [b
 - [Design](#design)
 - [InfoSec](#infosec)
 - [Programming](#programming)
-- [Product](#product)
 - [Remote](#remote)
+- [Product](#product)
 - [Freelancer](#freelancer)
 - [Fashion](#fashion)
 - [Care Services](#care-services)
@@ -85,7 +85,7 @@ You can also check out the following resources:
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
 - [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
-- [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees
+- [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees.
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
 - [Robot Jobs Board](https://www.robotjobsboard.com) - Robotics and automation roles (AMR, humanoid, drones, ROS) across US, UK, and Europe.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
@@ -110,7 +110,7 @@ You can also check out the following resources:
 - [Data Engineering Jobs](https://dataengjobs.com/)
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
 - [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
-- [FindADataJob](https://findadatajob.com/) - global job board focused on data analyst roles.
+- [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 
 ## Blockchain
 
@@ -130,12 +130,12 @@ You can also check out the following resources:
 - [Jobstash](https://jobstash.xyz/jobs)
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/)
 - [Sail on Chain](https://sailonchain.com/)
-- [web3vacancy](https://web3vacancy.com/) — Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
-- [PredictionJobs](https://predictionjobs.co) — Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
-- [Jobs in Crypto](https://jobsincrypto.xyz) - Marketplace for crypto, web3, and onchain roles.
-- [ChainJobs](https://chainjobs.io/) — Crypto, web3 and blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
-- [Maneki](https://maneki.work/) — Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
-- [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
+- [web3vacancy](https://web3vacancy.com/) - Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
+- [PredictionJobs](https://predictionjobs.co) - Job board for the prediction market space, featuring roles at Polymarket, Kalshi etc.
+- [Jobs in Crypto](https://jobsincrypto.xyz) - Marketplace for crypto, Web3, and onchain roles.
+- [ChainJobs](https://chainjobs.io/) - Crypto, Web3 and Blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
+- [Maneki](https://maneki.work/) - Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
+- [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
 
 ## Design
 
@@ -200,7 +200,7 @@ You can also check out the following resources:
 - [Rust Programming Language Jobs](http://rust-jobs.com/)
 - [JavaScript Jobs](https://jobs.date-fns.org/)
 - [Jobs in JS](https://jobsinjs.com/)
-- [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript developer positions, updated daily
+- [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript developer positions, updated daily.
 - [R-users](https://www.r-users.com/)
 - [Jobbsy](https://jobbsy.dev/) - Symfony job board.
 - [Scala Jobs](https://scalajobs.com/)
@@ -269,7 +269,7 @@ You can also check out the following resources:
 - [TrulyRemote](https://trulyremote.co/)
 - [RemoteJobsFinder](https://remotejobsfinder.co/en)
 - [GlobalWork](https://globalwork.ai/en)
-- [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities
+- [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities.
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
 - [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
 - [FindRemoteAccountingJobs](https://findremoteaccountingjobs.com/) - Remote jobs for accounting and finance professionals.
@@ -303,7 +303,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) - Freelancing jobs in Canada.
-- [CreatorJobBoard](https://creatorjobboard.com) — Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
+- [CreatorJobBoard](https://creatorjobboard.com) - Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
 
 ## Fashion
 
@@ -391,7 +391,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [TechMeAbroad](https://techmeabroad.com/)
 - [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 - [Codersrank](https://jobs.codersrank.io/)
-- [ClimateTechList](https://www.climatetechlist.com/) - Climate tech / green energy jobs for software engineers.
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
@@ -458,8 +457,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [testdevjobs](https://testdevjobs.com/)
 - [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
-- [GreenLever](https://greenlever.co/)
-- [Best PM Jobs](https://www.bestpmjobs.com/)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](https://visajobs.xyz/)
 - [corvi careers](https://corvi.careers)
@@ -473,7 +470,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [First Wave Jobs](https://www.firstwavejobs.com/)
 - [JobLeads](https://www.jobleads.com/)
 - [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
-- [Career.io Jobs](https://career.io/jobs) - 10M+ jobs with automatic applications
+- [Career.io Jobs](https://career.io/jobs) - 10M+ jobs with automatic applications.
 - [Jobs in Games](https://jobsingames.com) - Marketplace for game development roles.
 - [Jobs in Next Tech](https://jobsinnexttech.com) - Network marketplace for next-generation technical work across AI, Flutter, crypto, quantum, XR, sextech, Rust, and games.
 - [Jobs in SexTech](https://jobsinsextech.com) - Marketplace for sextech engineering, product, hardware, app, and health roles.
@@ -505,7 +502,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [The Hub](https://thehub.io/)
 - [Work in biotech](https://workinbiotech.com/)
 - [Startups Gallery](https://startups.gallery/)
-- [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies
+- [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies.
 - [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
 - [Basin.cv](https://basin.cv/)
 
@@ -562,7 +559,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [CareerBeacon](https://www.careerbeacon.com/)
 - [CanadianNanny.ca](https://canadiannanny.ca/)
 - [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles.
-- [MapleStack](https://maplestack.ca/) - Canadian jobs with AI-powered matching
+- [MapleStack](https://maplestack.ca/) - Canadian jobs with AI-powered matching.
 
 ### UK
 
@@ -577,7 +574,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 - [DevITjobs UK](https://devitjobs.uk/)
 - [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
-- [Builtin](https://builtin.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
 - [UK Visa Jobs](https://www.ukvisajobs.com/)
@@ -676,7 +672,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
 - [Jobsportal](https://www.jobsportal.fi) - Finland.
 - [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
-- [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in European defence industry 🇪🇺 
+- [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in the European defence industry.
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
 - [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
 
