@@ -73,6 +73,7 @@ You can also check out the following resources:
 - [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
+- [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 
 ## AI
 
@@ -80,7 +81,6 @@ You can also check out the following resources:
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI/ML Jobs](https://aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!.
-- [AI Jobs](https://ai-jobs.net/)
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
@@ -101,7 +101,6 @@ You can also check out the following resources:
 - [DataJobs.com](https://datajobs.com/)
 - [icrunchdata](https://icrunchdata.com/)
 - [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
-- [Data Yoshi](https://www.datayoshi.com/)
 - [Opendatascience Jobs](https://jobs.opendatascience.com/)
 - [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
 - [StatsJobs](https://www.statsjobs.com/)
@@ -116,7 +115,7 @@ You can also check out the following resources:
 
 - [Crypto Jobs List](https://cryptojobslist.com/)
 - [CryptoJobs](https://crypto.jobs/)
-- [Blockew](https://blockew.com/)
+- [Workew Crypto Jobs](https://workew.com/crypto-jobs/) - Crypto and Blockchain roles.
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
 - [GMI Jobs](https://gmijobs.com/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
@@ -155,17 +154,16 @@ You can also check out the following resources:
 - [CreativeMornings](https://creativemornings.com/jobs)
 - [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
-- [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) - Hand-picked UI, UX & UXR Jobs.
 - [UI/UX Jobs Board](https://uiuxjobsboard.com)
 
 ## InfoSec
 
-- [NinjaJobs](https://ninjajobs.org/)
-- [infosec-jobs](https://infosec-jobs.com/)
 - [CyberSecurityJobsite](https://www.cybersecurityjobsite.com/jobs/)
 - [CareersInfoSecurity](https://www.careersinfosecurity.com/jobs/)
 - [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
 - [YesWeHack](https://jobs.yeswehack.com/en/)
+- [InfoSec Jobs](https://infosec-jobs.net) - Security roles across 17 countries, aggregated daily from 40+ sources.
+- [ClearedJobs.Net](https://clearedjobs.net) - US defense and intelligence roles requiring a security clearance.
 
 ## Programming
 
@@ -242,9 +240,7 @@ You can also check out the following resources:
 - [wellpaid.io](https://wellpaid.io/)
 - [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 - [FlexJobs](https://www.flexjobs.com/)
-- [remotify](https://remotify.me/)
 - [Remoters](https://remoters.net/jobs/)
-- [Jobmote](https://jobmote.com/)
 - [DailyRemote](https://dailyremote.com/)
 - [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
 - [Meerkad](https://meerkad.com/)
@@ -287,6 +283,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
 - [Remote PM Jobs](https://remotepmjobs.com/) - Remote-only product manager jobs pulled directly from company ATSs and verified fully remote, with posted salary data.
+- [ProductManagementJob.com](https://productmanagementjob.com) - Product manager roles from APM to VP level, strongest in India.
 
 ## Freelancer
 
@@ -364,7 +361,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GitHub Jobs](https://www.github.careers/careers-home/jobs)
 - [Amazon Jobs](https://www.amazon.jobs/en)
 - [HackerNews Jobs](https://news.ycombinator.com/jobs)
-- [Stack Overflow Jobs](https://stackoverflowjobs.com/)
 - [Top Jobs Today](https://topjobstoday.com) - FAANG jobs.
 - [Crunchboard](https://www.crunchboard.com/)
 - [Hacker Noon Jobs](https://jobs.hackernoon.com/)
@@ -394,8 +390,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
-- [nocsok](https://nocsok.com/)
-- [Y Combinator Job Board](https://ycombinator.monday.vc/)
 - [Relocate.me](https://relocate.me/)
 - [#epicjobs](https://epicjobs.co/)
 - [StackShare](https://stackshare.io/match)
@@ -418,16 +412,14 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
 - [Cleverism](https://www.cleverism.com/jobs)
 - [VirtualVocations](https://www.virtualvocations.com/)
-- [Mashable](https://jobs.mashable.com/)
 - [Jobvertise](http://www.jobvertise.com/)
-- [CNCF Job Board](https://jobs.cncf.io/)
+- [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
 - [KDR Recruitment](https://www.kdrrecruitment.com/jobs/)
 - [Diversify Tech](https://www.diversifytech.co/job-board/)
 - [Hitmarker](https://hitmarker.net/jobs)
 - [Open Jobs in Copenhagen Region](https://careers.greatercphregion.com/)
 - [PRSA Job Center](https://jobs.prsa.org/)
 - [eFinancialCareers](https://www.efinancialcareers.com/)
-- [Uncubed](https://uncubed.com/jobs)
 - [Health eCareers](https://healthecareers.com/)
 - [TechFetch](https://www.techfetch.com/)
 - [DiversityJobs](https://www.diversityjobs.com/)
@@ -459,7 +451,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
 - [visajobs.xyz](https://visajobs.xyz/)
-- [corvi careers](https://corvi.careers)
 - [Jobright](https://jobright.ai/)
 - [JobFound](https://www.jobfound.org/)
 - [Woody](https://www.woodyjobs.com/)
@@ -487,7 +478,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jr.DevJobs](https://www.jrdevjobs.com/)
 - [TalentEgg](https://talentegg.ca/)
 - [ErasmusIntern](https://erasmusintern.org/traineeships)
-- [CareerRookie](https://www.careerrookie.com/)
 - [AfterCollege](https://www.aftercollege.com/)
 - [Newgrad jobs](https://www.newgrad-jobs.com/)
 - [EntryLevel Careers](https://entrylevel.careers/)
@@ -505,6 +495,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies.
 - [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
 - [Basin.cv](https://basin.cv/)
+- [EU-Startups Job Board](https://www.eu-startups.com/startup-jobs/) - Jobs at European startups, updated daily.
 
 ## Open Source
 
@@ -517,6 +508,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ## DevOps
 
 - [Kube Careers](https://kube.careers)
+- [DevOps Jobs](https://devopsjobs.com) - DevOps, SRE, cloud and infrastructure roles, mostly US-based.
 
 ## Quantum Computing
 
@@ -572,7 +564,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Gumtree](https://www.gumtree.com/jobs)
 - [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 - [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
-- [DevITjobs UK](https://devitjobs.uk/)
 - [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
@@ -582,7 +573,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
-- [AI Applyd](https://aiapplyd.com/jobs)
 - [jobvector](https://www.jobvector.de/en/)
 - [Jobware](https://www.jobware.de/)
 - [Stellenanzeigen](https://www.stellenanzeigen.de/)
@@ -591,7 +581,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Berlin Startup Jobs](https://berlinstartupjobs.com/)
 - [Jobs in Berlin](https://www.jobsinberlin.eu/)
 - [GermanTech Jobs](https://germantechjobs.de/)
-- [Gigajob](https://de.gigajob.com/)
 - [kimeta](https://www.kimeta.de/)
 - [academics](https://www.academics.de/)
 - [rekruter](https://www.rekruter.de/)
@@ -661,7 +650,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Euro Engineer Jobs](https://www.euroengineerjobs.com/)
 - [No Fluff Jobs](https://nofluffjobs.com/) - Poland & Hungary.
 - [Duunitori](https://duunitori.fi/tyopaikat) - Finland.
-- [jobbland.no](https://jobbland.no/ledige-stillinger) - Norway.
 - [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway.
 - [NIJOBS](https://www.nijobs.com/) - Ireland.
 - [Hyper Island](https://www.hyperisland.com/jobs)
@@ -675,6 +663,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in the European defence industry.
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
 - [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
+- [EuroTechJobs](https://www.eurotechjobs.com) - Developer and engineering roles across 16+ European countries.
 
 ### Malta
 
