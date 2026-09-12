@@ -500,6 +500,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [CrawlJobs](https://crawljobs.com) - Global job board with 550,000+ active listings crawled directly from employers' own career pages instead of other job boards. Covers 200+ countries in 20+ language versions, with filters for location, work mode and salary.
 - [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 - [TaskFavour](https://www.taskfavour.com/) - AI-powered job search and alert platform for freelance, remote, and full-time opportunities.
+- [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
 
 ## Entry Level
 
