@@ -250,6 +250,7 @@ You can also check out the following resources:
 - [Workaline](https://workaline.com/)
 - [RemoteYeah](https://remoteyeah.com/)
 - [Remotive](https://remotive.com/)
+- [Remoote](https://remoote.app/remote-working) - Remote jobs with country, skill, and experience filters; optional paid subscriptions.
 - [Remote](https://remote.com/jobs/all)
 - [remote | OK](https://remoteok.io/)
 - [JustRemote](https://justremote.co/)
