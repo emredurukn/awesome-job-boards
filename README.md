@@ -365,6 +365,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [Fitness Trainer Jobs](https://fitnesstrainerjobs.com) - Personal training, group fitness, and wellness coaching positions at gyms and studios.
 - [Wilderness Staff Jobs](https://wildernessstaffjobs.com) - Outdoor guide, park ranger, camp counselor, and adventure tourism positions.
+- [WildWork](https://wildwork.io) - Ranch hand, fishing and hunting guide, wildland firefighter, deckhand, and seasonal outdoor jobs across the US, with housing and season dates up front.
 
 ## Creative & Gig Work
 
