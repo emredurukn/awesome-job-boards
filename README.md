@@ -100,6 +100,7 @@ You can also check out the following resources:
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
+- [Fair Copy](https://claude.ai/artifact/8jsCLtV4c7A5tmn75hcgBC) - Tailored resume and cover letter for one job posting: fit evaluation, AI draft, a second pass critiques it, then a person reviews the compiled, ATS-checked PDFs before delivery.
 
 ## AI
 
