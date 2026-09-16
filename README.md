@@ -100,6 +100,7 @@ You can also check out the following resources:
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
+- [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 
 ## AI
 
