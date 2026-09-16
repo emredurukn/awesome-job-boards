@@ -121,6 +121,7 @@ You can also check out the following resources:
 - [warpjobs](https://warpjobs.com) - Niche board of GPU/CUDA, ML-systems, inference & performance-engineering roles, scraped daily from AI-lab & infra companies' ATS feeds (Greenhouse/Lever/Ashby); free, open-source, RSS/JSON feeds.
 - [Landed](https://landed.jobs) - Daily matched AI-native roles with fit scores and drafted application answers, plus interview prep. Free tier; also queryable from any editor via a public MCP server.
 - [First Look Jobs](https://firstlookjobs.com) - Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing; hourly contracts, $6-$400/hr.
+- [Level](https://jobsbylevel.com) - Job board that rates every listing from Level 1 to Level 4 by how central AI is to the work, from "AI is not the work" to "AI is the job"; listings pulled from company ATS every 6 hours, with public XML feeds.
 
 ## Data
 
