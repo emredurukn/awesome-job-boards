@@ -383,6 +383,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [Probably Good](https://jobs.probablygood.org/) - Impact-focused job board for promising job opportunities in various cause areas.
 - [Black Tech Pipeline](https://blacktechpipeline.com/) - Increases visibility of tech opportunities for the Black community.
+- [Remote Impact](https://remoteimpact.org/jobs/) - Remote jobs in climate, global health, nonprofits, and other impact areas.
 
 ## Other
 
