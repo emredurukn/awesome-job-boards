@@ -332,6 +332,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Gun.io](https://www.gun.io/)
 - [Freel](https://www.freel.ca/) - Freelancing jobs in Canada.
 - [CreatorJobBoard](https://creatorjobboard.com) - Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
+- [SideQuest Board](https://www.sidequestboard.app) - Freelance gigs aggregated from public communities into one clean feed, for developers, designers, writers, and other freelancers.
 
 ## Fashion
 
