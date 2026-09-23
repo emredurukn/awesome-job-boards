@@ -87,10 +87,7 @@ Experience an advanced career journey with us! 🚀
 You can also check out the following resources:
 
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
-- [ATSGuard](https://atsguard.com) - Scans your resume against any JD before you apply.
 - [Careerday](https://careerday.com/)
-- [CVCheck](https://cvcheck.app) - Scores your CV across 7 recruiter criteria instead of a single ATS match percentage.
-- [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep built from your actual background.
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
 - [AI Applyd](https://aiapplyd.com) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
@@ -121,7 +118,6 @@ You can also check out the following resources:
 - [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 - [warpjobs](https://warpjobs.com) - Niche board of GPU/CUDA, ML-systems, inference & performance-engineering roles, scraped daily from AI-lab & infra companies' ATS feeds (Greenhouse/Lever/Ashby); free, open-source, RSS/JSON feeds.
 - [Landed](https://landed.jobs) - Daily matched AI-native roles with fit scores and drafted application answers, plus interview prep. Free tier; also queryable from any editor via a public MCP server.
-- [First Look Jobs](https://firstlookjobs.com) - Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing; hourly contracts, $6-$400/hr.
 - [Level](https://jobsbylevel.com) - Job board that rates every listing from Level 1 to Level 4 by how central AI is to the work, from "AI is not the work" to "AI is the job"; listings pulled from company ATS every 6 hours, with public XML feeds.
 
 ## Data
@@ -181,7 +177,6 @@ You can also check out the following resources:
 - [Design Week Jobs](https://www.designweek.co.uk/jobs/)
 - [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
 - [CreativeMornings](https://creativemornings.com/jobs)
-- [CreativeFuego Jobs](https://creativefuego.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
 - [UI/UX Jobs Board](https://uiuxjobsboard.com)
 
@@ -196,7 +191,6 @@ You can also check out the following resources:
 
 ## Programming
 
-- [Ruby on Rails Jobs](https://www.ruby-on-rails-jobs.com/)
 - [ClojureJobboard](https://ClojureJobboard.com/)
 - [iOS Dev Jobs](https://iosdevjobs.com/)
 - [Elixir Radar](https://elixir-radar.com/jobs)
@@ -206,12 +200,10 @@ You can also check out the following resources:
 - [Golangprojects](https://www.golangprojects.com/)
 - [we love golang](https://www.welovegolang.com/)
 - [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
-- [Golang Job Board](https://golangjob.xyz/)
 - [Golang Cafe](https://golang.cafe/)
 - [Angular Jobs](https://angularjobs.com/)
 - [Angular Work](https://angular.work/)
 - [Vue.js Jobs](https://vuejobs.com/)
-- [Made with Vue.js Jobs](https://madewithvuejs.com/jobs)
 - [React Job Board](https://www.reactjobboard.com/)
 - [React JS Jobs](https://reactjsjob.com/)
 - [We Work Meteor](https://www.weworkmeteor.com/)
@@ -220,7 +212,6 @@ You can also check out the following resources:
 - [LaraJobs](https://larajobs.com/)
 - [pyJobs](https://www.pyjobs.com/)
 - [Python Job Board](https://www.python.org/jobs/)
-- [Python Jobs](https://pythonjob.xyz/)
 - [Pycoder's Jobs](https://www.pythonjobshq.com/)
 - [Django gigs](https://djangogigs.com/)
 - [Django Jobs](https://djangojobs.net/jobs/)
@@ -262,32 +253,27 @@ You can also check out the following resources:
 - [remote4me.com](https://remote4me.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
-- [AwesomeJobs](https://www.awesomejobs.io/)
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
 - [Remote JavaScript Jobs](https://javascript.jobs/remote)
 - [letsworkremotely](https://www.letsworkremotely.com/remote-jobs/)
 - [Workew](https://workew.com/remote-jobs/)
-- [wellpaid.io](https://wellpaid.io/)
 - [NODESK Remote Jobs](https://nodesk.co/remote-jobs/)
 - [FlexJobs](https://www.flexjobs.com/)
 - [Remoters](https://remoters.net/jobs/)
 - [DailyRemote](https://dailyremote.com/)
 - [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
-- [Meerkad](https://meerkad.com/)
-- [Pangian](https://pangian.com/remote/job-board/)
+- [Pangian](https://pangian.com/)
 - [DynamiteJobs](https://www.dynamitejobs.com/)
 - [FlatWorld](https://flatworld.co/jobs/)
 - [Remote Index](https://remoteindex.co/)
-- [Remote Jobs](https://backendremotejobs.com/)
 - [Devremote](https://devremote.io/)
 - [I love remote](https://iloveremote.io) - High paid remote jobs.
 - [RemoteFR](https://remoteFR.com) - Full remote jobs for French devs.
 - [RemoteSource](https://jobs.remotesource.com/jobs)
-- [tryremotely](https://tryremotely.com/remote-jobs)
+- [tryremotely](https://tryremotely.com/)
 - [Find My Remote](https://findmyremote.ai/)
 - [Benture](https://benture.io)
-- [Remoseal](https://www.remoseal.com)
 - [Remote100K](https://remote100k.com/)
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
@@ -298,7 +284,6 @@ You can also check out the following resources:
 - [GlobalWork](https://globalwork.ai/en)
 - [4DayJob](https://4dayjob.com/) - 4-day work week and remote job board with 1,500+ flexible opportunities.
 - [FindRemoteLawJobs](https://findremotelawjobs.com/) - Remote jobs for legal professionals.
-- [Corvi Careers Remote](https://corvi.careers/remote-jobs/) - Remote jobs categorized by profession.
 - [FindRemoteAccountingJobs](https://findremoteaccountingjobs.com/) - Remote jobs for accounting and finance professionals.
 - [Remote1stJobs](https://www.remote1stjobs.com/) - UK, Europe & EMEA remote-first jobs board; filters out US-only and fake-remote roles, direct employer links, salary-visible.
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
@@ -379,7 +364,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [ClimateTechList](https://www.climatetechlist.com/) - Climate tech / green energy jobs for software engineers.
 - [Climatebase](https://climatebase.org/) - Access to job openings at thousands of climate tech companies and nonprofits.
-- [EnergyHire](https://energyhire.com/) - A job marketplace for the energy sector.
 - [GreenLever](https://greenlever.co/)
 - [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 
@@ -411,15 +395,12 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Aquent](https://aquent.com/find-work/)
 - [HackerX](https://hackerx.org/jobs/)
 - [findwork.dev](https://findwork.dev/)
-- [The Muse](https://www.themuse.com/jobs)
+- [The Muse](https://www.themuse.com/)
 - [LinkUp](https://linkup.com/)
-- [eComPortal](https://ecomportal.co)
-- [Joblist.app](https://joblist.app/)
 - [Jobs2Careers](https://www.jobs2careers.com/)
 - [JobisJob](https://www.jobisjob.com/)
 - [Joblift](https://joblift.com/)
 - [Adzuna](https://www.adzuna.com/)
-- [TechMeAbroad](https://techmeabroad.com/)
 - [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 - [Codersrank](https://jobs.codersrank.io/)
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
@@ -428,7 +409,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Relocate.me](https://relocate.me/)
 - [#epicjobs](https://epicjobs.co/)
 - [StackShare](https://stackshare.io/match)
-- [Vanhack](https://vanhack.com/platform/#/jobs)
+- [Vanhack](https://vanhack.com/)
 - [PeopleFirstJobs](https://peoplefirstjobs.com/)
 - [Naukri](https://www.naukri.com/)
 - [CSS-Tricks Jobs](https://css-tricks.com/jobs/)
@@ -445,14 +426,12 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Workatastartup](https://www.workatastartup.com/job_list)
 - [f6s](https://www.f6s.com/jobs)
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
-- [Cleverism](https://www.cleverism.com/jobs)
 - [VirtualVocations](https://www.virtualvocations.com/)
 - [Jobvertise](http://www.jobvertise.com/)
 - [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
-- [KDR Recruitment](https://www.kdrrecruitment.com/jobs/)
+- [KDR Talent Solutions](https://www.kdrtalentsolutions.com/)
 - [Diversify Tech](https://www.diversifytech.co/job-board/)
 - [Hitmarker](https://hitmarker.net/jobs)
-- [Open Jobs in Copenhagen Region](https://careers.greatercphregion.com/)
 - [PRSA Job Center](https://jobs.prsa.org/)
 - [eFinancialCareers](https://www.efinancialcareers.com/)
 - [Health eCareers](https://healthecareers.com/)
@@ -512,7 +491,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [Entry Level Jobs](https://www.entryleveljobs.me/)
 - [College Recruiter](https://www.collegerecruiter.com/)
-- [Jr.DevJobs](https://www.jrdevjobs.com/)
 - [TalentEgg](https://talentegg.ca/)
 - [ErasmusIntern](https://erasmusintern.org/traineeships)
 - [AfterCollege](https://www.aftercollege.com/)
@@ -556,7 +534,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### USA
 
-- [DallasJobs](https://www.dallasjobs.io/)
 - [US Jobs](https://us.jobs/)
 - [Careerjet](https://www.careerjet.com/)
 - [Nexxt](https://www.nexxt.com/)
@@ -572,7 +549,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [SEEK](https://www.seek.com.au/)
 - [CareerOne](https://www.careerone.com.au/)
-- [Jobaroo](https://www.jobaroo.com/)
 - [Headhunted](https://www.headhunted.com.au/jobs/)
 - [Grapevine Jobs](https://www.grapevinejobs.com.au/)
 - [Student Job Board](https://www.studentjobboard.com.au/)
@@ -599,7 +575,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [CV-Library](https://www.cv-library.co.uk/)
 - [IT Jobs Watch](https://www.itjobswatch.co.uk/)
 - [Gumtree](https://www.gumtree.com/jobs)
-- [Analytics Jobs](https://www.analyticsjobs.co.uk/)
 - [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 - [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
@@ -618,7 +593,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Berlin Startup Jobs](https://berlinstartupjobs.com/)
 - [Jobs in Berlin](https://www.jobsinberlin.eu/)
 - [GermanTech Jobs](https://germantechjobs.de/)
-- [kimeta](https://www.kimeta.de/)
 - [academics](https://www.academics.de/)
 - [rekruter](https://www.rekruter.de/)
 - [meinestadt](https://www.meinestadt.de/)
@@ -646,7 +620,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Jobrapido](https://it.jobrapido.com/)
 - [Experteer](https://www.experteer.com/)
 - [Adecco](https://www.adecco.it/)
-- [Lavoro Digitale Italia](https://www.lavorodigitaleitalia.it)
 - [Experis](https://www.experis.it/)
 - [Infojobs](https://www.infojobs.it/)
 - [Subito](https://www.subito.it/)
@@ -696,7 +669,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Euro Top Tech Jobs](https://eurotoptechjobs.com/) - Top-Paying Tech Jobs in Europe and Remotely.
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
 - [Jobsportal](https://www.jobsportal.fi) - Finland.
-- [teletravail.guru](https://teletravail.guru) - Full remote for frenchies, Emplois 100% télétravail depuis la France.
 - [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in the European defence industry.
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
 - [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
@@ -734,7 +706,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [Findjobit](https://findjobit.com/jobs)
 - [RemoteJobs.lat](https://remotejobs.lat) - Remote job board for Latin American tech professionals.
-- [TacoEmpleos](https://tacoempleos.com.mx) - Reverse job board for restaurant positions in Mexico.
 
 ### Africa
 
