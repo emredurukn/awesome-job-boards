@@ -290,7 +290,7 @@ You can also check out the following resources:
 - [Remote Nomad Jobs](https://www.remotenomadjobs.com/) - Fully remote, work-from-anywhere jobs for digital nomads.
 - [WeWorkFromHome](https://weworkfromhome.com) - Remote jobs aggregated daily from company Greenhouse, Lever, and Ashby boards.
 - [RoleSense](https://role-sense.com/) - Surfaces per-job country eligibility and work-style signals (autonomy, pace, meeting load) parsed from the posting text; sourced directly from ATS boards (Greenhouse, Lever, Ashby, Workable, and more).
-- [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
+- [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
