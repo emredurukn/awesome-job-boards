@@ -163,7 +163,7 @@ You can also check out the following resources:
 
 ## Design
 
-- [AIGA](https://designjobs.aiga.org/)
+- [AIGA](https://designcareers.aiga.org/)
 - [Authentic Jobs](https://www.authenticjobs.com/)
 - [Behance](https://www.behance.net/joblist)
 - [Coroflot](https://www.coroflot.com/design-jobs)
@@ -172,7 +172,7 @@ You can also check out the following resources:
 - [Krop](https://www.krop.com/creative-jobs/)
 - [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 - [UX Jobs Board](https://www.uxjobsboard.com)
-- [Designer Jobs](https://designerjobs.co/jobs)
+- [Designer Jobs](https://designerjobs.co/)
 - [Design Jobs Board](https://www.designjobsboard.com/)
 - [Design Week Jobs](https://www.designweek.co.uk/jobs/)
 - [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
@@ -183,9 +183,7 @@ You can also check out the following resources:
 ## InfoSec
 
 - [CyberSecurityJobsite](https://www.cybersecurityjobsite.com/jobs/)
-- [CareersInfoSecurity](https://www.careersinfosecurity.com/jobs/)
-- [CyberSecurityJobs](https://www.cybersecurityjobs.net/)
-- [YesWeHack](https://jobs.yeswehack.com/en/)
+- [CyberSecurityJobs](https://www.cybersecurityjobs.com/)
 - [InfoSec Jobs](https://infosec-jobs.net) - Security roles across 17 countries, aggregated daily from 40+ sources.
 - [ClearedJobs.Net](https://clearedjobs.net) - US defense and intelligence roles requiring a security clearance.
 
@@ -198,7 +196,6 @@ You can also check out the following resources:
 - [findatechjob](https://findatechjob.dev/)
 - [Full-Stack Developer Jobs](https://fullstackjob.com/)
 - [Golangprojects](https://www.golangprojects.com/)
-- [we love golang](https://www.welovegolang.com/)
 - [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
 - [Golang Cafe](https://golang.cafe/)
 - [Angular Jobs](https://angularjobs.com/)
@@ -207,7 +204,6 @@ You can also check out the following resources:
 - [React Job Board](https://www.reactjobboard.com/)
 - [React JS Jobs](https://reactjsjob.com/)
 - [We Work Meteor](https://www.weworkmeteor.com/)
-- [Drupal Jobs](https://jobs.drupal.org/)
 - [WordPress Jobs](https://jobs.wordpress.net/)
 - [LaraJobs](https://larajobs.com/)
 - [pyJobs](https://www.pyjobs.com/)
@@ -246,7 +242,7 @@ You can also check out the following resources:
 - [Remotive](https://remotive.com/)
 - [Remoote](https://remoote.app/remote-working) - Remote jobs with country, skill, and experience filters; optional paid subscriptions.
 - [Remote](https://remote.com/jobs/all)
-- [remote | OK](https://remoteok.io/)
+- [remote | OK](https://remoteok.com/)
 - [JustRemote](https://justremote.co/)
 - [SkipTheDrive](https://www.skipthedrive.com/)
 - [remote.co](https://remote.co/remote-jobs/)
@@ -263,9 +259,7 @@ You can also check out the following resources:
 - [Remoters](https://remoters.net/jobs/)
 - [DailyRemote](https://dailyremote.com/)
 - [Remote Developer Jobs](https://www.remote-developer-jobs.com/)
-- [Pangian](https://pangian.com/)
 - [DynamiteJobs](https://www.dynamitejobs.com/)
-- [FlatWorld](https://flatworld.co/jobs/)
 - [Remote Index](https://remoteindex.co/)
 - [Devremote](https://devremote.io/)
 - [I love remote](https://iloveremote.io) - High paid remote jobs.
@@ -278,7 +272,7 @@ You can also check out the following resources:
 - [RemoteRocketship](https://www.remoterocketship.com/)
 - [RemoteScout](https://remotescout24.com/en)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals.
-- [RemoteCorgi](https://www.remotecorgi.com/) - Hand-picked remote and hybrid jobs. Top companies only.
+- [RemoteCorgi](https://www.wfhjobs.co.uk/) - Hand-picked remote and hybrid jobs. Top companies only.
 - [TrulyRemote](https://trulyremote.co/)
 - [RemoteJobsFinder](https://remotejobsfinder.co/en)
 - [GlobalWork](https://globalwork.ai/en)
@@ -311,7 +305,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Guru](https://www.guru.com/)
 - [People Per Hour](https://www.peopleperhour.com)
 - [Fiverr](https://www.fiverr.com/)
-- [Hubstaff](https://talent.hubstaff.com/)
+- [Hubstaff](https://hubstafftalent.net/)
 - [Outsource](https://outsource.com)
 - [GigGrabbers](https://www.giggrabbers.com)
 - [Techamana](https://www.techamana.com)
@@ -381,9 +375,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GitHub Jobs](https://www.github.careers/careers-home/jobs)
 - [Amazon Jobs](https://www.amazon.jobs/en)
 - [HackerNews Jobs](https://news.ycombinator.com/jobs)
-- [Top Jobs Today](https://topjobstoday.com) - FAANG jobs.
-- [Crunchboard](https://www.crunchboard.com/)
-- [Hacker Noon Jobs](https://jobs.hackernoon.com/)
 - [Jobbatical](https://jobbatical.com/jobs)
 - [PowerToFly](https://powertofly.com/jobs/)
 - [whoishiring.io](https://whoishiring.io/)
@@ -408,7 +399,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
 - [Relocate.me](https://relocate.me/)
-- [#epicjobs](https://epicjobs.co/)
 - [StackShare](https://stackshare.io/match)
 - [Vanhack](https://vanhack.com/)
 - [PeopleFirstJobs](https://peoplefirstjobs.com/)
@@ -448,7 +438,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [arbeitnow](https://www.arbeitnow.com)
 - [4 day week](https://4dayweek.io/)
 - [Jobgether](https://jobgether.com)
-- [Techloop](https://jobs.techloop.io/)
 - [Himalayas](https://himalayas.app/jobs)
 - [gamesjobsdirect](https://www.gamesjobsdirect.com/)
 - [jobsdb](https://www.jobsdb.com/)
@@ -516,8 +505,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 ## Open Source
 
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
-- [Fossfox](https://fossfox.com/)
-- [freehire](https://freehire.dev/jobs/) - Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many ATS boards and Telegram channels.
+- [freehire](https://freehire.me/jobs) - Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many ATS boards and Telegram channels.
 
 You can also check out [open-source-jobs](https://github.com/timqian/open-source-jobs)
 
@@ -540,7 +528,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
-- [Chef Jobs Near.Me](https://chefjobsnear.me/)
+- [Chef Jobs Near.Me](https://chefjobsnearme.com/)
 - [Remote Physician Jobs](https://www.remotephysicianjobs.org/) - Remote jobs for physicians and doctors. Live aggregator of 600 companies' job boards, updated daily.
 - [Library Jobs HQ](https://www.libraryjobshq.com/)
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
@@ -557,7 +545,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Canada
 
-- [Work in Tech](https://www.workintech.ca/)
+- [Work in Tech](https://www1.communitech.ca/jobs)
 - [Jobboom](https://www.jobboom.com/en/job/)
 - [Jobillico](https://www.jobillico.com/search-jobs)
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
