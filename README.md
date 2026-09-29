@@ -285,6 +285,7 @@ You can also check out the following resources:
 - [WeWorkFromHome](https://weworkfromhome.com) - Remote jobs aggregated daily from company Greenhouse, Lever, and Ashby boards.
 - [RoleSense](https://role-sense.com/) - Surfaces per-job country eligibility and work-style signals (autonomy, pace, meeting load) parsed from the posting text; sourced directly from ATS boards (Greenhouse, Lever, Ashby, Workable, and more).
 - [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions.
+- [Remote Jobs API](https://remote-jobs-api.tten.no) - Free, no-auth REST feed of 300+ deduplicated remote tech jobs aggregated from Remotive, Remote OK, Jobicy, WWR & HN (salary where available).
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
