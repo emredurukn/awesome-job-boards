@@ -699,3 +699,4 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+- [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
