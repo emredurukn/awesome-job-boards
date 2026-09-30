@@ -334,6 +334,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [Nightlife Employees](https://nightlifeemployees.com) - Bar, club, and nightlife industry jobs — bartenders, DJs, promoters, and security staff.
 - [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs for line cooks, sous chefs, pastry chefs, FOH, and catering.
+- [JobCroissant](https://jobcroissant.com/) - Jobs for bakers, pastry chefs, cake decorators, and bakery professionals in the United States. Free for job seekers.
 
 ## Music & Entertainment
 
@@ -412,6 +413,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [snagajob](https://www.snagajob.com/)
 - [Robert Half](https://www.roberthalf.com/jobs)
 - [HigherEdJobs](https://www.higheredjobs.com/)
+- [BusinessSchoolCareers](https://businessschoolcareers.com/) - Faculty, research, leadership, and administrative jobs at business schools worldwide. Free for job seekers.
 - [Mediabistro](https://www.mediabistro.com/)
 - [Joblist](https://www.joblist.com/)
 - [Workatastartup](https://www.workatastartup.com/job_list)
