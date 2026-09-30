@@ -1,4 +1,4 @@
-# Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9f34485-6e89-41b0-91c2-5bccac2f21a3" /># Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome job boards.
 
@@ -488,6 +488,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [AfterCollege](https://www.aftercollege.com/)
 - [Newgrad jobs](https://www.newgrad-jobs.com/)
 - [EntryLevel Careers](https://entrylevel.careers/)
+- [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
