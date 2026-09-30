@@ -104,7 +104,6 @@ You can also check out the following resources:
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
-- [AI/ML Jobs](https://aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
 - [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
 - [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Curated AI training, evaluation, and domain-expert contractor roles (Mercor referrals). 100% remote, hourly contracts ($23-$180/hr).
@@ -209,7 +208,6 @@ You can also check out the following resources:
 - [pyJobs](https://www.pyjobs.com/)
 - [Python Job Board](https://www.python.org/jobs/)
 - [Pycoder's Jobs](https://www.pythonjobshq.com/)
-- [Django gigs](https://djangogigs.com/)
 - [Django Jobs](https://djangojobs.net/jobs/)
 - [Rust Programming Language Jobs](http://rust-jobs.com/)
 - [JavaScript Jobs](https://jobs.date-fns.org/)
@@ -540,7 +538,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [SEEK](https://www.seek.com.au/)
 - [CareerOne](https://www.careerone.com.au/)
-- [Headhunted](https://www.headhunted.com.au/jobs/)
 - [Grapevine Jobs](https://www.grapevinejobs.com.au/)
 - [Student Job Board](https://www.studentjobboard.com.au/)
 - [Resource Jobs](https://www.resourcejobs.au/)
@@ -612,7 +609,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Experteer](https://www.experteer.com/)
 - [Adecco](https://www.adecco.it/)
 - [Experis](https://www.experis.it/)
-- [Infojobs](https://www.infojobs.it/)
 - [Subito](https://www.subito.it/)
 - [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
 - [Gi Group](https://www.gigroup.it/)
