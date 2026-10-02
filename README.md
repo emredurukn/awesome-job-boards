@@ -140,7 +140,6 @@ You can also check out the following resources:
 - [CryptoJobs](https://crypto.jobs/)
 - [Workew Crypto Jobs](https://workew.com/crypto-jobs/) - Crypto and Blockchain roles.
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/)
-- [GMI Jobs](https://gmijobs.com/)
 - [JobsInBlockchain](https://jobsinblockchain.com/)
 - [Web3 Jobs](https://web3.career/)
 - [token jobs](https://tokenjobs.io)
@@ -220,7 +219,6 @@ You can also check out the following resources:
 - [androidDev.careers](https://androiddev.careers)
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
-- [EmbeddedJobs](https://embedded.jobs/) - Best jobs for Embedded Systems Engineers.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
 - [Index.dev](https://index.dev/) - AI-powered platform for software talent.
 - [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
@@ -262,13 +260,12 @@ You can also check out the following resources:
 - [Devremote](https://devremote.io/)
 - [I love remote](https://iloveremote.io) - High paid remote jobs.
 - [RemoteFR](https://remoteFR.com) - Full remote jobs for French devs.
-- [RemoteSource](https://jobs.remotesource.com/jobs)
+- [RemoteSource](https://www.remotesource.com/jobs)
 - [tryremotely](https://tryremotely.com/)
 - [Find My Remote](https://findmyremote.ai/)
 - [Benture](https://benture.io)
 - [Remote100K](https://remote100k.com/)
 - [RemoteRocketship](https://www.remoterocketship.com/)
-- [RemoteScout](https://remotescout24.com/en)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for moms, career changers & non-technical professionals.
 - [RemoteCorgi](https://www.wfhjobs.co.uk/) - Hand-picked remote and hybrid jobs. Top companies only.
 - [TrulyRemote](https://trulyremote.co/)
@@ -423,7 +420,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jobvertise](http://www.jobvertise.com/)
 - [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
 - [KDR Talent Solutions](https://www.kdrtalentsolutions.com/)
-- [Diversify Tech](https://www.diversifytech.co/job-board/)
+- [Diversify Tech](https://jobs.diversifytech.com/)
 - [Hitmarker](https://hitmarker.net/jobs)
 - [PRSA Job Center](https://jobs.prsa.org/)
 - [eFinancialCareers](https://www.efinancialcareers.com/)
@@ -448,7 +445,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [AquariumsHiring](https://aquariumshiring.com) - Nature.
 - [ZoosHiring](https://zooshiring.com) - Nature.
 - [Hidden Jobs](https://hidden-jobs.com/)
-- [HiringCafe](https://hiring.cafe/)
+- [HiringCafe](https://hiringcafe.com/)
 - [We Are Distributed](https://wearedistributed.org/jobs)
 - [Jobs by Workable](https://jobs.workable.com/)
 - [Engineering Manager Jobs (EngMgrJobs)](https://engmgrjobs.com)
@@ -526,7 +523,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### USA
 
-- [US Jobs](https://us.jobs/)
+- [US Jobs](https://www.usa.jobs/)
 - [Careerjet](https://www.careerjet.com/)
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
@@ -656,7 +653,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [zuhausejobs.com](https://zuhausejobs.com) - Germany, Austria & Switzerland.
 - [lovejob](https://en.lovejob.lt/)
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺.
-- [Euro Top Tech Jobs](https://eurotoptechjobs.com/) - Top-Paying Tech Jobs in Europe and Remotely.
+- [Euro Top Tech Jobs](https://www.eurotoptech.com/) - Top-Paying Tech Jobs in Europe and Remotely.
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
 - [Jobsportal](https://www.jobsportal.fi) - Finland.
 - [DefenceJobs.org](https://www.defencejobs.org/) - Jobs in the European defence industry.
