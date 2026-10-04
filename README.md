@@ -123,7 +123,6 @@ You can also check out the following resources:
 
 - [DataJobs.com](https://datajobs.com/)
 - [icrunchdata](https://icrunchdata.com/)
-- [KDnuggets](https://www.kdnuggets.com/jobs/index.html)
 - [Opendatascience Jobs](https://jobs.opendatascience.com/)
 - [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
 - [StatsJobs](https://www.statsjobs.com/)
@@ -149,7 +148,7 @@ You can also check out the following resources:
 - [Solana Jobs](https://jobs.solana.com/jobs)
 - [Dragonfly Jobs](https://jobs.dragonfly.xyz/jobs)
 - [Remote3](https://www.remote3.co/remote-web3-jobs)
-- [Jobstash](https://jobstash.xyz/jobs)
+- [Jobstash](https://jobstash.xyz/)
 - [BeInCrypto Jobs](https://beincrypto.com/jobs/)
 - [Sail on Chain](https://sailonchain.com/)
 - [web3vacancy](https://web3vacancy.com/) - Crypto-native job board aggregating 2,400+ roles from DeFi, L2s, wallets, and infrastructure companies. Updated every 5 minutes.
@@ -168,13 +167,12 @@ You can also check out the following resources:
 - [Coroflot](https://www.coroflot.com/design-jobs)
 - [IXDA](http://ixda.org/jobs/)
 - [Dribble](https://dribbble.com/jobs)
-- [Krop](https://www.krop.com/creative-jobs/)
 - [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 - [UX Jobs Board](https://www.uxjobsboard.com)
 - [Designer Jobs](https://designerjobs.co/)
 - [Design Jobs Board](https://www.designjobsboard.com/)
 - [Design Week Jobs](https://www.designweek.co.uk/jobs/)
-- [If You Could Jobs](https://ifyoucouldjobs.com/jobs)
+- [If You Could Jobs](https://www.ifyoucouldjobs.com/)
 - [CreativeMornings](https://creativemornings.com/jobs)
 - [Creativepool](https://creativepool.com/jobs/)
 - [UI/UX Jobs Board](https://uiuxjobsboard.com)
@@ -195,7 +193,7 @@ You can also check out the following resources:
 - [findatechjob](https://findatechjob.dev/)
 - [Full-Stack Developer Jobs](https://fullstackjob.com/)
 - [Golangprojects](https://www.golangprojects.com/)
-- [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+- [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 - [Golang Cafe](https://golang.cafe/)
 - [Angular Jobs](https://angularjobs.com/)
 - [Angular Work](https://angular.work/)
@@ -305,11 +303,11 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fiverr](https://www.fiverr.com/)
 - [Hubstaff](https://hubstafftalent.net/)
 - [Outsource](https://outsource.com)
-- [GigGrabbers](https://www.giggrabbers.com)
+- [GigGrabbers](https://www.giggrabbers.com/freelance-jobs)
 - [Techamana](https://www.techamana.com)
 - [YunoJuno](https://www.yunojuno.com/)
 - [Gun.io](https://www.gun.io/)
-- [Freel](https://www.freel.ca/) - Freelancing jobs in Canada.
+- [Freel](https://freel.ca/) - Freelancing jobs in Canada.
 - [CreatorJobBoard](https://creatorjobboard.com) - Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
 - [SideQuest Board](https://www.sidequestboard.app) - Freelance gigs aggregated from public communities into one clean feed, for developers, designers, writers, and other freelancers.
 
@@ -374,25 +372,22 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GitHub Jobs](https://www.github.careers/careers-home/jobs)
 - [Amazon Jobs](https://www.amazon.jobs/en)
 - [HackerNews Jobs](https://news.ycombinator.com/jobs)
-- [Jobbatical](https://jobbatical.com/jobs)
 - [PowerToFly](https://powertofly.com/jobs/)
 - [whoishiring.io](https://whoishiring.io/)
 - [SimplyHired](https://www.simplyhired.com/)
 - [CareerBuilder](https://www.careerbuilder.com)
 - [Dice](https://www.dice.com/)
-- [Techstars](https://jobs.techstars.com/)
+- [Techstars](https://jobs.techstars.com/jobs)
 - [ZipRecruiter](https://www.ziprecruiter.com/)
 - [Idealist](https://www.idealist.org/)
 - [Aquent](https://aquent.com/find-work/)
-- [HackerX](https://hackerx.org/jobs/)
+- [HackerX](https://hackerx.org/find-a-job/)
 - [findwork.dev](https://findwork.dev/)
 - [The Muse](https://www.themuse.com/)
 - [LinkUp](https://linkup.com/)
 - [Jobs2Careers](https://www.jobs2careers.com/)
-- [JobisJob](https://www.jobisjob.com/)
 - [Joblift](https://joblift.com/)
 - [Adzuna](https://www.adzuna.com/)
-- [HackerRank Jobs](https://www.hackerrank.com/jobs/search)
 - [Codersrank](https://jobs.codersrank.io/)
 - [jobbit subreddit](https://www.reddit.com/r/forhire/search?q=%28title%3A%22%5Bhiring%5D%22+OR+flair%3AHiring%29+AND+%28subreddit%3Aforhire+OR+subreddit%3Ajobbit+OR+subreddit%3Ajobopenings%29&sort=new&t=all)
 - [Jora](https://www.jora.com/)
@@ -405,7 +400,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [CSS-Tricks Jobs](https://css-tricks.com/jobs/)
 - [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
 - [Totaljobs](https://www.totaljobs.com/)
-- [XING](https://www.xing.com/jobs)
+- [XING](https://www.xing.com/)
 - [The Guardian Jobs](https://jobs.theguardian.com/jobs/)
 - [Jobs in Network](https://www.jobsinnetwork.com/)
 - [snagajob](https://www.snagajob.com/)
@@ -414,7 +409,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [BusinessSchoolCareers](https://businessschoolcareers.com/) - Faculty, research, leadership, and administrative jobs at business schools worldwide. Free for job seekers.
 - [Mediabistro](https://www.mediabistro.com/)
 - [Joblist](https://www.joblist.com/)
-- [Workatastartup](https://www.workatastartup.com/job_list)
+- [Workatastartup](https://www.workatastartup.com/jobs)
 - [f6s](https://www.f6s.com/jobs)
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
 - [VirtualVocations](https://www.virtualvocations.com/)
@@ -564,7 +559,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [CV-Library](https://www.cv-library.co.uk/)
 - [IT Jobs Watch](https://www.itjobswatch.co.uk/)
 - [Gumtree](https://www.gumtree.com/jobs)
-- [WikiJob](https://www.wikijob.co.uk/uk/jobs/)
 - [Hunt UK Visa Sponsors](https://www.huntukvisasponsors.com/)
 - [Welcome to the jungle](https://uk.welcometothejungle.com/)
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
@@ -607,8 +601,8 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Italy
 
 - [Jobrapido](https://it.jobrapido.com/)
-- [Experteer](https://www.experteer.com/)
-- [Adecco](https://www.adecco.it/)
+- [Experteer](https://www.experteer.it/)
+- [Adecco](https://www.adecco.com/it-it/offerte-lavoro)
 - [Experis](https://www.experis.it/)
 - [Subito](https://www.subito.it/)
 - [Rete Informatica Lavoro](https://reteinformaticalavoro.it/)
@@ -650,7 +644,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Duunitori](https://duunitori.fi/tyopaikat) - Finland.
 - [jobbsafari.no](https://jobbsafari.no/ledige-stillinger) - Norway.
 - [NIJOBS](https://www.nijobs.com/) - Ireland.
-- [Hyper Island](https://www.hyperisland.com/jobs)
+- [Hyper Island](https://jobs.hyperisland.com/)
 - [zuhausejobs.com](https://zuhausejobs.com) - Germany, Austria & Switzerland.
 - [lovejob](https://en.lovejob.lt/)
 - [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺.
@@ -672,7 +666,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Yenibiris](https://www.yenibiris.com/is-ilanlari/)
 - [Secretcv](https://www.secretcv.com/is-ilanlari/)
 - [Eleman.net](https://www.eleman.net/is-ilanlari/)
-- [Randstad Türkiye](https://www.randstad.com.tr/jobs/)
+- [Randstad Türkiye](https://www.randstad.com.tr/is-ilanlari/)
 - [Toptalent](https://toptalent.co/is-ilanlari/)
 
 ### UAE
