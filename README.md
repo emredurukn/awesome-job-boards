@@ -657,6 +657,10 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [huntas.lt](https://huntas.lt) - All jobs in Lithuania.
 - [CEEhire](https://ceehire.com) - Validated remote IT jobs from US/UK companies for Central & Eastern European tech talent. Transparent salaries, no ghost jobs.
 - [EuroTechJobs](https://www.eurotechjobs.com) - Developer and engineering roles across 16+ European countries.
+- [JobCrawls](https://www.jobcrawls.com/en) - Finland.
+- [Jobly](https://www.jobly.fi/) - Finland.
+- [Työmarkkinatori](https://tyomarkkinatori.fi/en) - Finland, official public employment service.
+- [Work in Finland](https://www.workinfinland.com/en/) - Finland, English-language jobs for international applicants.
 
 ### Malta
 
