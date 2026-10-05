@@ -498,6 +498,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
 - [Basin.cv](https://basin.cv/)
 - [EU-Startups Job Board](https://www.eu-startups.com/startup-jobs/) - Jobs at European startups, updated daily.
+- [VCBacked Startup Jobs](https://www.vcbacked.co/startup-jobs) - Jobs at startups that recently raised venture funding.
 
 ## Open Source
 
