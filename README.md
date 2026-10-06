@@ -359,6 +359,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Climatebase](https://climatebase.org/) - Access to job openings at thousands of climate tech companies and nonprofits.
 - [GreenLever](https://greenlever.co/)
 - [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
+- [NextGen Energy Jobs](https://www.nextgenenergyjobs.com/) - Power-sector jobs in grid, nuclear and fusion, renewables, storage and data centers, with pay where employers list it.
 
 ## Impact
 
