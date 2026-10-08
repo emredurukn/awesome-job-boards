@@ -690,6 +690,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Asia
 
 - [VietnamDevs](https://vietnamdevs.com)
+- [Loker Dollar](https://lokerdollar.com) - Remote jobs paying in USD that accept applicants from Indonesia, in Indonesian and English.
 
 ### Latam
 
