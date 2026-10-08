@@ -98,6 +98,7 @@ You can also check out the following resources:
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
+- [JobFinder AI](https://www.jobfinder-ai.com) - AI job-search agent: set target roles and locations, and it finds matching openings, prepares and completes applications, reaches hiring managers, and tracks replies and follow-ups. Free public job browsing.
 
 ## AI
 
