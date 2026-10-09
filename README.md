@@ -503,6 +503,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Basin.cv](https://basin.cv/)
 - [EU-Startups Job Board](https://www.eu-startups.com/startup-jobs/) - Jobs at European startups, updated daily.
 - [VCBacked Startup Jobs](https://www.vcbacked.co/startup-jobs) - Jobs at startups that recently raised venture funding.
+- [Hypetrain](https://hypetrain.fyi/) - Jobs at Bay Area AI startups you can reach by train, mapped by each office's walk from Caltrain or BART.
 
 ## Open Source
 
