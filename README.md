@@ -129,7 +129,6 @@ You can also check out the following resources:
 - [Opendatascience Jobs](https://jobs.opendatascience.com/)
 - [AnalyticsVidhya Jobs](https://jobsnew.analyticsvidhya.com/jobs/all)
 - [StatsJobs](https://www.statsjobs.com/)
-- [Big Cloud](https://bigcloud.global/find-a-job/)
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 - [Data Engineering Jobs](https://dataengjobs.com/)
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
@@ -235,7 +234,6 @@ You can also check out the following resources:
 - [Career Vault](https://careervault.io/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
 - [We Work Remotely](https://weworkremotely.com/)
-- [Workaline](https://workaline.com/)
 - [RemoteYeah](https://remoteyeah.com/)
 - [Remotive](https://remotive.com/)
 - [Remoote](https://remoote.app/remote-working) - Remote jobs with country, skill, and experience filters; optional paid subscriptions.
@@ -665,7 +663,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [EuroTechJobs](https://www.eurotechjobs.com) - Developer and engineering roles across 16+ European countries.
 - [JobCrawls](https://www.jobcrawls.com/en) - Finland.
 - [Jobly](https://www.jobly.fi/) - Finland.
-- [Työmarkkinatori](https://tyomarkkinatori.fi/en) - Finland, official public employment service.
+- [Työmarkkinatori](https://tyomarkkinatori.fi/en/personal-customers/vacancies) - Finland, official public employment service.
 - [Work in Finland](https://www.workinfinland.com/en/) - Finland, English-language jobs for international applicants.
 
 ### Malta
