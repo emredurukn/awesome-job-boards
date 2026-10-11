@@ -244,6 +244,7 @@ You can also check out the following resources:
 - [remote.co](https://remote.co/remote-jobs/)
 - [remote4me.com](https://remote4me.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
