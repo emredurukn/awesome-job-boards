@@ -160,6 +160,7 @@ You can also check out the following resources:
 - [Maneki](https://maneki.work/) - Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
 - [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
 - [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
+- [Jobs Web3](https://jobsweb3.io/) - Crypto, blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
 
 ## Design
 
