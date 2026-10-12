@@ -99,6 +99,7 @@ You can also check out the following resources:
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
+- [ATS Job Board Feeds](https://apify.com/wintersworks/ats-job-board-feeds) - Pull every open role from companies' Greenhouse, Lever, Ashby, Workable and SmartRecruiters boards into one CSV, with remote/salary fields and new-posting tracking for scheduled runs.
 
 ## AI
 
