@@ -398,6 +398,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Jora](https://www.jora.com/)
 - [HNHIRING](https://hnhiring.com/)
 - [Relocate.me](https://relocate.me/)
+- [Free Notion Job Application Trackers by Role](https://itch.io/c/8301723/free-notion-job-application-trackers-by-role?utm_source=github&utm_medium=awesome-job-boards&utm_campaign=sprint-oct)
 - [StackShare](https://stackshare.io/match)
 - [Vanhack](https://vanhack.com/)
 - [PeopleFirstJobs](https://peoplefirstjobs.com/)
