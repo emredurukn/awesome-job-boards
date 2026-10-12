@@ -2,31 +2,6 @@
 
 A curated list of awesome job boards.
 
-## **Website & Autofill Extension**
-
-[![Apply to jobs in seconds with Zapply.](https://raw.githubusercontent.com/zapplyjobs/.github/main/assets/apply-faster-banner.png)](https://app.zapply.jobs/onboarding?ref=github-cta-emredurukn)
-
-Explore Zapply’s website and check out:
-
-- Our Chrome extension, which autofills job applications in seconds.
-- A dedicated job board featuring the latest openings across various roles.
-- User accounts with multiple profiles for different resume types and roles.
-- Job application tracking with streaks and commitment awards.
-
-Experience an advanced career journey with us! 🚀
-
-<p align="center">
-  <a href="https://app.zapply.jobs/onboarding?ref=github-cta-emredurukn">
-    <img
-      src="https://raw.githubusercontent.com/zapplyjobs/.github/main/assets/get-started-button.png"
-      alt="Visit Zapply"
-      width="700"
-    >
-  </a>
-</p>
-
-<p align="right"><sub>Sponsored by Zapply</sub></p>
-
 ## Contents
 
 - [General](#general)
@@ -657,7 +632,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Hyper Island](https://jobs.hyperisland.com/)
 - [zuhausejobs.com](https://zuhausejobs.com) - Germany, Austria & Switzerland.
 - [lovejob](https://en.lovejob.lt/)
-- [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=emredurukn-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺.
+- [Next Level Jobs EU](https://nextleveljobs.eu/) - €100k+ Software Engineering Jobs 🇪🇺.
 - [Euro Top Tech Jobs](https://www.eurotoptech.com/) - Top-Paying Tech Jobs in Europe and Remotely.
 - [Startup Jobs CZ](https://www.startupjobs.cz/)
 - [Jobsportal](https://www.jobsportal.fi) - Finland.
