@@ -224,6 +224,7 @@ You can also check out the following resources:
 - [Index.dev](https://index.dev/) - AI-powered platform for software talent.
 - [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
+- [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
 
 ## Remote
 
