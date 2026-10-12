@@ -121,6 +121,7 @@ You can also check out the following resources:
 - [Level](https://jobsbylevel.com) - Job board that rates every listing from Level 1 to Level 4 by how central AI is to the work, from "AI is not the work" to "AI is the job"; listings pulled from company ATS every 6 hours, with public XML feeds.
 - [AITraining.jobs](https://aitraining.jobs) - Every open AI training role (AI trainer, evaluator, data annotation, domain expert) from about 60 platforms, with the hourly pay each states. Updated daily, free.
 - [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and prompt evaluation jobs from 40+ platforms, updated hourly. Free, no signup.
+- [RobotTraining.jobs](https://robottraining.jobs) - Robot teleoperation, demonstration recording, at-home video capture and AV/drone test-operator openings from about 60 robotics and physical-AI employers, read from their own job boards every day and shown with the pay each posts. Free, no signup.
 
 ## Data
 
