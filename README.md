@@ -204,6 +204,7 @@ You can also check out the following resources:
 - [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
 - [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
+- [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own hiring systems, with the date each was posted.
 
 ## Remote
 
