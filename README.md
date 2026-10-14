@@ -100,6 +100,7 @@ You can also check out the following resources:
 - [RobotTraining.jobs](https://robottraining.jobs) - Robot teleoperation, demonstration recording, at-home video capture and AV/drone test-operator openings from about 60 robotics and physical-AI employers, read from their own job boards every day and shown with the pay each posts. Free, no signup.
 - [USASI Jobs](https://unitedstatesofamericasuperintelligence.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
 - [AI Training Board](https://aitrainingboard.com) - About 3,300 work-from-home AI training jobs, each with its hourly rate and the countries that can apply. Rechecked every morning, free.
+- [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
 
 ## Data
 
@@ -205,6 +206,7 @@ You can also check out the following resources:
 - [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
 - [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
+- [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own hiring systems, with the date each was posted.
 
 ## Remote
 
@@ -268,6 +270,7 @@ You can also check out the following resources:
 - [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 - [SpinHire](https://spinhire.io/en/) - iGaming job board: casino, sportsbook, game studios and affiliate jobs with salary benchmarks; open API (CC BY 4.0).
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account.
+- [Low Key Remote](https://lowkeyremote.com) - Low-stress, async remote jobs with no phone calls or video meetings, hand-checked for introverts, people with social anxiety and people with disabilities.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
