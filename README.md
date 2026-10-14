@@ -99,6 +99,7 @@ You can also check out the following resources:
 - [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and prompt evaluation jobs from 40+ platforms, updated hourly. Free, no signup.
 - [RobotTraining.jobs](https://robottraining.jobs) - Robot teleoperation, demonstration recording, at-home video capture and AV/drone test-operator openings from about 60 robotics and physical-AI employers, read from their own job boards every day and shown with the pay each posts. Free, no signup.
 - [USASI Jobs](https://unitedstatesofamericasuperintelligence.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
+- [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
 
 ## Data
 
