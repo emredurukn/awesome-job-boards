@@ -267,6 +267,7 @@ You can also check out the following resources:
 - [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 - [SpinHire](https://spinhire.io/en/) - iGaming job board: casino, sportsbook, game studios and affiliate jobs with salary benchmarks; open API (CC BY 4.0).
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account.
+- [Low Key Remote](https://lowkeyremote.com) - Low-stress, async remote jobs with no phone calls or video meetings, hand-checked for introverts, people with social anxiety and people with disabilities.
 
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
