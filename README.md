@@ -142,6 +142,7 @@ You can also check out the following resources:
 - [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
 - [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
 - [Jobs Web3](https://jobsweb3.io/) - Crypto, blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
+- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
 
 ## Design
 
