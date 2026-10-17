@@ -102,6 +102,7 @@ You can also check out the following resources:
 - [USASI Jobs](https://unitedstatesofamericasuperintelligence.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
 - [AI Training Board](https://aitrainingboard.com) - About 3,300 work-from-home AI training jobs, each with its hourly rate and the countries that can apply. Rechecked every morning, free.
 - [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
+- [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 
 ## Data
 
