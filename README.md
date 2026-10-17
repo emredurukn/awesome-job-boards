@@ -627,6 +627,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Statsskuld.se](https://statsskuld.se/lediga-jobb)
 - [jobbland.se](https://jobbland.se/lediga-jobb)
 - [jobbsafari.se](https://jobbsafari.se/lediga-jobb)
+- [Finder Sweden](https://se.finder.work/) - Job aggregator collecting vacancies across Sweden from open sources, with salary statistics. Free for job seekers.
 
 ### Europe Other
 
