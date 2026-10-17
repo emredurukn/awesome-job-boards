@@ -619,6 +619,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
 - [SwissAIJob](https://swissaijob.ch/)
+- [Finder Switzerland](https://ch.finder.work/) - Job aggregator collecting vacancies across Switzerland from open sources, with salary statistics. Free for job seekers.
 
 ### Sweden
 
