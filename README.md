@@ -77,6 +77,7 @@ You can also check out the following resources:
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
 - [ATS Job Board Feeds](https://apify.com/wintersworks/ats-job-board-feeds) - Pull every open role from companies' Greenhouse, Lever, Ashby, Workable and SmartRecruiters boards into one CSV, with remote/salary fields and new-posting tracking for scheduled runs.
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resumes, job-fit analysis, text-based interview practice, and application tracking.
+- [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 
 ## AI
 
@@ -103,7 +104,7 @@ You can also check out the following resources:
 - [USASI Jobs](https://unitedstatesofamericasuperintelligence.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
 - [AI Training Board](https://aitrainingboard.com) - About 3,300 work-from-home AI training jobs, each with its hourly rate and the countries that can apply. Rechecked every morning, free.
 - [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
-- [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
+- [Curated AI Jobs](https://job.careers) - Curated AI and machine learning roles across ML engineering, LLMs, research, and MLOps, with US, UK, Europe, and remote listings.
 
 ## Data
 
@@ -214,7 +215,6 @@ You can also check out the following resources:
 
 ## Remote
 
-- [Real Job Work From Home](https://realjobworkfromhome.com/) - Free remote job browsing without an account, with category and employment-type filters, salary information where available, and employer application links.
 - [hiring.lat](https://hiring.lat) - Remote or relocation opportunities for LATAM workers.
 - [Meridian](https://meridianremote.com) - Remote tech jobs matched to your timezone for US, LATAM, and EU professionals; aggregated and deduplicated from top boards and ATS feeds.
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - 100% globally work from anywhere jobs.
