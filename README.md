@@ -13,6 +13,7 @@ A curated list of awesome job boards.
 - [Programming](#programming)
 - [Remote](#remote)
 - [Product](#product)
+- [Sales](#sales)
 - [Freelancer](#freelancer)
 - [Fashion](#fashion)
 - [Care Services](#care-services)
@@ -283,6 +284,10 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
 - [Remote PM Jobs](https://remotepmjobs.com/) - Remote-only product manager jobs pulled directly from company ATSs and verified fully remote, with posted salary data.
 - [ProductManagementJob.com](https://productmanagementjob.com) - Product manager roles from APM to VP level, strongest in India.
+
+## Sales
+
+- [OTE Jobs](https://otejobs.com/) - Tech sales jobs (AE, SDR/BDR, Sales Engineer, VP Sales) with posted base and OTE pay, filterable by remote, hybrid and location.
 
 ## Freelancer
 
