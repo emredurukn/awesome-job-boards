@@ -276,7 +276,8 @@ You can also check out the following resources:
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account.
 - [Low Key Remote](https://lowkeyremote.com) - Low-stress, async remote jobs with no phone calls or video meetings, hand-checked for introverts, people with social anxiety and people with disabilities.
 - [Covesight](https://covesight.com/) - Remote jobs checked every day for country, working hours and language limits.
-
+- [Remote Landers](https://remotelanders.com) - Fully remote jobs from employers' own ATS, salary shown on every listing.
+  
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
 ## Product
