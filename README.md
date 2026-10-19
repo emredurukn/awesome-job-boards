@@ -78,6 +78,7 @@ You can also check out the following resources:
 - [ATS Job Board Feeds](https://apify.com/wintersworks/ats-job-board-feeds) - Pull every open role from companies' Greenhouse, Lever, Ashby, Workable and SmartRecruiters boards into one CSV, with remote/salary fields and new-posting tracking for scheduled runs.
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resumes, job-fit analysis, text-based interview practice, and application tracking.
 - [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
+- [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
 
 ## AI
 
