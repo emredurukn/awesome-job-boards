@@ -295,6 +295,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 ## Sales
 
 - [OTE Jobs](https://otejobs.com/) - Tech sales jobs (AE, SDR/BDR, Sales Engineer, VP Sales) with posted base and OTE pay, filterable by remote, hybrid and location.
+- [PresalesBoard](https://presalesboard.pages.dev/) - Solutions Engineer, Sales Engineer and presales jobs at tech companies, updated daily from company career pages.
 
 ## Freelancer
 
