@@ -60,6 +60,8 @@ A curated list of awesome job boards.
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 
+- [LinkedIn Jobs Scraper](https://apify.com/harshmaur/linkedin-jobs-scraper) - Turn any LinkedIn job search into a JSON or CSV file with salary range, seniority, applicant count and the recruiter who posted each job; AI agents can call it through a hosted MCP server.
+
 You can also check out the following resources:
 
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
