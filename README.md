@@ -75,7 +75,6 @@ You can also check out the following resources:
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
-- [ATS Job Board Feeds](https://apify.com/wintersworks/ats-job-board-feeds) - Pull every open role from companies' Greenhouse, Lever, Ashby, Workable and SmartRecruiters boards into one CSV, with remote/salary fields and new-posting tracking for scheduled runs.
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resumes, job-fit analysis, text-based interview practice, and application tracking.
 - [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 - [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
@@ -476,7 +475,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 - [TaskFavour](https://www.taskfavour.com/) - AI-powered job search and alert platform for freelance, remote, and full-time opportunities.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
-
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 
 ## Entry Level
