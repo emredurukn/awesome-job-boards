@@ -107,6 +107,7 @@ You can also check out the following resources:
 - [Curated AI Jobs](https://job.careers) - Curated AI and machine learning roles across ML engineering, LLMs, research, and MLOps, with US, UK, Europe, and remote listings.
 - [AI Gig Scout](https://aigigscout.com) - Free directory of remote AI training and data annotation gigs from Micro1, Mercor, SME Careers, Sovrano, Ethos, Sannotate and more, updated daily.
 - [AI Work Central](https://aiworkcentral.com) - Free daily list of remote AI training roles (evaluation, coding, language and expert work) from 16 platforms, with listed pay, languages and eligible countries.
+- [Red Pen Jobs](https://redpenjobs.com) - Remote AI training roles sorted into 27 professions (lawyers, doctors, accountants, engineers and more), with the pay each posting states and a free CC BY dataset of pay by profession. Checked every morning, free, no signup.
 
 ## Data
 
