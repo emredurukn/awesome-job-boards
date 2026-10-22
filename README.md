@@ -173,6 +173,7 @@ You can also check out the following resources:
 - [CyberSecurityJobs](https://www.cybersecurityjobs.com/)
 - [InfoSec Jobs](https://infosec-jobs.net) - Security roles across 17 countries, aggregated daily from 40+ sources.
 - [ClearedJobs.Net](https://clearedjobs.net) - US defense and intelligence roles requiring a security clearance.
+- [Blue Team Jobs](https://blueteamjobs.com) - Job board for defensive cybersecurity roles only: SOC analyst, incident response, detection engineering, DFIR and threat hunting.
 
 ## Programming
 
