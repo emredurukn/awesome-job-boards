@@ -519,6 +519,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 - [Kube Careers](https://kube.careers)
 - [DevOps Jobs](https://devopsjobs.com) - DevOps, SRE, cloud and infrastructure roles, mostly US-based.
+- [Jobs Brief](https://jobsbrief.eu) - Biweekly hand-curated senior cloud, DevOps, SRE, AI-infra jobs - remote in EU.
 
 ## Quantum Computing
 
