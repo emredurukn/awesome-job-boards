@@ -477,6 +477,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [TaskFavour](https://www.taskfavour.com/) - AI-powered job search and alert platform for freelance, remote, and full-time opportunities.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
+- [igamingjobs](https://igamingjobs.io/) - iGaming job board: online casino, sportsbook, affiliate, compliance and payments roles at operators and suppliers, remote and on-site, updated daily.
 
 ## Entry Level
 
