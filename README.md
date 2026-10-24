@@ -597,6 +597,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [JobJump](https://jobjump.net/)
 - [DACH Early-Career Jobs](https://github.com/heynish/werkstudent-praktikum-jobs)
 - [Pegel](https://pegel.berlin/jobs) - Free job board for Berlin startups, updated from public company ATS feeds three times a day.
+- [Jobs Without German](https://www.jobswithoutgerman.de/?utm_source=github&utm_medium=promo&utm_campaign=w43-wed) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
 
 ### Netherlands
 
