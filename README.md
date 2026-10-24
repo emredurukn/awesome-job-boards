@@ -479,6 +479,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 - [igamingjobs](https://igamingjobs.io/) - iGaming job board: online casino, sportsbook, affiliate, compliance and payments roles at operators and suppliers, remote and on-site, updated daily.
+- [Get HN Jobs](https://gethnjobs.com/) - Search and filter Hacker News "Who is hiring?" posts by role, stack, remote policy and location, with daily email alerts.
 
 ## Entry Level
 
