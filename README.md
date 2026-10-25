@@ -78,6 +78,7 @@ You can also check out the following resources:
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resumes, job-fit analysis, text-based interview practice, and application tracking.
 - [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 - [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
+- [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) - Open-source AI job application framework built on Claude Code that runs locally to evaluate postings, tailor CVs, write cover letters, and prepare for interviews.
 
 ## AI
 
