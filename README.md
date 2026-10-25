@@ -59,6 +59,7 @@ A curated list of awesome job boards.
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [Fitlane AI](https://fitlaneai.com) - AI-ranked matching for developer and IT jobs, privacy-first candidate profiles, remote-friendly.
 
 You can also check out the following resources:
 
