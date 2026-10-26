@@ -318,6 +318,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Freel](https://freel.ca/) - Freelancing jobs in Canada.
 - [CreatorJobBoard](https://creatorjobboard.com) - Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
 - [SideQuest Board](https://www.sidequestboard.app) - Freelance gigs aggregated from public communities into one clean feed, for developers, designers, writers, and other freelancers.
+- [Only Hiring](https://onlyhiring.hassandev.me/) - Job posts from r/forhire and other hiring subreddits, with self-promotion and spam filtered out and a scam score on each job.
 
 ## Fashion
 
