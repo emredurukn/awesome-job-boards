@@ -103,7 +103,7 @@ You can also check out the following resources:
 - [AITraining.jobs](https://aitraining.jobs) - Every open AI training role (AI trainer, evaluator, data annotation, domain expert) from about 60 platforms, with the hourly pay each states. Updated daily, free.
 - [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and prompt evaluation jobs from 40+ platforms, updated hourly. Free, no signup.
 - [RobotTraining.jobs](https://robottraining.jobs) - Robot teleoperation, demonstration recording, at-home video capture and AV/drone test-operator openings from about 60 robotics and physical-AI employers, read from their own job boards every day and shown with the pay each posts. Free, no signup.
-- [USASI Jobs](https://unitedstatesofamericasuperintelligence.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
+- [USASI Jobs](https://aipeoplewiki.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
 - [AI Training Board](https://aitrainingboard.com) - About 3,300 work-from-home AI training jobs, each with its hourly rate and the countries that can apply. Rechecked every morning, free.
 - [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
 - [Curated AI Jobs](https://job.careers) - Curated AI and machine learning roles across ML engineering, LLMs, research, and MLOps, with US, UK, Europe, and remote listings.
@@ -191,7 +191,6 @@ You can also check out the following resources:
 - [Angular Jobs](https://angularjobs.com/)
 - [Angular Work](https://angular.work/)
 - [Vue.js Jobs](https://vuejobs.com/)
-- [React Job Board](https://www.reactjobboard.com/)
 - [React JS Jobs](https://reactjsjob.com/)
 - [We Work Meteor](https://www.weworkmeteor.com/)
 - [WordPress Jobs](https://jobs.wordpress.net/)
@@ -423,7 +422,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [f6s](https://www.f6s.com/jobs)
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
 - [VirtualVocations](https://www.virtualvocations.com/)
-- [Jobvertise](http://www.jobvertise.com/)
 - [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
 - [KDR Talent Solutions](https://www.kdrtalentsolutions.com/)
 - [Diversify Tech](https://jobs.diversifytech.com/)
@@ -602,7 +600,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [JobJump](https://jobjump.net/)
 - [DACH Early-Career Jobs](https://github.com/heynish/werkstudent-praktikum-jobs)
 - [Pegel](https://pegel.berlin/jobs) - Free job board for Berlin startups, updated from public company ATS feeds three times a day.
-- [Jobs Without German](https://www.jobswithoutgerman.de/?utm_source=github&utm_medium=promo&utm_campaign=w43-wed) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
+- [Jobs Without German](https://www.jobswithoutgerman.de/) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
 
 ### Netherlands
 
