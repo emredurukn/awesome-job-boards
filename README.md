@@ -681,6 +681,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Jobly](https://www.jobly.fi/) - Finland.
 - [Työmarkkinatori](https://tyomarkkinatori.fi/en/personal-customers/vacancies) - Finland, official public employment service.
 - [Work in Finland](https://www.workinfinland.com/en/) - Finland, English-language jobs for international applicants.
+- [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions
 
 ### Malta
 
