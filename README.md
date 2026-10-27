@@ -79,6 +79,7 @@ You can also check out the following resources:
 - [Mock Interview Copilot](https://mic.zapxlabs.com) - Mock interview practice with an AI interviewer that asks questions from your CV and the job description, scores each answer and measures pace and filler words; free trial, or free with your own AI provider keys.
 - [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
 - [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) - Open-source AI job application framework built on Claude Code that runs locally to evaluate postings, tailor CVs, write cover letters, and prepare for interviews.
+- [Company Jobs Feed](https://apify.com/plainrecordlabs/company-jobs-feed) - Open jobs from company career boards on Greenhouse, Lever, Ashby, Workable, Recruitee and Workday, with keyword search and a new jobs only mode. Paid on Apify, 1.50 to 2 USD per 1,000 jobs.
 
 ## AI
 
@@ -546,6 +547,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [USDevJobs](https://usdevjobs.com/) - Real-time job aggregator for software, AI/ML, and data engineer roles at US startups.
 - [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
 - [RemoteWorkUSA](https://www.remoteworkusa.com/) - Remote jobs for US residents, with location and category filters for easy search.
+- [Visa Sponsor Jobs](https://apify.com/plainrecordlabs/visa-sponsor-jobs) - Open US jobs matched to each employer's public H-1B LCA filing record. A past filing does not mean a given role sponsors. Paid on Apify, 3 USD per 1,000 jobs.
 
 ### Australia
 
