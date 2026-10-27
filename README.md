@@ -72,6 +72,7 @@ You can also check out the following resources:
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
+- [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
