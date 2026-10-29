@@ -81,6 +81,7 @@ You can also check out the following resources:
 - [speaking.app](https://speaking.app/behavioral-interview-practice) - AI behavioral interview practice with feedback on answer structure, pacing, and filler words.
 - [Headcount Labs](https://headcountlabs.com) - Job postings API and MCP server with about 8.4 million open jobs from employer career sites, deduplicated; the first 100,000 records each month are free.
 - [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) - Open-source AI job application framework built on Claude Code that runs locally to evaluate postings, tailor CVs, write cover letters, and prepare for interviews.
+- [FindAJobAI](https://findajobai.com) - Jobs read from 15,000+ company career boards (Greenhouse, Lever, Ashby, Workable and others) across the US and Europe, each scored 0-100 against your CV. Free plan and a free autofill Chrome extension.
 
 ## AI
 
