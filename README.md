@@ -604,6 +604,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [DACH Early-Career Jobs](https://github.com/heynish/werkstudent-praktikum-jobs)
 - [Pegel](https://pegel.berlin/jobs) - Free job board for Berlin startups, updated from public company ATS feeds three times a day.
 - [Jobs Without German](https://www.jobswithoutgerman.de/) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
+- [Germany Dev Jobs](https://germanydevjobs.com/) - Tech jobs in Germany and Austria at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
 
 ### Netherlands
 
@@ -637,6 +638,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Just Join IT](https://justjoin.it/)
 - [Jobo](https://jobo.pl/)
 - [SolidJobs](https://solid.jobs/)
+- [Poland Dev Jobs](https://poland-devjobs.com/) - Tech jobs in Poland at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
 
 ### Switzerland
 
@@ -683,6 +685,8 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Työmarkkinatori](https://tyomarkkinatori.fi/en/personal-customers/vacancies) - Finland, official public employment service.
 - [Work in Finland](https://www.workinfinland.com/en/) - Finland, English-language jobs for international applicants.
 - [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions
+- [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
+- [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 
 ### Malta
 
@@ -702,6 +706,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Remote Jobs in Dubai](https://www.remotedxb.com)
 - [JobXDubai](https://jobxdubai.com)
 - [Zero Tax Jobs](https://zerotaxjobs.com/)
+- [Gulf Dev Jobs](https://gulfdevjobs.com/) - Tech jobs in the UAE and the Gulf at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
 
 ### India
 
