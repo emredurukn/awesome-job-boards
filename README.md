@@ -273,7 +273,6 @@ You can also check out the following resources:
 - [Remote1stJobs](https://www.remote1stjobs.com/) - UK, Europe & EMEA remote-first jobs board; filters out US-only and fake-remote roles, direct employer links, salary-visible.
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
 - [Remote Nomad Jobs](https://www.remotenomadjobs.com/) - Fully remote, work-from-anywhere jobs for digital nomads.
-- [WeWorkFromHome](https://weworkfromhome.com) - Remote jobs aggregated daily from company Greenhouse, Lever, and Ashby boards.
 - [RoleSense](https://role-sense.com/) - Surfaces per-job country eligibility and work-style signals (autonomy, pace, meeting load) parsed from the posting text; sourced directly from ATS boards (Greenhouse, Lever, Ashby, Workable, and more).
 - [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions.
 - [Remote Jobs API](https://remote-jobs-api.tten.no) - Free, no-auth REST feed of 300+ deduplicated remote tech jobs aggregated from Remotive, Remote OK, Jobicy, WWR & HN (salary where available).
