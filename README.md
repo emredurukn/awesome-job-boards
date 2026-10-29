@@ -287,6 +287,7 @@ You can also check out the following resources:
 - [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
 - [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, from 2,400+ employer career pages, each scored 0-100 against your resume.
 - [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link to the employer on every listing; no duplicates or stale posts.
+- [Aworkado](https://aworkado.co/) - About 20,000 remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, normalized by job function and location. Free, no account.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
