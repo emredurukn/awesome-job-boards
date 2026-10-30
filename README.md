@@ -128,6 +128,7 @@ You can also check out the following resources:
 - [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
 - [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 - [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages and re-checked daily.
+- [Get Data Engineering Jobs](https://getdataengineeringjobs.com/) - Data engineering jobs from company career pages, job boards and Hacker News, filterable by tech stack, salary, remote policy and visa sponsorship.
 
 ## Blockchain
 
