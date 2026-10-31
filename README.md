@@ -97,6 +97,7 @@ You can also check out the following resources:
 - [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees.
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
+- [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
 - [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
 - [Robot Jobs Board](https://www.robotjobsboard.com) - Robotics and automation roles (AMR, humanoid, drones, ROS) across US, UK, and Europe.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
