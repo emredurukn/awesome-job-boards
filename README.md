@@ -83,6 +83,7 @@ You can also check out the following resources:
 - [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) - Open-source AI job application framework built on Claude Code that runs locally to evaluate postings, tailor CVs, write cover letters, and prepare for interviews.
 - [FindAJobAI](https://findajobai.com) - Jobs read from 15,000+ company career boards (Greenhouse, Lever, Ashby, Workable and others) across the US and Europe, each scored 0-100 against your CV. Free plan and a free autofill Chrome extension.
 - [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Free ATS check against a job description: shows the text the ATS extracts, missing keywords and which requirements your resume proves. No signup.
+- [LAYIQ](https://www.layiq.co) - Candidate-first job search workspace to find, score, and prioritize the roles worth your time, without sponsored listings or selling user data.
 
 ## AI
 
