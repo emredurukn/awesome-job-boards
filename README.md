@@ -53,6 +53,8 @@ A curated list of awesome job boards.
 
 ## General
 
+- [Autojob](https://autojob.org/jobs) - Job board with free browsing and optional paid automatic applications using your resume.
+
 - [LinkedIn](https://www.linkedin.com/)
 - [Indeed](https://www.indeed.com/)
 - [Glassdoor](https://www.glassdoor.com/)
