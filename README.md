@@ -1,6 +1,6 @@
-# Awesome Job Boards [![](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Job Boards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome job boards.
+Websites and tools for discovering career opportunities, freelance gigs, and hiring talent.
 
 ## Contents
 
@@ -86,7 +86,7 @@ A curated list of awesome job boards.
 - [FindAJobAI](https://findajobai.com) - Jobs read from 15,000+ company career boards (Greenhouse, Lever, Ashby, Workable and others) across the US and Europe, each scored 0-100 against your CV. Free plan and a free autofill Chrome extension.
 - [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Free ATS check against a job description: shows the text the ATS extracts, missing keywords and which requirements your resume proves. No signup.
 - [LAYIQ](https://www.layiq.co) - Candidate-first job search workspace to find, score, and prioritize the roles worth your time, without sponsored listings or selling user data.
-- [The Briefed](https://www.thebriefed.co/) - The Briefed lists remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
+- [The Briefed](https://www.thebriefed.co/) - Remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
 
 ## AI
 
@@ -160,8 +160,8 @@ A curated list of awesome job boards.
 - [ChainJobs](https://chainjobs.io/) - Crypto, Web3 and Blockchain roles aggregated daily from companies' official careers pages; every listing links to the employer's own application page.
 - [Maneki](https://maneki.work/) - Web3 jobs from 500+ companies' career pages, refreshed nightly; normalized salary data, remote filters, expired listings removed automatically.
 - [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
-- [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
-- [Jobs Web3](https://jobsweb3.io/) - Crypto, blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
+- [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and Web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
+- [Jobs Web3](https://jobsweb3.io/) - Crypto, Blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
 - [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
 
 ## Design
@@ -696,7 +696,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Jobly](https://www.jobly.fi/) - Finland.
 - [Työmarkkinatori](https://tyomarkkinatori.fi/en/personal-customers/vacancies) - Finland, official public employment service.
 - [Work in Finland](https://www.workinfinland.com/en/) - Finland, English-language jobs for international applicants.
-- [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions
+- [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions.
 - [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 
