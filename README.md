@@ -87,6 +87,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Free ATS check against a job description: shows the text the ATS extracts, missing keywords and which requirements your resume proves. No signup.
 - [LAYIQ](https://www.layiq.co) - Candidate-first job search workspace to find, score, and prioritize the roles worth your time, without sponsored listings or selling user data.
 - [The Briefed](https://www.thebriefed.co/) - Remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
+- [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
 
 ## AI
 
