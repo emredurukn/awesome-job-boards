@@ -87,6 +87,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Hiretop ATS Resume Checker](https://hiretop.com/ats-resume-checker) - Free ATS check against a job description: shows the text the ATS extracts, missing keywords and which requirements your resume proves. No signup.
 - [LAYIQ](https://www.layiq.co) - Candidate-first job search workspace to find, score, and prioritize the roles worth your time, without sponsored listings or selling user data.
 - [The Briefed](https://www.thebriefed.co/) - Remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
+- [Find Similar Jobs](https://github.com/johnisanerd/claude-skill-find-similar-jobs) - Agent skill for Claude Code and other agents: paste one job posting and get about ten similar open jobs, each checked on the employer's own careers board.
 
 ## AI
 
