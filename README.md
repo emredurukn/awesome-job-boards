@@ -669,6 +669,9 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [jobbland.se](https://jobbland.se/lediga-jobb)
 - [jobbsafari.se](https://jobbsafari.se/lediga-jobb)
 - [Finder Sweden](https://se.finder.work/) - Job aggregator collecting vacancies across Sweden from open sources, with salary statistics. Free for job seekers.
+- [Arbetsförmedlingen Platsbanken](https://arbetsformedlingen.se/platsbanken) - Sweden's official national public employment service job portal.
+- [English Jobs Sweden](https://www.englishjobs.se/) - Curated job board for English-speaking and international professionals in Sweden.
+- [Nordic Tech Jobs](https://nordictechjobs.com/) - English-speaking IT and tech jobs across Sweden and the Nordic region, with remote and visa sponsorship filters.
 
 ### Europe Other
 
