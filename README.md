@@ -88,6 +88,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [LAYIQ](https://www.layiq.co) - Candidate-first job search workspace to find, score, and prioritize the roles worth your time, without sponsored listings or selling user data.
 - [The Briefed](https://www.thebriefed.co/) - Remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
 - [Compass OS](https://compass-os.dev/) - Career OS that tailors a resume for each role and flags any claim it can't trace to your profile, scores job matches on fit, runs mock interviews for your role, and fills applications through a Chrome extension that never submits. Free plan.
+- [Prizm](https://heyprizm.com/en?utm_source=github-awesome-job-boards&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Free plan.
 
 ## AI
 
