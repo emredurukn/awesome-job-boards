@@ -656,6 +656,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Jobo](https://jobo.pl/)
 - [SolidJobs](https://solid.jobs/)
 - [Poland Dev Jobs](https://poland-devjobs.com/) - Tech jobs in Poland at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
+- [noexp.it](https://noexp.it/) - IT jobs in Poland that require no prior experience, gathered from many job boards. Free, no account; the site is in Polish.
 
 ### Switzerland
 
