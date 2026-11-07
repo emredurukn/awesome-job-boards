@@ -90,7 +90,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [The Briefed](https://www.thebriefed.co/) - Remote, onsite and hybrid jobs and internships in Pakistan, the US and worldwide, plus a free CV maker and ATS checker.
 - [Compass OS](https://compass-os.dev/) - Career OS that tailors a resume for each role and flags any claim it can't trace to your profile, scores job matches on fit, runs mock interviews for your role, and fills applications through a Chrome extension that never submits. Free plan.
 - [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Open-source job application bot: searches 10 million postings against your resume, you pick, and it fills and sends each application on the company's own form. MIT, runs on your computer.
-- [Cover Me](https://www.cover-me.dev/) - Open-source Chrome extension that tailors your resume and writes a cover letter for the job posting you have open on LinkedIn, Indeed, Greenhouse, Lever, Workday or Ashby, with an ATS match score. Removes any skill your resume doesn't support. Free with your own OpenAI or Claude API key.
+- [Cover Me](https://www.cover-me.dev/) - Chrome extension that tailors your resume and writes a matching cover letter for the job posting you have open on LinkedIn, Indeed, Workday and other job sites, with an ATS match score and the keywords you're missing. Never adds skills you don't have. Free plan.
 
 ## AI
 
