@@ -124,6 +124,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Red Pen Jobs](https://redpenjobs.com) - Remote AI training roles sorted into 27 professions (lawyers, doctors, accountants, engineers and more), with the pay each posting states and a free CC BY dataset of pay by profession. Checked every morning, free, no signup.
 - [AI Expat Jobs](https://aiexpatjobs.com) - About 430 AI, ML and data roles in the UK and the Netherlands, only at employers on the official visa-sponsor registers (UK Home Office and Dutch IND). Read from each employer's own job board every day; postings that say they can't sponsor are left out. Free, no signup.
 - [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
+- [Agentic AI Jobs](https://github.com/jordan-belfort-ai/Agentic-AI-Jobs) - Every role with "agent" or "agentic" in the title (engineering, research, product, solutions) from 18,000+ employers' own career pages, last 30 days, rebuilt daily. Free, no signup; links go to the employer.
 
 ## Data
 
