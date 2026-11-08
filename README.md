@@ -513,6 +513,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [EntryLevel Careers](https://entrylevel.careers/)
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
+- [New Grad and Internships 2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027) - Tech new-grad roles and internships worldwide, read daily from 15,000+ company career pages (Greenhouse, Lever, Ashby, Workday and more), with direct employer links.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
