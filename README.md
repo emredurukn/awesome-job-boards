@@ -601,6 +601,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
 - [UK Visa Jobs](https://www.ukvisajobs.com/)
 - [SponsorJobs](https://sponsorjobs.co/)
+- [UK Visa Sponsor Tech Jobs](https://github.com/jordan-belfort-ai/UK-Visa-Sponsor-Tech-Jobs) - UK software, data and product roles at employers on the Home Office register of licensed sponsors, read daily from their own career pages. Free, no signup; links go to the employer.
 
 ### Germany
 
