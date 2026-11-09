@@ -92,6 +92,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Open-source job application bot: searches 10 million postings against your resume, you pick, and it fills and sends each application on the company's own form. MIT, runs on your computer.
 - [Cover Me](https://www.cover-me.dev/) - Chrome extension that tailors your resume and writes a matching cover letter for the job posting you have open on LinkedIn, Indeed, Workday and other job sites, with an ATS match score and the keywords you're missing. Never adds skills you don't have. Free plan.
 - [Prizm](https://heyprizm.com/en) - Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Free plan.
+- [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
 
 ## AI
 
@@ -128,6 +129,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
 - [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
+- [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
 
 ## Data
 
@@ -733,6 +735,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions.
 - [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
+- [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
 
 ### Malta
 
