@@ -128,6 +128,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [AI Expat Jobs](https://aiexpatjobs.com) - About 430 AI, ML and data roles in the UK and the Netherlands, only at employers on the official visa-sponsor registers (UK Home Office and Dutch IND). Read from each employer's own job board every day; postings that say they can't sponsor are left out. Free, no signup.
 - [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
+- [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
 - [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
 
 ## Data
@@ -144,6 +145,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 - [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages and re-checked daily.
 - [Get Data Engineering Jobs](https://getdataengineeringjobs.com/) - Data engineering jobs from company career pages, job boards and Hacker News, filterable by tech stack, salary, remote policy and visa sponsorship.
+- [GeospatialCareers](https://geospatialcareers.com/) - GIS, remote sensing, and geospatial data jobs in the United States.
 
 ## Blockchain
 
@@ -197,6 +199,8 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [CyberSecurityJobs](https://www.cybersecurityjobs.com/)
 - [InfoSec Jobs](https://infosec-jobs.net) - Security roles across 17 countries, aggregated daily from 40+ sources.
 - [ClearedJobs.Net](https://clearedjobs.net) - US defense and intelligence roles requiring a security clearance.
+- [IdentitySecurityJobs](https://identitysecurityjobs.com/) - Identity and access management, privileged access management, and identity governance jobs in the United States.
+- [IndustrialCyberJobs](https://industrialcyberjobs.com/) - OT and industrial control system security jobs across energy, utilities, and manufacturing.
 
 ## Programming
 
@@ -363,6 +367,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Nightlife Employees](https://nightlifeemployees.com) - Bar, club, and nightlife industry jobs — bartenders, DJs, promoters, and security staff.
 - [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs for line cooks, sous chefs, pastry chefs, FOH, and catering.
 - [JobCroissant](https://jobcroissant.com/) - Jobs for bakers, pastry chefs, cake decorators, and bakery professionals in the United States. Free for job seekers.
+- [PrivateClubCareers](https://privateclubcareers.com/) - Private club management, golf operations, and club dining jobs in the United States.
 
 ## Music & Entertainment
 
@@ -379,6 +384,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fitness Trainer Jobs](https://fitnesstrainerjobs.com) - Personal training, group fitness, and wellness coaching positions at gyms and studios.
 - [Wilderness Staff Jobs](https://wildernessstaffjobs.com) - Outdoor guide, park ranger, camp counselor, and adventure tourism positions.
 - [WildWork](https://wildwork.io) - Ranch hand, fishing and hunting guide, wildland firefighter, deckhand, and seasonal outdoor jobs across the US, with housing and season dates up front.
+- [GymHires](https://gymhires.com/) - Gym management, personal training, and group fitness jobs in the United States.
 
 ## Creative & Gig Work
 
@@ -392,6 +398,13 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [GreenLever](https://greenlever.co/)
 - [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 - [NextGen Energy Jobs](https://www.nextgenenergyjobs.com/) - Power-sector jobs in grid, nuclear and fusion, renewables, storage and data centers, with pay where employers list it.
+- [BiogasJobs](https://biogasjobs.com/) - Biogas, renewable natural gas, and anaerobic digestion jobs.
+- [CarbonCaptureCareers](https://carboncapturecareers.com/) - Carbon capture, carbon removal, and CO2 storage jobs.
+- [DecarbonizationJobs](https://decarbonizationjobs.com/) - Sustainability, carbon accounting, and decarbonization jobs in the United States.
+- [ElectrifyJobs](https://electrifyjobs.com/) - Electrification and EV charging jobs in the United States.
+- [HydroCareers](https://hydrocareers.com/) - Hydropower, pumped storage, and dam engineering jobs.
+- [NuclearHires](https://nuclearhires.com/) - Nuclear power, small modular reactor, and fusion energy jobs in the United States.
+- [SolarHires](https://solarhires.com/) - Solar installation, project development, and engineering jobs in the United States.
 
 ## Impact
 
@@ -507,6 +520,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 - [igamingjobs](https://igamingjobs.io/) - iGaming job board: online casino, sportsbook, affiliate, compliance and payments roles at operators and suppliers, remote and on-site, updated daily.
 - [Get HN Jobs](https://gethnjobs.com/) - Search and filter Hacker News "Who is hiring?" posts by role, stack, remote policy and location, with daily email alerts.
+- [SemiconductorHires](https://semiconductorhires.com/) - Chip design, semiconductor fabrication, and equipment engineering jobs in the United States.
+- [SpaceTechCareers](https://spacetechcareers.com/) - Satellite, launch, and space systems jobs in the United States.
 
 ## Entry Level
 
@@ -519,6 +534,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [EntryLevel Careers](https://entrylevel.careers/)
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
+- [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
@@ -580,6 +596,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Grapevine Jobs](https://www.grapevinejobs.com.au/)
 - [Student Job Board](https://www.studentjobboard.com.au/)
 - [Resource Jobs](https://www.resourcejobs.au/)
+- [SpotJobs](https://spotjobs.com/) - Fly-in fly-out and remote site jobs in Australia, including mining, trades, and camp services.
 
 ### Canada
 
@@ -607,6 +624,9 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [DefiniteJobs](https://definitejobs.co.uk/find-jobs/)
 - [UK Visa Jobs](https://www.ukvisajobs.com/)
 - [SponsorJobs](https://sponsorjobs.co/)
+- [FireSafetyCareers UK](https://firesafetycareers.co.uk/) - Fire risk assessment, fire engineering, and building safety jobs in the UK.
+- [PropCareers](https://propcareers.co.uk/) - Commercial property jobs in the UK, including surveying, asset management, and valuation.
+- [QSCareers](https://qscareers.co.uk/) - Quantity surveying, cost consultancy, and construction commercial management jobs in the UK.
 
 ### Germany
 
