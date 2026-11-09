@@ -713,6 +713,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [eububbleJobs](https://eububblejobs.com) - Jobs in Brussels and EU Institutions.
 - [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
+- [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
 
 ### Malta
 
