@@ -130,6 +130,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
 - [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
 - [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
+- [Remotely AI](https://remotelyaijobs.com) - Remote and hybrid AI jobs open to candidates in Europe, checked every weekday against employer career sites, plus an Early careers section for AI internships and graduate roles.
 
 ## Data
 
