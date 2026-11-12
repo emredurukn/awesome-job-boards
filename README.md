@@ -93,6 +93,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Cover Me](https://www.cover-me.dev/) - Chrome extension that tailors your resume and writes a matching cover letter for the job posting you have open on LinkedIn, Indeed, Workday and other job sites, with an ATS match score and the keywords you're missing. Never adds skills you don't have. Free plan.
 - [Prizm](https://heyprizm.com/en) - Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Free plan.
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
+- [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
 
 ## AI
 
