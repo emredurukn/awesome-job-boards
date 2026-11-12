@@ -60,6 +60,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
 
 ## Job Search Tools
 
