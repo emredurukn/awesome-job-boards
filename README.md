@@ -627,6 +627,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [FireSafetyCareers UK](https://firesafetycareers.co.uk/) - Fire risk assessment, fire engineering, and building safety jobs in the UK.
 - [PropCareers](https://propcareers.co.uk/) - Commercial property jobs in the UK, including surveying, asset management, and valuation.
 - [QSCareers](https://qscareers.co.uk/) - Quantity surveying, cost consultancy, and construction commercial management jobs in the UK.
+- [Outside IR35 Tech Jobs](https://outsideir35.org.uk/) - Tech-based contract roles outside of IR35 legislation.
 
 ### Germany
 
