@@ -74,7 +74,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
-- [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
@@ -96,10 +95,10 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
 - [ProfScout](https://profscout.com/) - Finds professors likely to reply to students asking about research positions, ranked by research fit and recent publishing activity. 3 free professor unlocks, paid plans for full access.
 - [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
+- [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
 
 ## AI
 
-- [caio.pro](https://caio.pro/) - Job board for Chief AI Officer, Head of AI, AI director and related data leadership roles. Free to browse.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
@@ -135,6 +134,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
 - [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
 - [OpenJob](https://openjob.tech/) - About 1,900 remote AI training, language and expert roles from micro1, Turing, Babel Audio, Outlier and more, re-checked daily on each platform's official page, with stated pay, eligible countries and whether English is required. Guides in 11 languages and a monthly pay report by language. Free, no signup, some referral links.
+- [caio.pro](https://caio.pro/) - Job board for Chief AI Officer, Head of AI, AI director and related data leadership roles. Free to browse.
 
 ## Data
 
