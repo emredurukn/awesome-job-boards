@@ -244,6 +244,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
 - [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
 - [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own hiring systems, with the date each was posted.
+- [RoleWeek](https://roleweek.com/) - Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own hiring systems. No account needed.
 
 ## Remote
 
