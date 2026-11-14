@@ -59,6 +59,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
+- [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
 
 ## Job Search Tools
 
@@ -89,6 +90,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Cover Me](https://www.cover-me.dev/) - Chrome extension that tailors your resume and writes a matching cover letter for the job posting you have open on LinkedIn, Indeed, Workday and other job sites, with an ATS match score and the keywords you're missing. Never adds skills you don't have. Free plan.
 - [Prizm](https://heyprizm.com/en) - Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Free plan.
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
+- [FresherHub](https://fresherhub.app) - Job-readiness score for entry-level tech roles in India, built from your resume and public GitHub.
 - [ProfScout](https://profscout.com/) - Finds professors likely to reply to students asking about research positions, ranked by research fit and recent publishing activity. 3 free professor unlocks, paid plans for full access.
 - [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
 - [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
@@ -96,6 +98,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
+- [JobSweep](https://jobsweep.works) - Search engine over 3,500 company career sites on 71 applicant tracking systems; duplicates merged, closed jobs removed, every job links to the employer's own application page. Free, no signup, with an API and MCP server.
 
 ## AI
 
