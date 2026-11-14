@@ -60,6 +60,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [Jobiglo](https://jobiglo.com/) — Global job aggregator with one edition per country (ma.jobiglo.com, ke.jobiglo.com, …), refreshed daily from company career pages and job boards.
 
 ## Job Search Tools
 
