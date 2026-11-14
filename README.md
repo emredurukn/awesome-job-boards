@@ -58,6 +58,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Indeed](https://www.indeed.com/)
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
+- [BuiltIn](https://builtin.com/)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 
@@ -401,8 +402,11 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 ## Climate & Green Tech
 
+- [AgCareers](https://www.agcareers.com/)
 - [ClimateTechList](https://www.climatetechlist.com/) - Climate tech / green energy jobs for software engineers.
 - [Climatebase](https://climatebase.org/) - Access to job openings at thousands of climate tech companies and nonprofits.
+- [BuiltIn:GreenTech](https://builtin.com/companies/type/agriculture-companies/cannabis-companies/greentech-companies/solar-companies/  utilities-companies)
+- [Conservation Job Board](https://www.conservationjobboard.com/)
 - [GreenLever](https://greenlever.co/)
 - [Rejobs](https://rejobs.org/en/) - Renewable Energy Jobs.
 - [NextGen Energy Jobs](https://www.nextgenenergyjobs.com/) - Power-sector jobs in grid, nuclear and fusion, renewables, storage and data centers, with pay where employers list it.
@@ -417,6 +421,9 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 ## Impact
 
 - [Probably Good](https://jobs.probablygood.org/) - Impact-focused job board for promising job opportunities in various cause areas.
+- [AFROTech Careers](https://afrotech.com/careers) - Impact to increase AFROTECH collaboration and tech opportunities within Black Diaspora.
+- [Code for All](https://codeforall.org/ - Global Civic Tech Network to gather insights amongst changemakers. 
+- [Tech For Change] (https://www.techforchange.net/environment). 
 - [Black Tech Pipeline](https://blacktechpipeline.com/) - Increases visibility of tech opportunities for the Black community.
 - [Remote Impact](https://remoteimpact.org/jobs/) - Remote jobs in climate, global health, nonprofits, and other impact areas.
 
@@ -585,6 +592,9 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### USA
 
 - [US Jobs](https://www.usa.jobs/)
+- [USAJobs][https://www.usajobs.gov/]
+- [Code For America](https://codeforamerica.org/)
+- [Results for America](https://results4america.org/careers/) 
 - [Careerjet](https://www.careerjet.com/)
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
