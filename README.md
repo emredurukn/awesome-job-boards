@@ -59,7 +59,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
-- [X jobs](https://x.com/jobs)
 
 ## Job Search Tools
 
@@ -120,7 +119,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [AITraining.jobs](https://aitraining.jobs) - Every open AI training role (AI trainer, evaluator, data annotation, domain expert) from about 60 platforms, with the hourly pay each states. Updated daily, free.
 - [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and prompt evaluation jobs from 40+ platforms, updated hourly. Free, no signup.
 - [RobotTraining.jobs](https://robottraining.jobs) - Robot teleoperation, demonstration recording, at-home video capture and AV/drone test-operator openings from about 60 robotics and physical-AI employers, read from their own job boards every day and shown with the pay each posts. Free, no signup.
-- [USASI Jobs](https://aipeoplewiki.com/jobs/) - About 5,000 current openings at 44 U.S. AI companies, labs, and universities, read from each employer's own Greenhouse or Ashby job board and linking straight to the employer's posting. Free, no signup.
 - [AI Training Board](https://aitrainingboard.com) - About 3,300 work-from-home AI training jobs, each with its hourly rate and the countries that can apply. Rechecked every morning, free.
 - [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
 - [Curated AI Jobs](https://job.careers) - Curated AI and machine learning roles across ML engineering, LLMs, research, and MLOps, with US, UK, Europe, and remote listings.
@@ -222,7 +220,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Angular Jobs](https://angularjobs.com/)
 - [Angular Work](https://angular.work/)
 - [Vue.js Jobs](https://vuejobs.com/)
-- [React JS Jobs](https://reactjsjob.com/)
 - [We Work Meteor](https://www.weworkmeteor.com/)
 - [WordPress Jobs](https://jobs.wordpress.net/)
 - [LaraJobs](https://larajobs.com/)
@@ -455,7 +452,6 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
 - [Totaljobs](https://www.totaljobs.com/)
 - [XING](https://www.xing.com/)
-- [The Guardian Jobs](https://jobs.theguardian.com/jobs/)
 - [Jobs in Network](https://www.jobsinnetwork.com/)
 - [snagajob](https://www.snagajob.com/)
 - [Robert Half](https://www.roberthalf.com/jobs)
@@ -555,7 +551,6 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Startups Gallery](https://startups.gallery/)
 - [devtooljobs](https://devtooljobs.com/) - GTM Jobs at developer tooling companies.
 - [Underdog.io](https://underdog.io/startup-job-board/) - A curated marketplace for high-growth, early-stage startups.
-- [Basin.cv](https://basin.cv/)
 - [EU-Startups Job Board](https://www.eu-startups.com/startup-jobs/) - Jobs at European startups, updated daily.
 - [VCBacked Startup Jobs](https://www.vcbacked.co/startup-jobs) - Jobs at startups that recently raised venture funding.
 - [Hypetrain](https://hypetrain.fyi/) - Jobs at Bay Area AI startups you can reach by train, mapped by each office's walk from Caltrain or BART.
