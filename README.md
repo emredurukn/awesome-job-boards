@@ -68,14 +68,11 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
 - [CVExpert](https://cvexpert.com/) - AI-assisted career coaching, CV tailoring, job tracking, application review, and networking in one workspace.
 - [GetMattered](https://getmattered.com/) - Submits on the employer's own careers page and reports back the status their ATS returns, including failures.
-- [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
 - [Resume Roaster](https://resume.roastlabai.com) - AI resume roast with ATS scoring that grades your resume against a job description and flags missing keywords.
 - [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
-- [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
-- [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
@@ -94,6 +91,13 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Prizm](https://heyprizm.com/en) - Tells you whether a job ad is worth applying to, with your strengths and gaps, then tailors your CV and cover letter to it from your real experience. Free plan.
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
 - [FresherHub](https://fresherhub.app) - Job-readiness score for entry-level tech roles in India, built from your resume and public GitHub.
+- [ProfScout](https://profscout.com/) - Finds professors likely to reply to students asking about research positions, ranked by research fit and recent publishing activity. 3 free professor unlocks, paid plans for full access.
+- [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
+- [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
+- [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
+- [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
+- [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
+- [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
 
 ## AI
 
@@ -106,8 +110,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Specialist AI Work](https://specialistaiwork.com) - Reviewed remote AI evaluation, training, and expert-review roles with pay, eligibility, platform, and last-checked context.
 - [Human Pages](https://humanpages.ai) - The open directory AI agents use to hire humans for real-world tasks. Zero platform fees.
 - [Jobs in AI](https://jobsinai.com) - Marketplace for AI, machine learning, data science, and AI agent roles.
-- [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
-- [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
 - [Robot Jobs Board](https://www.robotjobsboard.com) - Robotics and automation roles (AMR, humanoid, drones, ROS) across US, UK, and Europe.
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
@@ -131,6 +133,10 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
 - [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
 - [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
+- [OpenJob](https://openjob.tech/) - About 1,900 remote AI training, language and expert roles from micro1, Turing, Babel Audio, Outlier and more, re-checked daily on each platform's official page, with stated pay, eligible countries and whether English is required. Guides in 11 languages and a monthly pay report by language. Free, no signup, some referral links.
+- [caio.pro](https://caio.pro/) - Job board for Chief AI Officer, Head of AI, AI director and related data leadership roles. Free to browse.
+- [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
+- [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
 
 ## Data
 
@@ -242,6 +248,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
 - [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
 - [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own hiring systems, with the date each was posted.
+- [RoleWeek](https://roleweek.com/) - Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own hiring systems. No account needed.
 
 ## Remote
 
@@ -251,7 +258,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Career Vault](https://careervault.io/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
 - [We Work Remotely](https://weworkremotely.com/)
-- [RemoteOrNothing](https://remoteornothing.com/) - Source-checked fully remote roles with location eligibility and direct employer application links.
 - [RemoteYeah](https://remoteyeah.com/)
 - [Remotive](https://remotive.com/)
 - [Remoote](https://remoote.app/remote-working) - Remote jobs with country, skill, and experience filters; optional paid subscriptions.
@@ -262,7 +268,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [remote.co](https://remote.co/remote-jobs/)
 - [remote4me.com](https://remote4me.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
-- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
@@ -312,6 +317,8 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Aworkado](https://aworkado.co/) - About 20,000 remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, normalized by job function and location. Free, no account.
 - [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
 - [ApplyRemote](https://applyremote.co/) - Remote job board with worldwide opportunities, an ATS-friendly CV builder, AI cover letters, and application tracking.
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
+- [RemoteOrNothing](https://remoteornothing.com/) - Source-checked fully remote roles with location eligibility and direct employer application links.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -628,6 +635,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [FireSafetyCareers UK](https://firesafetycareers.co.uk/) - Fire risk assessment, fire engineering, and building safety jobs in the UK.
 - [PropCareers](https://propcareers.co.uk/) - Commercial property jobs in the UK, including surveying, asset management, and valuation.
 - [QSCareers](https://qscareers.co.uk/) - Quantity surveying, cost consultancy, and construction commercial management jobs in the UK.
+- [Outside IR35 Tech Jobs](https://outsideir35.org.uk/) - Tech-based contract roles outside of IR35 legislation.
 
 ### Germany
 
