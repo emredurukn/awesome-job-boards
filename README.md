@@ -99,6 +99,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
+- [JobSweep](https://jobsweep.works) - Search engine over 3,500 company career sites on 71 applicant tracking systems; duplicates merged, closed jobs removed, every job links to the employer's own application page. Free, no signup, with an API and MCP server.
 
 ## AI
 
