@@ -63,6 +63,8 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 
 ## Job Search Tools
 
+- [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
+
 - [easy-application](https://github.com/j-delaney/easy-application) - Over 400 software engineering companies that are easy to apply to.
 - [Careerday](https://careerday.com/)
 - [PrepNPlaced](https://www.prepnplaced.com/ats-resume-checker) - Free ATS resume check that scores your resume against a specific job description.
