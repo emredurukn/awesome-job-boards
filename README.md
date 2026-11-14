@@ -99,6 +99,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 
 ## AI
 
+- [caio.pro](https://caio.pro/) - Job board for Chief AI Officer, Head of AI, AI director and related data leadership roles. Free to browse.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
