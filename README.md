@@ -744,6 +744,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 - [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
+- [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
 
 ### Malta
 
