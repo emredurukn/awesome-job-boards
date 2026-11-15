@@ -60,6 +60,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
+- [openradar](https://openradar.fun) - Open feed of vacancies and freelance orders from boards, RSS, Telegram channels and ATS career pages; contacts stay in the post, free API, RSS and MCP, no paid tier.
 
 ## Job Search Tools
 
