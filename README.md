@@ -137,6 +137,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [caio.pro](https://caio.pro/) - Job board for Chief AI Officer, Head of AI, AI director and related data leadership roles. Free to browse.
 - [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
 - [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
+- [MantaWork](https://mantawork.com/ai-training-jobs) - Remote AI training roles (about 1,300, from 13 platforms) with posted pay, jobs at AI companies, and a daily AI Hiring Index (CC BY CSV). 7 languages. No signup. Some links are referral links.
 
 ## Data
 
