@@ -59,7 +59,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
-- [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
 
 ## Job Search Tools
 
@@ -72,7 +71,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Cviya](https://cviya.com) - A fully customizable, watermark-free resume builder featuring native RTL support and multilingual capabilities for global professionals.
 - [JobFit](https://github.com/andrwspt/jobfit) - Free offline resume gap checker — paste your resume + job description, get match score and missing keywords. 100% browser-based, no server, no tracking.
 - [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
-- [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [NextCV CV Checker](https://nextcv.net/en/cv-check) - Free CV checker with no signup: deterministic ATS and structure checks, a 0-100 score and prioritised fixes. Nothing stored.
 - [JobShifu](https://jobshifu.com) - Compares each job's requirements with your experience, helps you add relevant work your resume leaves out, and saves it for the next application. Includes jobs from 10,000+ employer career sites and a free autofill extension.
 - [MoneticAI](https://moneticai.com) - Tailors a resume and cover letter to a specific job posting.
@@ -99,6 +97,11 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
 - [JobSweep](https://jobsweep.works) - Search engine over 3,500 company career sites on 71 applicant tracking systems; duplicates merged, closed jobs removed, every job links to the employer's own application page. Free, no signup, with an API and MCP server.
+- [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
+- [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
+- [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
+- [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
+- [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
 - [Firecrawl Job Postings](https://www.skills.sh/firecrawl/skills/firecrawl-job-postings) - Agent skill for Claude Code, Codex and other AI agents that searches the web for openings matching your role, location and pay, then scrapes each employer posting or applicant tracking page to confirm the role is still open. With the Firecrawl MCP server or CLI, the same agent can also query [Firecrawl Alexandria Jobs](https://alexandria.firecrawl.dev/categories/jobs?utm_source=awesome-job-boards&utm_medium=integration) for postings from Greenhouse, Ashby and Workday career sites and Glassdoor. Needs a Firecrawl API key.
 
 ## AI
@@ -116,7 +119,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Vibehackers Jobs](https://vibehackers.io/jobs) - Job board for vibe coders and AI-assisted development roles.
 - [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with Glassdoor ratings, culture values, and employee reviews for 45+ companies.
 - [Jobtensor](https://jobtensor.com/) - AI, tech, and science job board.
-- [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 - [warpjobs](https://warpjobs.com) - Niche board of GPU/CUDA, ML-systems, inference & performance-engineering roles, scraped daily from AI-lab & infra companies' ATS feeds (Greenhouse/Lever/Ashby); free, open-source, RSS/JSON feeds.
 - [Landed](https://landed.jobs) - Daily matched AI-native roles with fit scores and drafted application answers, plus interview prep. Free tier; also queryable from any editor via a public MCP server.
 - [Level](https://jobsbylevel.com) - Job board that rates every listing from Level 1 to Level 4 by how central AI is to the work, from "AI is not the work" to "AI is the job"; listings pulled from company ATS every 6 hours, with public XML feeds.
@@ -130,7 +132,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [AI Work Central](https://aiworkcentral.com) - Free daily list of remote AI training roles (evaluation, coding, language and expert work) from 16 platforms, with listed pay, languages and eligible countries.
 - [Red Pen Jobs](https://redpenjobs.com) - Remote AI training roles sorted into 27 professions (lawyers, doctors, accountants, engineers and more), with the pay each posting states and a free CC BY dataset of pay by profession. Checked every morning, free, no signup.
 - [AI Expat Jobs](https://aiexpatjobs.com) - About 430 AI, ML and data roles in the UK and the Netherlands, only at employers on the official visa-sponsor registers (UK Home Office and Dutch IND). Read from each employer's own job board every day; postings that say they can't sponsor are left out. Free, no signup.
-- [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
 - [VisionHires](https://visionhires.com/) - Computer vision, machine vision, and perception engineering jobs.
 - [Labeling Jobs](https://labelingjobs.net) - About 1,300 remote AI training, evaluation and data labeling roles from Mercor, micro1, AfterQuery, Turing and more, each with its stated pay and accepted countries, plus monthly pay stats by field (CC BY dataset with a DOI) and interview prep guides. Free, no signup, referral links.
@@ -139,6 +140,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Present of AI](https://presentofai.com/jobs) - 9,600+ open roles at AI companies, with a free public API, MCP server, and XML feed for agents and aggregators.
 - [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
 - [MantaWork](https://mantawork.com/ai-training-jobs) - Remote AI training roles (about 1,300, from 13 platforms) with posted pay, jobs at AI companies, and a daily AI Hiring Index (CC BY CSV). 7 languages. No signup. Some links are referral links.
+- [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 
 ## Data
 
@@ -250,6 +252,8 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [NearMetal](https://nearmetal.dev/) - Systems programming jobs: kernel, compilers, databases, embedded and performance roles, linked to each company's own posting.
 - [Sottava](https://sottava.com/) - Tech jobs read every hour from 1,800 companies' own hiring systems, with the date each was posted.
 - [RoleWeek](https://roleweek.com/) - Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own hiring systems. No account needed.
+- [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
+- [testdevjobs](https://testdevjobs.com/)
 
 ## Remote
 
@@ -269,7 +273,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [remote.co](https://remote.co/remote-jobs/)
 - [remote4me.com](https://remote4me.com/)
 - [Working Nomads](https://www.workingnomads.com/jobs)
-- [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [Remote Python](https://www.remotepython.com/)
 - [Ruby On Remote](https://rubyonremote.com/)
 - [Remote JavaScript Jobs](https://javascript.jobs/remote)
@@ -306,20 +309,20 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions.
 - [Remote Jobs API](https://remote-jobs-api.tten.no) - Free, no-auth REST feed of 300+ deduplicated remote tech jobs aggregated from Remotive, Remote OK, Jobicy, WWR & HN (salary where available).
 - [Jobicy](https://jobicy.com/jobs) - Daily remote job listings with salary information where available, apply without an account.
-- [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
-- [SpinHire](https://spinhire.io/en/) - iGaming job board: casino, sportsbook, game studios and affiliate jobs with salary benchmarks; open API (CC BY 4.0).
 - [Remotejobify](https://remotejobify.app/) - Remote jobs listed by the countries they hire from, each with the line from the post that proves it. Free, no account.
 - [Low Key Remote](https://lowkeyremote.com) - Low-stress, async remote jobs with no phone calls or video meetings, hand-checked for introverts, people with social anxiety and people with disabilities.
 - [Covesight](https://covesight.com/) - Remote jobs checked every day for country, working hours and language limits.
 - [Remote Landers](https://remotelanders.com) - Fully remote jobs from employers' own ATS, salary shown on every listing.
-- [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
 - [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, from 2,400+ employer career pages, each scored 0-100 against your resume.
 - [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link to the employer on every listing; no duplicates or stale posts.
 - [Aworkado](https://aworkado.co/) - About 20,000 remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, normalized by job function and location. Free, no account.
 - [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
 - [ApplyRemote](https://applyremote.co/) - Remote job board with worldwide opportunities, an ATS-friendly CV builder, AI cover letters, and application tracking.
-- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
 - [RemoteOrNothing](https://remoteornothing.com/) - Source-checked fully remote roles with location eligibility and direct employer application links.
+- [VirtualVocations](https://www.virtualvocations.com/)
+- [Jobgether](https://jobgether.com)
+- [Himalayas](https://himalayas.app/jobs)
+- [We Are Distributed](https://wearedistributed.org/jobs)
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -420,6 +423,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Probably Good](https://jobs.probablygood.org/) - Impact-focused job board for promising job opportunities in various cause areas.
 - [Black Tech Pipeline](https://blacktechpipeline.com/) - Increases visibility of tech opportunities for the Black community.
 - [Remote Impact](https://remoteimpact.org/jobs/) - Remote jobs in climate, global health, nonprofits, and other impact areas.
+- [Idealist](https://www.idealist.org/)
+- [Tech Jobs for Good](https://techjobsforgood.com/)
 
 ## Other
 
@@ -433,9 +438,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [SimplyHired](https://www.simplyhired.com/)
 - [CareerBuilder](https://www.careerbuilder.com)
 - [Dice](https://www.dice.com/)
-- [Techstars](https://jobs.techstars.com/jobs)
 - [ZipRecruiter](https://www.ziprecruiter.com/)
-- [Idealist](https://www.idealist.org/)
 - [Aquent](https://aquent.com/find-work/)
 - [HackerX](https://hackerx.org/find-a-job/)
 - [findwork.dev](https://findwork.dev/)
@@ -452,11 +455,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [StackShare](https://stackshare.io/match)
 - [Vanhack](https://vanhack.com/)
 - [PeopleFirstJobs](https://peoplefirstjobs.com/)
-- [Naukri](https://www.naukri.com/)
 - [CSS-Tricks Jobs](https://css-tricks.com/jobs/)
 - [Smashing Magazine](https://www.smashingmagazine.com/jobs/)
-- [Totaljobs](https://www.totaljobs.com/)
-- [XING](https://www.xing.com/)
 - [Jobs in Network](https://www.jobsinnetwork.com/)
 - [snagajob](https://www.snagajob.com/)
 - [Robert Half](https://www.roberthalf.com/jobs)
@@ -464,11 +464,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [BusinessSchoolCareers](https://businessschoolcareers.com/) - Faculty, research, leadership, and administrative jobs at business schools worldwide. Free for job seekers.
 - [Mediabistro](https://www.mediabistro.com/)
 - [Joblist](https://www.joblist.com/)
-- [Workatastartup](https://www.workatastartup.com/jobs)
-- [f6s](https://www.f6s.com/jobs)
 - [Ladders](https://www.theladders.com/jobs/search-jobs)
-- [VirtualVocations](https://www.virtualvocations.com/)
-- [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
 - [KDR Talent Solutions](https://www.kdrtalentsolutions.com/)
 - [Diversify Tech](https://jobs.diversifytech.com/)
 - [Hitmarker](https://hitmarker.net/jobs)
@@ -480,26 +476,19 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [ClearanceJobs](https://www.clearancejobs.com/)
 - [IT Job Pro](https://itjobpro.com/)
 - [CampaignJobs](https://jp.campaignlive.co.uk/jobs)
-- [Tech Jobs for Good](https://techjobsforgood.com/)
 - [Wait, What Do You Do?](https://waitwhatdoyoudo.com/)
 - [Getwork](https://getwork.com/)
 - [Lensa](https://lensa.com/)
-- [arbeitnow](https://www.arbeitnow.com)
 - [4 day week](https://4dayweek.io/)
-- [Jobgether](https://jobgether.com)
-- [Himalayas](https://himalayas.app/jobs)
 - [gamesjobsdirect](https://www.gamesjobsdirect.com/)
-- [jobsdb](https://www.jobsdb.com/)
 - [scholarshipdb](https://scholarshipdb.net/)
 - [OpenQuant](https://openquant.co/) - Finance.
 - [AquariumsHiring](https://aquariumshiring.com) - Nature.
 - [ZoosHiring](https://zooshiring.com) - Nature.
 - [Hidden Jobs](https://hidden-jobs.com/)
 - [HiringCafe](https://hiringcafe.com/)
-- [We Are Distributed](https://wearedistributed.org/jobs)
 - [Jobs by Workable](https://jobs.workable.com/)
 - [Engineering Manager Jobs (EngMgrJobs)](https://engmgrjobs.com)
-- [testdevjobs](https://testdevjobs.com/)
 - [Influencer Marketing Society](https://www.influencermarketingsociety.com/)
 - [Christian Tech Jobs](https://www.christiantechjobs.io/)
 - [StarJobs - Personalised Job Search](https://starjobs.dev)
@@ -524,12 +513,16 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [CrawlJobs](https://crawljobs.com) - Global job board with 550,000+ active listings crawled directly from employers' own career pages instead of other job boards. Covers 200+ countries in 20+ language versions, with filters for location, work mode and salary.
 - [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for sports betting, iGaming and betting-tech careers.
 - [TaskFavour](https://www.taskfavour.com/) - AI-powered job search and alert platform for freelance, remote, and full-time opportunities.
-- [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
-- [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 - [igamingjobs](https://igamingjobs.io/) - iGaming job board: online casino, sportsbook, affiliate, compliance and payments roles at operators and suppliers, remote and on-site, updated daily.
 - [Get HN Jobs](https://gethnjobs.com/) - Search and filter Hacker News "Who is hiring?" posts by role, stack, remote policy and location, with daily email alerts.
 - [SemiconductorHires](https://semiconductorhires.com/) - Chip design, semiconductor fabrication, and equipment engineering jobs in the United States.
 - [SpaceTechCareers](https://spacetechcareers.com/) - Satellite, launch, and space systems jobs in the United States.
+- [SpinHire](https://spinhire.io/en/) - iGaming job board: casino, sportsbook, game studios and affiliate jobs with salary benchmarks; open API (CC BY 4.0).
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters.
+- [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
+- [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
+- [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
+- [openradar](https://openradar.fun) - Open feed of vacancies and freelance orders from boards, RSS, Telegram channels and ATS career pages; contacts stay in the post, free API, RSS and MCP, no paid tier.
 
 ## Entry Level
 
@@ -560,11 +553,15 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [VCBacked Startup Jobs](https://www.vcbacked.co/startup-jobs) - Jobs at startups that recently raised venture funding.
 - [Hypetrain](https://hypetrain.fyi/) - Jobs at Bay Area AI startups you can reach by train, mapped by each office's walk from Caltrain or BART.
 - [DMtheFounder](https://dmthefounder.com/) - Early engineering and founding roles that startup founders post themselves on X and Hacker News, verified and linked to the original post.
+- [Techstars](https://jobs.techstars.com/jobs)
+- [Workatastartup](https://www.workatastartup.com/jobs)
+- [f6s](https://www.f6s.com/jobs)
 
 ## Open Source
 
 - [Free & Open Source Jobs](https://www.fossjobs.net/)
 - [freehire](https://freehire.me/jobs) - Open-source IT job aggregator that normalizes, deduplicates and AI-enriches vacancies from many ATS boards and Telegram channels.
+- [GitJobs](https://gitjobs.dev) - Open source and cloud native roles, run by the Linux Foundation.
 
 You can also check out [open-source-jobs](https://github.com/timqian/open-source-jobs)
 
@@ -591,7 +588,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Chef Jobs Near.Me](https://chefjobsnearme.com/)
 - [Remote Physician Jobs](https://www.remotephysicianjobs.org/) - Remote jobs for physicians and doctors. Live aggregator of 600 companies' job boards, updated daily.
 - [Library Jobs HQ](https://www.libraryjobshq.com/)
-- [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [USDevJobs](https://usdevjobs.com/) - Real-time job aggregator for software, AI/ML, and data engineer roles at US startups.
 - [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
 - [RemoteWorkUSA](https://www.remoteworkusa.com/) - Remote jobs for US residents, with location and category filters for easy search.
@@ -635,6 +631,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [PropCareers](https://propcareers.co.uk/) - Commercial property jobs in the UK, including surveying, asset management, and valuation.
 - [QSCareers](https://qscareers.co.uk/) - Quantity surveying, cost consultancy, and construction commercial management jobs in the UK.
 - [Outside IR35 Tech Jobs](https://outsideir35.org.uk/) - Tech-based contract roles outside of IR35 legislation.
+- [Totaljobs](https://www.totaljobs.com/)
 
 ### Germany
 
@@ -657,6 +654,8 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Pegel](https://pegel.berlin/jobs) - Free job board for Berlin startups, updated from public company ATS feeds three times a day.
 - [Jobs Without German](https://www.jobswithoutgerman.de/) - Jobs in Germany, Austria & Switzerland whose adverts are written in English and don't ask for German. Free for jobseekers; you apply on the employer's own site.
 - [Germany Dev Jobs](https://germanydevjobs.com/) - Tech jobs in Germany and Austria at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
+- [XING](https://www.xing.com/)
+- [arbeitnow](https://www.arbeitnow.com)
 
 ### Netherlands
 
@@ -744,6 +743,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [France Dev Jobs](https://francedevjobs.com/) - Tech jobs in France at companies that work in English, taken directly from employers' own career sites. Free.
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 - [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
+- [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
 
 ### Malta
 
@@ -770,11 +770,13 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [PrepNPlaced Apprenticeships](https://www.prepnplaced.com/apprenticeships) - Hand-checked Indian tech apprenticeship and early-career programmes, including government and PSU schemes.
 - [InternDoor](https://interndoor.com) - Engineering internships in India, filtered to a vetted list of real employers and updated every 30 minutes.
 - [India Tech Jobs](https://github.com/landedjobs/india-tech-jobs) - Open software, AI, data, product, and design roles in India and India-eligible remote, refreshed every 2 days.
+- [Naukri](https://www.naukri.com/)
 
 ### Asia
 
 - [VietnamDevs](https://vietnamdevs.com)
 - [Loker Dollar](https://lokerdollar.com) - Remote jobs paying in USD that accept applicants from Indonesia, in Indonesian and English.
+- [jobsdb](https://www.jobsdb.com/)
 
 ### Latam
 
