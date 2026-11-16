@@ -96,6 +96,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
 - [ResumeInvited](https://resumeinvited.com/) - Browser-based resume builder with professional templates, live preview, and PDF or editable Word downloads. Currently free without sign-up; drafts are saved locally.
 - [CheckATS](https://checkats.app/) - Free resume checker that reports an ATS score, missing keywords, and formatting problems.
+- [ResumeRadar](https://automatethebs.github.io/resume-radar/) - Free, private ATS resume checker that runs in the browser: paste a resume and job description to get a 0–100 match score, missing keywords, parser warnings, and prioritized fixes. No signup or upload; Pro is a one-time $9 report.
 - [JobSweep](https://jobsweep.works) - Search engine over 3,500 company career sites on 71 applicant tracking systems; duplicates merged, closed jobs removed, every job links to the employer's own application page. Free, no signup, with an API and MCP server.
 - [AimVantage](https://aimvantage.uk) - AI-powered interview preparation and job search tool with 20+ free career tools.
 - [NeverApply](https://neverapply.co) - AI job-search agent that matches you to roles, tailors your resume and cover letter for each one, answers screening questions and applies with your approval. Free plan; also usable from Claude, Cursor and other MCP clients.
