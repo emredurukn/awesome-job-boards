@@ -522,6 +522,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
 - [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
 - [openradar](https://openradar.fun) - Open feed of vacancies and freelance orders from boards, RSS, Telegram channels and ATS career pages; contacts stay in the post, free API, RSS and MCP, no paid tier.
+- [SpaceJobs.Now](https://spacejobs.now/) - Jobs and internships at about 200 space companies (launch, satellites, spacecraft, NASA contractors), read daily from their own careers sites, with the pay each posting states.
 
 ## Entry Level
 
