@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Firecrawl Job Postings](https://www.skills.sh/firecrawl/skills/firecrawl-job-postings) - Agent skill for Claude Code, Codex and other AI agents that searches the web for openings matching your role, location and pay, then scrapes each employer posting or applicant tracking page to confirm the role is still open. With the Firecrawl MCP server or CLI, the same agent can also query [Firecrawl Alexandria Jobs](https://alexandria.firecrawl.dev/categories/jobs?utm_source=awesome-job-boards&utm_medium=integration) for postings from Greenhouse, Ashby and Workday career sites and Glassdoor. Needs a Firecrawl API key.
 
 ## AI
 
