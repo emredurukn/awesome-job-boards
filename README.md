@@ -522,6 +522,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [RoleGig](https://rolegig.com/) - Free weekly job lists for technical writing, product, QA, AI and ML, and developer roles, laid out by region, including remote roles that hire across countries.
 - [FindYourCareer](https://findyourcareer.io) - Jobs in all fields read from employers' own hiring pages, showing how long each ad has been online. Paid pass ($9/month) for the full list.
 - [openradar](https://openradar.fun) - Open feed of vacancies and freelance orders from boards, RSS, Telegram channels and ATS career pages; contacts stay in the post, free API, RSS and MCP, no paid tier.
+- [PLC Talent](https://plctalent.com/) - PLC, SCADA, Ignition and OT security jobs, each linking to the employer's own application page.
+- [Rehab Therapy Jobs](https://rehabtherapyjobs.com/) - Physical, occupational and speech therapy jobs in the United States, showing the pay the employer posted.
 
 ## Entry Level
 
