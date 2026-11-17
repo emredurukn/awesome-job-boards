@@ -634,6 +634,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Germany
 
+- [jobkuppler](https://jobkuppler.de/): Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
