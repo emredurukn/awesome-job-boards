@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Funded Drop](https://funded-drop.app) - Job scout for tech roles in the EU, UK and US: checks each new role against where you can work, your level and your salary floor, and shows the ones that pass. Free plan; it never applies for you.
 
 ## AI
 
