@@ -357,6 +357,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [CreatorJobBoard](https://creatorjobboard.com) - Job board for the creator economy, featuring video editing, design, social media, UGC, and growth roles.
 - [SideQuest Board](https://www.sidequestboard.app) - Freelance gigs aggregated from public communities into one clean feed, for developers, designers, writers, and other freelancers.
 - [Only Hiring](https://onlyhiring.hassandev.me/) - Job posts from r/forhire and other hiring subreddits, with self-promotion and spam filtered out and a scam score on each job.
+- [Freelance Club](https://fwork.club/?utm_source=github_jobboards&utm_medium=github&utm_campaign=links1) - Freelance marketplace with USDT escrow: the client funds the order first and the money stays locked until the work is accepted.
 
 ## Fashion
 
