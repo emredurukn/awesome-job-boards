@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Jobs Every Hour](https://jobseveryhour.com/) - Free job search over jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday, iCIMS and more); closed jobs removed, apply on the employer's page. No signup.
 
 ## AI
 
