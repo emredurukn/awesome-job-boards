@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Aethel](https://aethel.pro/practice) - Free AI interview practice for developers, no account. Then a free AI interview of about 15 minutes: every score quotes your own words, and you choose who sees it.
 
 ## AI
 
