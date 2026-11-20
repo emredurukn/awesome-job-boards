@@ -536,6 +536,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
+- [AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027) - AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
