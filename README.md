@@ -102,6 +102,9 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Funded Drop](https://funded-drop.app) - Job scout for tech roles in the EU, UK and US: checks each new role against where you can work, your level and your salary floor, and shows the ones that pass. Free plan; it never applies for you.
+- [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
+- [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
 
 ## AI
 
@@ -182,7 +185,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
 - [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and Web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
 - [Jobs Web3](https://jobsweb3.io/) - Crypto, Blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
-- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
+- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 540+ companies' own career pages. Every candidate and company is reviewed by a person.
 - [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board where clients post jobs, freelancers offer services, and both sides chat directly; payment in crypto or bank transfer, 0% platform commission.
 
 ## Design
@@ -536,6 +539,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
 - [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
+- [AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027) - AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
@@ -635,6 +639,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Germany
 
+- [jobkuppler](https://jobkuppler.de/): Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
@@ -744,6 +749,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 - [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
 - [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
+- [FirstSeen](https://firstseen.eu/?utm_source=github&utm_medium=referral&utm_campaign=awesome-emredurukn) - Tech jobs in the EU, EEA and Switzerland, read from 1,600+ employers' own job boards, with the date each role was first seen.
 
 ### Malta
 
