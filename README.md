@@ -792,4 +792,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+- [LatestJobs](https://latestjobs.ng) - Jobs across Nigeria: graduate trainee, NGO, government and private sector roles, filterable by Lagos, Abuja, remote and closing soon.
+- [RemoteWork](https://remotework.ng) - Remote roles open to candidates in Nigeria, collected from company career pages, with guides on getting paid from abroad.
 - [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
