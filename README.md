@@ -535,6 +535,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
+- [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
