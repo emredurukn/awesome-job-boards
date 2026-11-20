@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Oaki AI](https://www.oaki.io/?utm_source=awesome-job-boards&utm_medium=github) - Finds jobs on company career sites that fit your resume, tailors the resume to each one and prepares the form answers; a free Chrome extension fills the form, or the higher plans apply for you. Paid, from $10 a week.
 
 ## AI
 
