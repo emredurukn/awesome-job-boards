@@ -143,6 +143,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
 - [MantaWork](https://mantawork.com/ai-training-jobs) - Remote AI training roles (about 1,300, from 13 platforms) with posted pay, jobs at AI companies, and a daily AI Hiring Index (CC BY CSV). 7 languages. No signup. Some links are referral links.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
+- [Neural Roles](https://neuralroles.com) - About 20,000 technical AI and ML jobs read from employers' own job boards through the day, plus AI training roles, salary pages by role and place, and a monthly hiring report. English and Spanish. Free, no signup.
 
 ## Data
 
