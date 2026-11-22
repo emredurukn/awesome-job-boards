@@ -245,6 +245,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
+- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
