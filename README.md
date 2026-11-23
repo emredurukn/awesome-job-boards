@@ -90,7 +90,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
 - [FresherHub](https://fresherhub.app) - Job-readiness score for entry-level tech roles in India, built from your resume and public GitHub.
 - [ProfScout](https://profscout.com/) - Finds professors likely to reply to students asking about research positions, ranked by research fit and recent publishing activity. 3 free professor unlocks, paid plans for full access.
-- [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
+- [U Hirable](https://uhirable.com/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
 - [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
 - [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
 - [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
@@ -110,7 +110,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 
 ## AI
 
-- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
@@ -321,7 +320,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Remote Landers](https://remotelanders.com) - Fully remote jobs from employers' own ATS, salary shown on every listing.
 - [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, from 2,400+ employer career pages, each scored 0-100 against your resume.
 - [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link to the employer on every listing; no duplicates or stale posts.
-- [Aworkado](https://aworkado.co/) - About 20,000 remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, normalized by job function and location. Free, no account.
 - [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
 - [ApplyRemote](https://applyremote.co/) - Remote job board with worldwide opportunities, an ATS-friendly CV builder, AI cover letters, and application tracking.
 - [RemoteOrNothing](https://remoteornothing.com/) - Source-checked fully remote roles with location eligibility and direct employer application links.
