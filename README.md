@@ -102,6 +102,10 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- [Jobs Every Hour](https://jobseveryhour.com/) - Free job search over jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday, iCIMS and more); closed jobs removed, apply on the employer's page. No signup.
+- [Funded Drop](https://funded-drop.app) - Job scout for tech roles in the EU, UK and US: checks each new role against where you can work, your level and your salary floor, and shows the ones that pass. Free plan; it never applies for you.
+- [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
+- [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
 - [Firecrawl Job Postings](https://www.skills.sh/firecrawl/skills/firecrawl-job-postings) - Agent skill for Claude Code, Codex and other AI agents that searches the web for openings matching your role, location and pay, then scrapes each employer posting or applicant tracking page to confirm the role is still open. With the Firecrawl MCP server or CLI, the same agent can also query [Firecrawl Alexandria Jobs](https://alexandria.firecrawl.dev/categories/jobs?utm_source=awesome-job-boards&utm_medium=integration) for postings from Greenhouse, Ashby and Workday career sites and Glassdoor. Needs a Firecrawl API key.
 
 ## AI
@@ -129,7 +133,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [aitrainer.work](https://aitrainer.work) - About 4,700 remote AI training and data annotation jobs from 22 platforms, with the pay each listing states, plus pay data by country, language and field. Updated daily, free.
 - [Curated AI Jobs](https://job.careers) - Curated AI and machine learning roles across ML engineering, LLMs, research, and MLOps, with US, UK, Europe, and remote listings.
 - [AI Gig Scout](https://aigigscout.com) - Free directory of remote AI training and data annotation gigs from Micro1, Mercor, SME Careers, Sovrano, Ethos, Sannotate and more, updated daily.
-- [AI Work Central](https://aiworkcentral.com) - Free daily list of remote AI training roles (evaluation, coding, language and expert work) from 16 platforms, with listed pay, languages and eligible countries.
+- [AI Work Central](https://aiworkcentral.com) - Free daily list of remote AI training roles (evaluation, coding, language and expert work) from 22 platforms, with listed pay, languages and eligible countries. Some links are referral links.
 - [Red Pen Jobs](https://redpenjobs.com) - Remote AI training roles sorted into 27 professions (lawyers, doctors, accountants, engineers and more), with the pay each posting states and a free CC BY dataset of pay by profession. Checked every morning, free, no signup.
 - [AI Expat Jobs](https://aiexpatjobs.com) - About 430 AI, ML and data roles in the UK and the Netherlands, only at employers on the official visa-sponsor registers (UK Home Office and Dutch IND). Read from each employer's own job board every day; postings that say they can't sponsor are left out. Free, no signup.
 - [CookLLM](https://cookllm.com/en/jobs/match) - AI job matcher: scores new roles from the career pages of 1,300+ AI companies, plus hiring posts on X and LinkedIn, against your resume and emails the ones at 70% fit or above, daily or weekly. The AI job board is free; matching starts at $9 a week.
@@ -141,6 +145,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [MusedIn](https://musedin.com) - Job network for AI agents: agents apply to open jobs, post jobs and hire each other, with hire and payment records on each profile.
 - [MantaWork](https://mantawork.com/ai-training-jobs) - Remote AI training roles (about 1,300, from 13 platforms) with posted pay, jobs at AI companies, and a daily AI Hiring Index (CC BY CSV). 7 languages. No signup. Some links are referral links.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
+- [Get Paid To Train AI](https://getpaidtotrain.ai) - Find paid AI training work in data labeling, evaluation, and similar roles.
 
 ## Data
 
@@ -183,7 +188,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Blockchain Jobs](https://www.blockchainjobsboard.com/) - The latest Blockchain jobs from Web3, crypto, DeFi, and protocol companies. 
 - [CryptoJobsHQ](https://cryptojobshq.com/) - Crypto and Web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically.
 - [Jobs Web3](https://jobsweb3.io/) - Crypto, Blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
-- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person.
+- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 540+ companies' own career pages. Every candidate and company is reviewed by a person.
 - [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board where clients post jobs, freelancers offer services, and both sides chat directly; payment in crypto or bank transfer, 0% platform commission.
 
 ## Design
@@ -243,6 +248,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
+- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
@@ -323,6 +329,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Jobgether](https://jobgether.com)
 - [Himalayas](https://himalayas.app/jobs)
 - [We Are Distributed](https://wearedistributed.org/jobs)
+- [First Monday](https://firstmonday.ai) - Remote jobs from employers' own job pages, with, for each of 21 countries, whether the job can hire someone living there, quoting the post.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -536,6 +543,8 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
+- [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
+- [AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027) - AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
@@ -635,6 +644,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Germany
 
+- [jobkuppler](https://jobkuppler.de/): Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
@@ -744,6 +754,8 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Spain Dev Jobs](https://spain-devjobs.com/) - Tech jobs in Spain at companies that work in English, taken directly from employers' own career sites. Free.
 - [NewLuxJob](https://newluxjob.com/en/jobs) - Luxembourg and 15 other EU countries, jobs aggregated daily from public sources, in 9 languages.
 - [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
+- [FirstSeen](https://firstseen.eu/?utm_source=github&utm_medium=referral&utm_campaign=awesome-emredurukn) - Tech jobs in the EU, EEA and Switzerland, read from 1,600+ employers' own job boards, with the date each role was first seen.
+- [EuroJobs.ai](https://eurojobs.ai/) - IT jobs across Europe read hourly from 21,000 employers' own career pages. Filters for visa sponsorship, English-speaking teams, salary and remote.
 
 ### Malta
 
@@ -786,4 +798,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+- [LatestJobs](https://latestjobs.ng) - Jobs across Nigeria: graduate trainee, NGO, government and private sector roles, filterable by Lagos, Abuja, remote and closing soon.
+- [RemoteWork](https://remotework.ng) - Remote roles open to candidates in Nigeria, collected from company career pages, with guides on getting paid from abroad.
 - [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
