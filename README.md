@@ -248,7 +248,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
-- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
@@ -260,6 +259,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [RoleWeek](https://roleweek.com/) - Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own hiring systems. No account needed.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [testdevjobs](https://testdevjobs.com/)
+- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 
 ## Remote
 
@@ -644,7 +644,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Germany
 
-- [jobkuppler](https://jobkuppler.de/): Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
@@ -666,6 +665,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Germany Dev Jobs](https://germanydevjobs.com/) - Tech jobs in Germany and Austria at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
 - [XING](https://www.xing.com/)
 - [arbeitnow](https://www.arbeitnow.com)
+- [jobkuppler](https://jobkuppler.de/) - Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 
 ### Netherlands
 
@@ -798,6 +798,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+- [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
 - [LatestJobs](https://latestjobs.ng) - Jobs across Nigeria: graduate trainee, NGO, government and private sector roles, filterable by Lagos, Abuja, remote and closing soon.
 - [RemoteWork](https://remotework.ng) - Remote roles open to candidates in Nigeria, collected from company career pages, with guides on getting paid from abroad.
-- [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
