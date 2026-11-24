@@ -601,6 +601,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [USDevJobs](https://usdevjobs.com/) - Real-time job aggregator for software, AI/ML, and data engineer roles at US startups.
 - [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
 - [RemoteWorkUSA](https://www.remoteworkusa.com/) - Remote jobs for US residents, with location and category filters for easy search.
+- [Pikki Jobs](https://pikki.synthworx.com/h1b-jobs?utm_source=github&utm_campaign=awesome-job-boards) - Compare sponsorship wording on U.S. job postings and search H-1B change-of-employer filings by occupation and state. Free previews and employer search.
 
 ### Australia
 
