@@ -162,6 +162,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages and re-checked daily.
 - [Get Data Engineering Jobs](https://getdataengineeringjobs.com/) - Data engineering jobs from company career pages, job boards and Hacker News, filterable by tech stack, salary, remote policy and visa sponsorship.
 - [GeospatialCareers](https://geospatialcareers.com/) - GIS, remote sensing, and geospatial data jobs in the United States.
+- [Quant Challenges](https://quantchallenges.com/jobs) - 550+ quantitative research, trading, and developer roles parsed directly from 70+ prop trading firms and hedge funds' Greenhouse, Ashby, and Lever ATS boards, with employer-stated USD salary ranges and visa-sponsorship filters. Free, no signup.
 
 ## Blockchain
 
