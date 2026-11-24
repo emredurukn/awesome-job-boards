@@ -156,7 +156,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/)
 - [Data Engineering Jobs](https://dataengjobs.com/)
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs.
-- [Dataaxy](https://dataaxy.com/) - Top Data & AI Jobs in North America at your fingertips.
+- [Dataaxy](https://dataaxy.com/) - Data & AI jobs in North America and Europe, plus public talent profiles.
 - [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 - [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages and re-checked daily.
 - [Get Data Engineering Jobs](https://getdataengineeringjobs.com/) - Data engineering jobs from company career pages, job boards and Hacker News, filterable by tech stack, salary, remote policy and visa sponsorship.
