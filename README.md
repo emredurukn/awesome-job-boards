@@ -330,7 +330,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Jobgether](https://jobgether.com)
 - [Himalayas](https://himalayas.app/jobs)
 - [We Are Distributed](https://wearedistributed.org/jobs)
-- [First Monday](https://firstmonday.ai) - Remote jobs from employers' own job pages, with, for each of 21 countries, whether the job can hire someone living there, quoting the post.
+- [First Monday](https://firstmonday.ai) - Remote jobs from employers' own job pages, with, for each of 23 countries, whether the job can hire someone living there, quoting the post.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
