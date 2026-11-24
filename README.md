@@ -107,6 +107,10 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
 - [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
 - [CVfy](https://cvfy.dev) - Turns a PDF or DOCX resume into a hosted portfolio website you can link from applications, with 50+ themes and an optional custom domain. Free, no branding on your page.
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 
 ## AI
