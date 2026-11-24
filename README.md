@@ -90,7 +90,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, with duplicates removed and real posting dates. AI resume tailoring and a Chrome autofill extension.
 - [FresherHub](https://fresherhub.app) - Job-readiness score for entry-level tech roles in India, built from your resume and public GitHub.
 - [ProfScout](https://profscout.com/) - Finds professors likely to reply to students asking about research positions, ranked by research fit and recent publishing activity. 3 free professor unlocks, paid plans for full access.
-- [U Hirable](https://uhirable.github.io/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
+- [U Hirable](https://uhirable.com/) - Free job search hub: live jobs by country, a search of the official UK visa sponsor register and Canada LMIA employer list, walk-in interview dates and an in-browser ATS CV checker. No sign-up.
 - [Dopplio](https://dopplio.ai) - Freemium ATS resume check and converter that also tailors a resume to a job description, in English and Spanish.
 - [YubHub](https://yubhub.co) - Live jobs read straight from employers' own careers pages, with salary and skills. Free API, RSS, JSON and XML feeds.
 - [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
@@ -106,11 +106,11 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Funded Drop](https://funded-drop.app) - Job scout for tech roles in the EU, UK and US: checks each new role against where you can work, your level and your salary floor, and shows the ones that pass. Free plan; it never applies for you.
 - [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
 - [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
+- [CVfy](https://cvfy.dev) - Turns a PDF or DOCX resume into a hosted portfolio website you can link from applications, with 50+ themes and an optional custom domain. Free, no branding on your page.
 - [Firecrawl Job Postings](https://www.skills.sh/firecrawl/skills/firecrawl-job-postings) - Agent skill for Claude Code, Codex and other AI agents that searches the web for openings matching your role, location and pay, then scrapes each employer posting or applicant tracking page to confirm the role is still open. With the Firecrawl MCP server or CLI, the same agent can also query [Firecrawl Alexandria Jobs](https://alexandria.firecrawl.dev/categories/jobs?utm_source=awesome-job-boards&utm_medium=integration) for postings from Greenhouse, Ashby and Workday career sites and Glassdoor. Needs a Firecrawl API key.
 
 ## AI
 
-- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - The specialized job board for AI/ML developers. 5000+ curated roles with salary data and a REST API for agents.
 - [AI Jobs](https://www.moaijobs.com/) - Find a job at a cutting-edge AI company. Filter by title, location, company, etc.
 - [AI Tech Suite](https://www.aitechsuite.com/jobs) - AI tools and jobs aggregator with over 20k tools and 5k jobs, updated daily.
@@ -248,7 +248,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Scala Jobs](https://scalajobs.com/)
 - [QA Jobs](https://www.qajobs.co/)
 - [androidDev.careers](https://androiddev.careers)
-- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 - [GrepJob](https://grepjob.com/) - SWE jobs scraped directly from high paying tech companies.
 - [Software Tech Jobs](https://softwaretechjobs.com/) - US & Canada Software Jobs.
 - [React Native Jobs](https://reactnative-jobs.com/) - The #1 job board for React Native developers.
@@ -260,6 +259,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [RoleWeek](https://roleweek.com/) - Developer jobs in the US and Canada posted in the last 7 days, read daily from employers' own hiring systems. No account needed.
 - [Foorilla](https://foorilla.com/hiring/) - Tech and coding job listings.
 - [testdevjobs](https://testdevjobs.com/)
+- [Techny](https://techny.dev/) - Tech jobs in Egypt, Saudi Arabia and the UAE, read from company career pages every 3 hours.
 
 ## Remote
 
@@ -321,7 +321,6 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Remote Landers](https://remotelanders.com) - Fully remote jobs from employers' own ATS, salary shown on every listing.
 - [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, from 2,400+ employer career pages, each scored 0-100 against your resume.
 - [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, with exact salaries shown free and a direct apply link to the employer on every listing; no duplicates or stale posts.
-- [Aworkado](https://aworkado.co/) - About 20,000 remote-only jobs aggregated daily from company Greenhouse, Lever, Ashby and SmartRecruiters boards, normalized by job function and location. Free, no account.
 - [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
 - [ApplyRemote](https://applyremote.co/) - Remote job board with worldwide opportunities, an ATS-friendly CV builder, AI cover letters, and application tracking.
 - [RemoteOrNothing](https://remoteornothing.com/) - Source-checked fully remote roles with location eligibility and direct employer application links.
@@ -644,7 +643,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 
 ### Germany
 
-- [jobkuppler](https://jobkuppler.de/): Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 - [Jobsuche](https://www.jobsintown.de/jobsuche/)
 - [StepStone](https://www.stepstone.de/en)
 - [jobvector](https://www.jobvector.de/en/)
@@ -666,6 +664,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Germany Dev Jobs](https://germanydevjobs.com/) - Tech jobs in Germany and Austria at companies that work in English, taken directly from employers' own career sites. Free; notes when an ad mentions visa sponsorship.
 - [XING](https://www.xing.com/)
 - [arbeitnow](https://www.arbeitnow.com)
+- [jobkuppler](https://jobkuppler.de/) - Free job search for Germany with ads taken directly from employers' own career sites, including all DAX, MDAX and SDAX companies. No account needed. Also covers Austria, Switzerland, France and the Netherlands.
 
 ### Netherlands
 
@@ -798,6 +797,6 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 ### Africa
 
 - [Jobberman Nigeria](https://jobberman.com)
+- [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
 - [LatestJobs](https://latestjobs.ng) - Jobs across Nigeria: graduate trainee, NGO, government and private sector roles, filterable by Lagos, Abuja, remote and closing soon.
 - [RemoteWork](https://remotework.ng) - Remote roles open to candidates in Nigeria, collected from company career pages, with guides on getting paid from abroad.
-- [Wadifa Info](https://www.wadifa-info.com/) - Moroccan public-sector jobs (concours), ANAPEC offers and past exam papers, in Arabic and French.
