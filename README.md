@@ -338,6 +338,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [APM Career](https://www.apmcareer.com/) - Curated for entry-level and junior PM positions.
 - [APM List](https://apmlist.com/) - Specialized for Associate PM roles and internships.
+- [apmlist.org](https://apmlist.org/) - Associate PM programs, PM internships and new grad PM roles, refreshed hourly from company career pages, with guides to when each program has opened in past cycles.
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
 - [Remote PM Jobs](https://remotepmjobs.com/) - Remote-only product manager jobs pulled directly from company ATSs and verified fully remote, with posted salary data.
