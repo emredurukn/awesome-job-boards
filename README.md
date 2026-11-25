@@ -546,6 +546,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
 - [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
 - [AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027) - AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
+- [EntryLevelJobs.co](https://entryleveljobs.co/) - Free job board for entry level jobs, internships, and new grad roles across multiple countries, updated daily.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
