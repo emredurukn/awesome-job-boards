@@ -107,6 +107,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
 - [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
 - [CVfy](https://cvfy.dev) - Turns a PDF or DOCX resume into a hosted portfolio website you can link from applications, with 50+ themes and an optional custom domain. Free, no branding on your page.
+- [hh-vacancy-check](https://github.com/basovdanil/hh-vacancy-check) - Checks whether an hh.ru vacancy is still open: reads the employer's deadline from the page's schema.org block instead of the page text, where the archive banner is always present. CLI, browser demo and a CI action.
 
 
 ## AI
