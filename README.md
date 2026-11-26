@@ -191,6 +191,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Jobs Web3](https://jobsweb3.io/) - Crypto, Blockchain and Web3 jobs at 200+ companies, filterable by skill, required language and the countries, regions or time zones each job accepts.
 - [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 540+ companies' own career pages. Every candidate and company is reviewed by a person.
 - [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board where clients post jobs, freelancers offer services, and both sides chat directly; payment in crypto or bank transfer, 0% platform commission.
+- [Dapping](https://dapp.ing/jobs) - Crypto and AI jobs, each linked to the hiring company's page, alongside builder profiles where a company verified on Dapping confirms the roles a person held. Free for builders.
 
 ## Design
 
