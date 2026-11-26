@@ -219,6 +219,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [IdentitySecurityJobs](https://identitysecurityjobs.com/) - Identity and access management, privileged access management, and identity governance jobs in the United States.
 - [IndustrialCyberJobs](https://industrialcyberjobs.com/) - OT and industrial control system security jobs across energy, utilities, and manufacturing.
 - [infosecjobs.io](https://infosecjobs.io) - Cybersecurity and AI jobs pulled from about 1,500 employers' own job boards, with posted pay shown, plus counts of the certifications and skills employers ask for.
+- [TrackACert Job Market](https://trackacert.io/job-market/us) - Search US and UK cybersecurity and IT vacancies by certifications mentioned in the advert, such as Security+, CISSP, and GCIH.
 
 ## Programming
 
