@@ -102,12 +102,13 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
-- [Jobs Every Hour](https://jobseveryhour.com/) - Free job search over jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday, iCIMS and more); closed jobs removed, apply on the employer's page. No signup.
 - [Funded Drop](https://funded-drop.app) - Job scout for tech roles in the EU, UK and US: checks each new role against where you can work, your level and your salary floor, and shows the ones that pass. Free plan; it never applies for you.
 - [Open Career Index](https://open-career-index.printfilestudio.workers.dev/) - Search over 1.26 million open jobs read from over 11,600 company career sites (Greenhouse, Ashby, Lever, SmartRecruiters, Workday); free JSON/CSV API with no signup or API key. The full bulk export is a paid plan.
 - [Culture Fit Check](https://mintraq.com/en/tools/culture-fit) - Compares how you like to work with a company's culture across eight areas, such as pace, candour and hierarchy. Free, no sign-up, nothing saved.
+- [Jobs Every Hour](https://jobseveryhour.com/) - Free job search over jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday, iCIMS and more); closed jobs removed, apply on the employer's page. No signup.
 - [CVfy](https://cvfy.dev) - Turns a PDF or DOCX resume into a hosted portfolio website you can link from applications, with 50+ themes and an optional custom domain. Free, no branding on your page.
-
+- [Career Copilot](https://www.getcareerscore.com/ats-resume-checker) - Free ATS resume checker, no account; shows which ATS a job uses.
+- [ResumeSkip](https://resumeskip.com/ats-parser-test/) - Free ATS parser test that simulates how Workday, Greenhouse, Lever, iCIMS and 8 other systems read a resume, in the browser with no sign-up. Also tailors a resume to a job posting using only your real experience. Free plan.
 
 ## AI
 
@@ -219,6 +220,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [IdentitySecurityJobs](https://identitysecurityjobs.com/) - Identity and access management, privileged access management, and identity governance jobs in the United States.
 - [IndustrialCyberJobs](https://industrialcyberjobs.com/) - OT and industrial control system security jobs across energy, utilities, and manufacturing.
 - [infosecjobs.io](https://infosecjobs.io) - Cybersecurity and AI jobs pulled from about 1,500 employers' own job boards, with posted pay shown, plus counts of the certifications and skills employers ask for.
+- [TrackACert Job Market](https://trackacert.io/job-market/us) - Search US and UK cybersecurity and IT vacancies by certifications mentioned in the advert, such as Security+, CISSP, and GCIH.
 
 ## Programming
 
@@ -331,6 +333,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Himalayas](https://himalayas.app/jobs)
 - [We Are Distributed](https://wearedistributed.org/jobs)
 - [First Monday](https://firstmonday.ai) - Remote jobs from employers' own job pages, with, for each of 23 countries, whether the job can hire someone living there, quoting the post.
+- [Munusly](https://munusly.com) - Remote marketing job board. Every listing shows which countries a candidate can apply from.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
@@ -338,6 +341,7 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 
 - [APM Career](https://www.apmcareer.com/) - Curated for entry-level and junior PM positions.
 - [APM List](https://apmlist.com/) - Specialized for Associate PM roles and internships.
+- [apmlist.org](https://apmlist.org/) - Free list of Associate PM programs, PM internships and new grad PM roles, updated hourly.
 - [Best PM Jobs](https://www.bestpmjobs.com/)
 - [Mind the Product](https://www.mindtheproduct.com/jobs/) - A well-known job board for product managers and designers.
 - [Remote PM Jobs](https://remotepmjobs.com/) - Remote-only product manager jobs pulled directly from company ATSs and verified fully remote, with posted salary data.
@@ -544,9 +548,9 @@ You can also check out [established-remote](https://github.com/yanirs/establishe
 - [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 - [New Grad and Entry Level Tech Jobs](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) - New grad and junior roles in software, AI, data, product, and design, refreshed every 2 days with direct employer links.
 - [Internasia](https://internasia.com/) - English-speaking internships in Asia for students and recent graduates.
-- [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
 - [AI PhD Internships 2027](https://github.com/cookllm/AI-PhD-Internships-2027) - AI and ML research internships that require or prefer a PhD, for Summer 2027 and off-cycle terms. Updated daily from company career pages, with direct apply links.
 - [EntryLevelJobs.co](https://entryleveljobs.co/) - Free job board for entry level jobs, internships, and new grad roles across multiple countries, updated daily.
+- [FirstHire](https://getfirsthire.com/) - Fresher, new grad and internship jobs in India and the US, shown minutes after posting; the feed only has jobs from the last 48 hours.
 
 You can also check out [awesome-internships](https://github.com/lodthe/awesome-internships) and [List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
 
@@ -623,6 +627,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [CanadianNanny.ca](https://canadiannanny.ca/)
 - [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles.
 - [MapleStack](https://maplestack.ca/) - Canadian jobs with AI-powered matching.
+- [MapleRoles](https://www.mapleroles.ca/) - Canadian jobs from employers' own career pages, checked twice a day, with a resume match score.
 
 ### UK
 
@@ -758,6 +763,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
 - [FirstSeen](https://firstseen.eu/) - Tech jobs in the EU, EEA and Switzerland, read from 1,600+ employers' own job boards, with the date each role was first seen.
 - [EuroJobs.ai](https://eurojobs.ai/) - IT jobs across Europe read hourly from 21,000 employers' own career pages. Filters for visa sponsorship, English-speaking teams, salary and remote.
+- [PhD Find](https://www.phdfind.com/en/phd/salaried) - Salaried doctoral vacancies across Europe, with pay and contract details where available and links to the original recruitment notices.
 
 ### Malta
 
@@ -785,6 +791,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [InternDoor](https://interndoor.com) - Engineering internships in India, filtered to a vetted list of real employers and updated every 30 minutes.
 - [India Tech Jobs](https://github.com/landedjobs/india-tech-jobs) - Open software, AI, data, product, and design roles in India and India-eligible remote, refreshed every 2 days.
 - [Naukri](https://www.naukri.com/)
+- [IDE Jobs](https://idejobs.com) - Job search for software engineers in India: engineering roles only, searchable by role, city, experience, workplace and level, refreshed every morning.
 
 ### Asia
 
