@@ -761,6 +761,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [wirklich remote](https://wirklichremote.at/) - Remote and hybrid jobs in Austria, in German. Each listing shows how many office days it needs and where its salary figure comes from (stated by the employer, collective agreement or Statistik Austria). Free, no account.
 - [FirstSeen](https://firstseen.eu/) - Tech jobs in the EU, EEA and Switzerland, read from 1,600+ employers' own job boards, with the date each role was first seen.
 - [EuroJobs.ai](https://eurojobs.ai/) - IT jobs across Europe read hourly from 21,000 employers' own career pages. Filters for visa sponsorship, English-speaking teams, salary and remote.
+- [PhD Find](https://www.phdfind.com/en/phd/salaried) - Salaried doctoral vacancies across Europe, with pay and contract details where available and links to the original recruitment notices.
 
 ### Malta
 
