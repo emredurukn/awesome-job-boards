@@ -332,6 +332,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [Himalayas](https://himalayas.app/jobs)
 - [We Are Distributed](https://wearedistributed.org/jobs)
 - [First Monday](https://firstmonday.ai) - Remote jobs from employers' own job pages, with, for each of 23 countries, whether the job can hire someone living there, quoting the post.
+- [Remote Roles](https://remoteroles.so/) - Remote-only jobs in every field from 5,600+ companies, updated daily.
   
 You can also check out [established-remote](https://github.com/yanirs/established-remote) for a list of established remote jobs.
 
