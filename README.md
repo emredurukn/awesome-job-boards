@@ -797,6 +797,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [VietnamDevs](https://vietnamdevs.com)
 - [Loker Dollar](https://lokerdollar.com) - Remote jobs paying in USD that accept applicants from Indonesia, in Indonesian and English.
 - [jobsdb](https://www.jobsdb.com/)
+- [Lokr](https://lokr.id) - Indonesian job openings read daily from employers' own career sites, with CV matching; in Indonesian.
 
 ### Latam
 
