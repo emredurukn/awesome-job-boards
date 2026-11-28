@@ -109,6 +109,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [CVfy](https://cvfy.dev) - Turns a PDF or DOCX resume into a hosted portfolio website you can link from applications, with 50+ themes and an optional custom domain. Free, no branding on your page.
 - [Career Copilot](https://www.getcareerscore.com/ats-resume-checker) - Free ATS resume checker, no account; shows which ATS a job uses.
 - [ResumeSkip](https://resumeskip.com/ats-parser-test/) - Free ATS parser test that simulates how Workday, Greenhouse, Lever, iCIMS and 8 other systems read a resume, in the browser with no sign-up. Also tailors a resume to a job posting using only your real experience. Free plan.
+- [Prepin](https://prepin.ai/ai-mock-interview/) - Free voice mock interviews with an AI interviewer and 3,000+ interview questions with sample answers.
 
 ## AI
 
