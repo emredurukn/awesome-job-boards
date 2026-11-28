@@ -570,6 +570,7 @@ You can also check out [awesome-internships](https://github.com/lodthe/awesome-i
 - [Techstars](https://jobs.techstars.com/jobs)
 - [Workatastartup](https://www.workatastartup.com/jobs)
 - [f6s](https://www.f6s.com/jobs)
+- [Sara's List](https://thesaraslist.com/) - Jobs at private companies valued $250M to $20B, each valuation with its source.
 
 ## Open Source
 
