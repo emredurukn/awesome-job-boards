@@ -147,6 +147,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [MantaWork](https://mantawork.com/ai-training-jobs) - Remote AI training roles (about 1,300, from 13 platforms) with posted pay, jobs at AI companies, and a daily AI Hiring Index (CC BY CSV). 7 languages. No signup. Some links are referral links.
 - [Robotic Jobs](https://roboticjobs.ai/) - Robotics vacancies across software, AI, hardware, autonomous vehicles, and automation, with links to employer application pages.
 - [Get Paid To Train AI](https://getpaidtotrain.ai) - Find paid AI training work in data labeling, evaluation, and similar roles.
+- [The Bot Faculty](https://www.thebotfaculty.com) - Remote AI training and evaluation jobs with the pay and accepted countries each posting states, and a check of which roles fit your country and credentials.
 
 ## Data
 
